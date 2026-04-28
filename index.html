@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FishLifes Blog</title>
+<style>
+body {font-family: Arial; margin:0; background:#eef6f9;}
+header {background:#0077b6; color:#fff; padding:20px; text-align:center;}
+nav {background:#023e8a; padding:10px; text-align:center;}
+nav a {color:#fff; margin:0 15px; text-decoration:none;}
+section {padding:40px;}
+.slider {position:relative; max-width:800px; margin:auto;}
+.slide {display:none;}
+.slide img {width:100%; border-radius:10px;}
+.active {display:block;}
+.card {background:#fff; padding:15px; margin:15px 0; border-radius:10px; box-shadow:0 2px 5px rgba(0,0,0,0.1);} 
+footer {background:#222; color:#fff; text-align:center; padding:20px;}
+#adminPanel {display:none; background:#fff; padding:20px; margin:20px; border-radius:10px;}
+button {padding:10px; cursor:pointer;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>FishLifes</h1>
+<p>Explore the Life of Fish & Latest Industry News</p>
+</header>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#features">Features</a>
+<a href="#blog">Blog</a>
+<a href="#contact">Contact</a>
+<a href="#admin">Admin</a>
+</nav>
+
+<section id="home">
+<h2>Welcome to FishLifes</h2>
+<p>This platform combines educational fish content with real-time global fishery and aquaculture news updates.</p>
+
+<div class="slider">
+<div class="slide active"><img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e"><p>Ocean Fish - Live in saltwater ecosystems.</p></div>
+<div class="slide"><img src="https://images.unsplash.com/photo-1524704654690-b56c05c78a00"><p>Freshwater Fish - Found in rivers and lakes.</p></div>
+<div class="slide"><img src="https://images.unsplash.com/photo-1516117172878-fd2c41f4a759"><p>Tropical Fish - Bright and colorful species.</p></div>
+</div>
+</section>
+
+<section id="features">
+<h2>Features</h2>
+<div class="card">🐟 Fish species explanations</div>
+<div class="card">🌊 Habitat and ecosystems</div>
+<div class="card">📸 Fish gallery</div>
+<div class="card">📰 Auto-updated fish news</div>
+</section>
+
+<section id="blog">
+<h2>Latest Fish News (Auto + Manual)</h2>
+<div id="updates"></div>
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: kcrajendra@gmail.com</p>
+</section>
+
+<section id="admin">
+<h2>Admin Login</h2>
+<input type="password" id="password" placeholder="Enter password">
+<button onclick="login()">Login</button>
+
+<div id="adminPanel">
+<h3>Post Manual Update</h3>
+<input type="text" id="title" placeholder="Title"><br>
+<input type="text" id="image" placeholder="Image URL"><br>
+<textarea id="text" placeholder="Content"></textarea><br>
+<button onclick="publish()">Publish</button>
+</div>
+</section>
+
+<footer>
+<p>© 2026 FishLifes | All Rights Reserved</p>
+</footer>
+
+<script>
+// Slider
+let slides = document.querySelectorAll('.slide');
+let index = 0;
+setInterval(() => {
+  slides[index].classList.remove('active');
+  index = (index + 1) % slides.length;
+  slides[index].classList.add('active');
+}, 3000);
+
+// Load JSON news + manual posts
+async function loadUpdates() {
+  const container = document.getElementById('updates');
+  container.innerHTML = '';
+
+  // Load auto news
+  try {
+    const res = await fetch('fish_news.json');
+    const data = await res.json();
+
+    data.slice(0, 20).forEach(article => {
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.innerHTML = `
+        <h3>${article.title}</h3>
+        <p>${article.summary}</p>
+        <a href="${article.link}" target="_blank">Read full article</a>
+      `;
+      container.appendChild(div);
+    });
+  } catch (e) {
+    console.log('No JSON news found');
+  }
+
+  // Load manual posts
+  const updates = JSON.parse(localStorage.getItem('updates')) || [];
+  updates.reverse().forEach(u => {
+    const div = document.createElement('div');
+    div.className = 'card';
+    div.innerHTML = `<h3>${u.title}</h3><img src="${u.image}" width="100%"><p>${u.text}</p>`;
+    container.appendChild(div);
+  });
+}
+
+// Admin
+const ADMIN_PASSWORD = "admin123";
+
+function login() {
+  const pass = document.getElementById('password').value;
+  if (pass === ADMIN_PASSWORD) {
+    document.getElementById('adminPanel').style.display = 'block';
+  } else {
+    alert('Wrong password');
+  }
+}
+
+function publish() {
+  const title = document.getElementById('title').value;
+  const text = document.getElementById('text').value;
+  const image = document.getElementById('image').value;
+
+  if (!title || !text || !image) return alert('Fill all fields');
+
+  const updates = JSON.parse(localStorage.getItem('updates')) || [];
+  updates.push({title, text, image});
+  localStorage.setItem('updates', JSON.stringify(updates));
+
+  alert('Published!');
+  loadUpdates();
+}
+
+loadUpdates();
+</script>
+
+</body>
+</html>
