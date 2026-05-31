@@ -105,14 +105,14 @@
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qQkNYMHpGc19iU0ZLdkxuVHNrWHUwUTFwX3JHYXJoQ1R0SHNJVE9lYVlqQVJwWVJCT1g5aGM4Yl9sMmdDSVpDT09mUWZ4bjhGejRhdEx4Ujl2NkRRNFR1Z2R4LWY?oc=5"
     },
     {
-        "title": "News - BioMar successfully completes IPO - Fish Farmer",
-        "summary": "News - BioMar successfully completes IPO Fish Farmer",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhMEl1ZWpuQlNtSjlRX2dhTFI0VHJfUzBNQmVzTWlFYnVoMjlvU1JkNXp1akxpS0RxWF9jV2M0YnNnZmVtWTM4ZzE2YzB1Z3FEaTdUYjhwb2lMSEZlQWc0Z1FIQXBVQnkydmhmNXhVZzBjOXNZa3hQaVk4X1ZxQQ?oc=5"
-    },
-    {
         "title": "How Michigan’s Inland Fish Farmers Cultivate a Sustainable Future for the Great Lakes - Great Lakes Now",
         "summary": "How Michigan’s Inland Fish Farmers Cultivate a Sustainable Future for the Great Lakes Great Lakes Now",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZFZiZU9RcUU1UnpDR0ZjVzlpNkQyVU9VMTQ5SnlJcjNHT0p4TGRMWWxZRkNqNWtvZlo5Q2JQOEM5SG5DZjktS0NQLTFMNkpfRkZuODUzV01VQWp3LVl2eG5iNThEYkUxbE1qSnBid1lWLUFGdER5SUYwcTRWajlWZlloMDBDMlNEemZ6cXlIMmw2VzV6eXBaZmJKbTlHVDVZZk1BLWFiSWFVY3daZS1LN1NlLWktazAzS3g0S0VWMjVGNWVz?oc=5"
+    },
+    {
+        "title": "News - BioMar successfully completes IPO - Fish Farmer",
+        "summary": "News - BioMar successfully completes IPO Fish Farmer",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhMEl1ZWpuQlNtSjlRX2dhTFI0VHJfUzBNQmVzTWlFYnVoMjlvU1JkNXp1akxpS0RxWF9jV2M0YnNnZmVtWTM4ZzE2YzB1Z3FEaTdUYjhwb2lMSEZlQWc0Z1FIQXBVQnkydmhmNXhVZzBjOXNZa3hQaVk4X1ZxQQ?oc=5"
     },
     {
         "title": "Industrial Fish Farms Could Break U.S. Fisheries - Progressive.org",
@@ -140,11 +140,6 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWtraWZyeGNvLXJERGtDelpSLWVDaDJMMjVxWVRzVW8taGtEYk5mNGhVeVJHeTNqQ1l0ZzQyNkRMS0tPV193SWxDczFmWGNOX09HRXUwRDJ2cGhObDRtUnZTc3lDM3l4MjVxbFBaYmltSjlwWVVQRGRJb0dxd3BqemZMbEhkRENMZzZQUnV4a3c5UEtrbXRiMg?oc=5"
     },
     {
-        "title": "More than 100 tonnes of fish die in Tri An Lake - DTiNews",
-        "summary": "More than 100 tonnes of fish die in Tri An Lake DTiNews",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWxZbnJzazBmSWh0cWdkMzNNVjR3Sl9EZ2loMGZueW11ZWlFOGZWM3drZWxtNy1sUWRqbUM5X3JXMjBleURsb3dGME91QXVBZkdaVG5tZzQxcFVEUWRDc1FHbU1XZVN5SmNiRzFRXzRLRVNtcUIwaGVTRkp1eEhVWWJCYjNUR3ZNeW93dks1U3pUSVZFZWhNbngzNm9fd1d0VlJLTjVNRXY1M25OZWRSVHZzQQ?oc=5"
-    },
-    {
         "title": "Michigan fish farmers chart sustainable future for Great Lakes - Bridge Michigan",
         "summary": "Michigan fish farmers chart sustainable future for Great Lakes Bridge Michigan",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZFpCNHZPRmdLNUdVeXJFS1l4RnhYdklJQmRJZm5PTTQwLW9sUGVOTElwZXdPZ1NpTGliREtQeF9pQnFMSFR4aWc2Y2w2d0oyNVFSekhjYkRuSkJhRlpWbTI1VUZ5NTBvQ0ZjM1hRc3BnT0pmR3dySTdZekNFWEU3Q0NnX2ZlNTFGZVdDZjAwblR6dGp6Q3lCOWMzQWxDaXJnakZOdDJpX05rWldNSXRZbA?oc=5"
@@ -165,6 +160,11 @@
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLW10NWNCTWJwNTZHbGtwcGRMS290TVduLUNQNUhoX0g3bkxnMk00ZGx4Y0oxRVkwMFF2Mmh2bWtvcGlSTTlsWTdxM0ktd0R5NXdlcTVfdXB1NUJkb21WeWlBTGswUUJsTERXS0Nwa3FIRjFOcl9HY0xEY1VKcWw3V0ludGkwaVJvUUFGVkt4cw?oc=5"
     },
     {
+        "title": "More than 100 tonnes of fish die in Tri An Lake - DTiNews",
+        "summary": "More than 100 tonnes of fish die in Tri An Lake DTiNews",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWxZbnJzazBmSWh0cWdkMzNNVjR3Sl9EZ2loMGZueW11ZWlFOGZWM3drZWxtNy1sUWRqbUM5X3JXMjBleURsb3dGME91QXVBZkdaVG5tZzQxcFVEUWRDc1FHbU1XZVN5SmNiRzFRXzRLRVNtcUIwaGVTRkp1eEhVWWJCYjNUR3ZNeW93dks1U3pUSVZFZWhNbngzNm9fd1d0VlJLTjVNRXY1M25OZWRSVHZzQQ?oc=5"
+    },
+    {
         "title": "Florida’s first offshore fish farms are coming. Are they floating hazards? - Miami Herald",
         "summary": "Florida’s first offshore fish farms are coming. Are they floating hazards? Miami Herald",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16VjNIMEhaWTJ1R2Z3c2tDUDBvakVlZldPRXA4VElWemlxTlVLLUJrR1FTTW1WaXgzWERaa0FHcVdxMzBBTmJrSVlBcHY0TEVqbm1tMnRvYnE2em8yVGFncElQeTJOMDRUVnZsMkZRWkxJa1FCanhoakhLQznSAXxBVV95cUxQV09UaVV5clFZZ0FQa01TYS1YTTlLamZWYktVQWJRc0NmaVpjU3Z4YXdlSVlDZnlSYzhaVFpCTzVYTkJBc0FBR2k0Nl85ZW1kXy13OVJZR2J2VGxHUlN4NG1oSFlJVVl5eDlXOEFIWENwNnplUnd1ZnlYOGUx?oc=5"
@@ -180,19 +180,19 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdExGNDd2REVKYU8xLUMtOXRjTHZCVjl2aFNjRVJ4R19aeHNUeWxKY2VyZ3RjU0toOXNzSC05YjBsVUlxSkZTZzdMalhhMmtUQ1otYWpTN0cwMUQzRG0tdTdpMGFWd2h0TUlkdmdfNThKc1VDX0ZwalJiSk1uNVZITnJONlBPaHhLUTlTcFRWQTMxU0NKNFJVUUdkUElzTVFCeWgwMDg3NTB5WHg2dzloTUhZN2VJeEFoenc?oc=5"
     },
     {
-        "title": "Seaweed: Land and sea - Fish Farmer",
-        "summary": "Seaweed: Land and sea Fish Farmer",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamticjhlUE9qTE5reWY2VzNoSWtjWDI5ZEhlSVJIdHFpeHYwc2JqVDFZeHVTUk5reVdJSzU3QWphUVkwQVcxUC1hcFUtNlU5ODQ3X2ZpNVk1NlZIZURZRHZqVjVuaTFWYjVVNUFnajdlTkNncnhZRW5pRWFkYTRkTTJxWmcxdw?oc=5"
-    },
-    {
         "title": "Digital leap for Georgian aquaculture: integrating fish farming into national traceability systems - Food and Agriculture Organization",
         "summary": "Digital leap for Georgian aquaculture: integrating fish farming into national traceability systems Food and Agriculture Organization",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ2dXdkhIMzhiMGhHUTVidkpfMzFNTXFYQzZzZ0ZBR0VOV3ZWR05YdE5GR0lyRmptSHJsRms3ZW9zZ2dPT2tMbmJpV3BuS3dEUFFqWGY0NGtzM2VZMnJoZVA1N2hvM19GZmkxZ1V1RGRYZkNGU25MeEl4Z3V1djdlc2otUjlLU2FBR3hTOFZPVWtrV21zSG9aNGl5YnVBQXBTU0lxaFg4bmhRaVZBcE82QTNmYXBqWlA0U3B2aDZzYXRDeFI3N1J4Mi1MRm9jX2dSR1ViNEk5cTB0Ui1uc1VaMG12bTNJVVFEdkE?oc=5"
     },
     {
-        "title": "Solar‑powered vertical fish farms thrive in Kenya - dw.com",
-        "summary": "Solar‑powered vertical fish farms thrive in Kenya dw.com",
+        "title": "Solar‑powered vertical fish farms thrive in Kenya - DW.com",
+        "summary": "Solar‑powered vertical fish farms thrive in Kenya DW.com",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2tCcC1RN1Y0WjNJLTBjOHNoNjMzaVRIRTFvQWxtazktd05SelpkcDR2U2pvVlhtZVpwZGN6WVMtVms5VmJrOUNvMk5GT1lubExIZHBPTHhnaTFSUDU0dlBqamZGcFNXNmNGS3pXUTVWRkJkekt6cVBmdjRnOFVlN2RXQ0lxR1dUOFZad2xn?oc=5"
+    },
+    {
+        "title": "Seaweed: Land and sea - Fish Farmer",
+        "summary": "Seaweed: Land and sea Fish Farmer",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQamticjhlUE9qTE5reWY2VzNoSWtjWDI5ZEhlSVJIdHFpeHYwc2JqVDFZeHVTUk5reVdJSzU3QWphUVkwQVcxUC1hcFUtNlU5ODQ3X2ZpNVk1NlZIZURZRHZqVjVuaTFWYjVVNUFnajdlTkNncnhZRW5pRWFkYTRkTTJxWmcxdw?oc=5"
     },
     {
         "title": "B.C. sport fishers brace for reconciliation-based salmon policy changes - Business in Vancouver",
@@ -210,8 +210,8 @@
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9xVjV3RFdJUWl2VWNld293bUhTWjRxQkxYTUZrTnlOaXBxTFZRNmRWMFdaMi1ReGJmN2JoSnYtekFrazA5M0NvMEpwbmtvTmFVTVEtTWNaaEVQdlRL?oc=5"
     },
     {
-        "title": "‘Abandoned fish farms everywhere’: Greek island grapples with debris polluting the Ionian Sea - Euronews",
-        "summary": "‘Abandoned fish farms everywhere’: Greek island grapples with debris polluting the Ionian Sea Euronews",
+        "title": "‘Abandoned fish farms everywhere’: Greek island grapples with debris polluting the Ionian Sea - Euronews.com",
+        "summary": "‘Abandoned fish farms everywhere’: Greek island grapples with debris polluting the Ionian Sea Euronews.com",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQUpJcjZUZVduMnJqS0xhN1BHcmlUaER1dkdlczctV1E3YklSUDNuczdJTzJoWDl3eHJJR1Y2YVBSOTBBQ1d4dlNMX25ST2l6X1MwS080NE1fTjNjNTNDaDdRLXE1akI4cmM2ajJvUjVpRjJuc3ZycHhWb0FKMXNKZTk1bHpKaEdCQnJtYy1CWThMQml5NjBRTnlnSTJRclFHbDBvN2s2UzlZTWZZa3I4Snpjd2FKeVltM2tFc2lMUDNSYzJq?oc=5"
     },
     {
@@ -230,11 +230,6 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjJjeW50R1gxcS1mYVRiRVN1R28zRVBWUWFQR2xMNzhIVHFWZGRpeGFvWFFtQjJ2N3FhVTBMUjhTN0thZlZDVnEwMkFndDVlbG9lS3JTY2JPYlRlQ1JEbWhDYTFyWnk0RmJCV0V6QXk5X3c2emczY3VGcnhTeTdqM0VlWHktZ1RPZHQ5M1ZVcU42cjJ1eGFEVGpzVkNnWlN6?oc=5"
     },
     {
-        "title": "Features - Cleaner fish: a role in question - Fish Farmer",
-        "summary": "Features - Cleaner fish: a role in question Fish Farmer",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUTlrNnVIcFlURmo2T2xHei1XTGY4cEYxUHgtN2VFVU5TamNIQ0hqZ1BuUDltTlZLMW1aZ2ZFeHRnLVdTQjloT1I5YlkyX1luTkF6bG5lUU16cDQyN2RLQUJFX3RGY2FiOUZlY3dVVWxBUFl4a0VEVzZYRkxINUs2ag?oc=5"
-    },
-    {
         "title": "News - Norway salmon prices hit year low - Fish Farmer",
         "summary": "News - Norway salmon prices hit year low Fish Farmer",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90ckowR3I2NXJHZS1PcXl4SmJTUWU0NU9qd0hSaTluMmNzb0U2VGtJSTZINlpWczQ1X1FCSVNTeHpFdmktam9ITTBrSlNTdlVfRFRHR1FmS2t0TC1XV082d2tSUmpaNWlhcE1iRklMZ3JKVldJVUVXWjBBS1RoZw?oc=5"
@@ -243,11 +238,6 @@
         "title": "Why are China’s coastal fish farms disappearing while India’s are expanding? - South China Morning Post",
         "summary": "Why are China’s coastal fish farms disappearing while India’s are expanding? South China Morning Post",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRC1NQlI4YldVSFR2NXpRemRlOGdDOTZuY1RGbEpxdUFMNk92XzdFSkxqS3lJLVpOUHIwLUpkRGdKeWVJanB2bW1BR0RTa00zSkRCTVg4MDJzaDhmdTVRUXNZNGF1WDNCZVY5cFFwX25UbWVmcHRrTWk3Qmdnc0JScVN5emhITnNTSmpSVEkzSEhSak9Ock9nb0RlU0lHeW1UYzRZczNxbUFBamZidDl4a1NOR2N2cjdtWjc5S1Rwek1YTEtMZ3lNV9IByAFBVV95cUxQS3lydVQ1ODhTY2p2Zm84SUpCRHV4WDJIeGlZRWppRmFoUmxNQkZnLWVIZnZ1YUpTbDE0TkdSMzgyN09hRFRtZUpNVnU5b240blRmdjBtV0gzY2hsSkp5dGQ2U0c3QWsySWxNdGJiTUhIN084VjdGRTBIa3EtdWZUeC1rRHl2RkdQWEJlQXZITEdlMUE4bXljX3NmaFJVWVZ1b0hXb3ZNeVdIR3k1Ukw2RUhwM2NtTGZVbjVFM2tWd1dZYldEdGM5Yg?oc=5"
-    },
-    {
-        "title": "Cage Fight - WUFT",
-        "summary": "Cage Fight WUFT",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10T0dNX0I5Z2FBS1dGRW93cXFtSHJVS09CQTFMY2ZlRjJvenRVcDVOUnRVaWRxQ0hPeHUySWVFVkRwY3h1Zmkyb2k0TlBLSXEwM0FvQlF5ZnNxOWluY2VpYXNUaUpHZw?oc=5"
     },
     {
         "title": "New Documentary Exposes the Dark Side of Fish Farming - People.com",
@@ -305,8 +295,8 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zanRSVGc3WmlQdWFERjkyQnNuUm5tcEhZeGhROEprQlFlQ2s0WjVIUFIxRmVkaXZ4Q09qV1Fqa2Y4UVBQUWlYRXc5dzJ5WV8yOWVqb3c5bkd0MWtKX2VN?oc=5"
     },
     {
-        "title": "Agric. & Environment: Fish farming push gains ground in Buso - NewVision.co.ug",
-        "summary": "Agric. & Environment: Fish farming push gains ground in Buso NewVision.co.ug",
+        "title": "Agric. & Environment: Fish farming push gains ground in Buso - newvision.co.ug",
+        "summary": "Agric. & Environment: Fish farming push gains ground in Buso newvision.co.ug",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdW5VS1l6ZFpPTi1pb09yYUlOalFFWlhxMXltdWJUMFVaRC1jNHVHd2pYd0J0YzFFQi1Pa0QwTjk5V2ZjSlRwUHpSd21xVjQ4dllNNTZJUEttSDVZLV8yOXZvNDcwX1pZUE9OX01OWGNRbFdjUGxmelg0TVdxQTFFM1dkZEd6c183YlZZVV9hbjZ6a0pjbmRsdktnTFluSVRtbGVmMjE0elpjZw?oc=5"
     },
     {
@@ -390,14 +380,14 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnh2bTFadFk1TjhJbUtINW1ZMXJhWERJNWNKekFhc1hsZGxldmlyWEFTaEZxb3VhZUJNSDliWThIUVZNUU1nLVpMSFRkMTVyQlhqWmZyd0tOS3ltWmRNVW9sSm4zY19YVW1TRHdzNjJaQWxrRTFnOFJ5VW8xb2xPSzRFY3phZDBIUEZoeGcxeXF2QzlnY3dQVXhMQm5uSGZOSTBPME0wQW1jdFJEYXpSX1RQZVhTS0otZEFzeHRrX1NnUzZ4REJwazdTVlRnQdIBzgFBVV95cUxOTDJzMXo0b1k4UDhfYW9oYjZPbGVfc05yMUVOeTRzMEpSc1RzbHFoYU9VQlVLOHpsaVExLUxwMmU1aHhjdTJkbXVtMUR1bnJQdHlERmNFdzhnbXZXdlYyYTg2REFoanpNUnJBclpVaGxTZDF4SEZyMDhwUWlBdVNxYTVBMnFiUWQ4aHFRZ0QyTVROWU1RNkZlaVJvdzJKSTFLTDVRYlk2a0FSUTNZLWpSMnduX2FqQXlvd0xlSml2SzQxaTltV25KYzl5bzd4QQ?oc=5"
     },
     {
-        "title": "New evidence-based briefs champion IoT fish farming, agricultural drones, and urgent groundwater governance in Malaysia, the Philippines, and Vietnam - journal.com.ph",
-        "summary": "New evidence-based briefs champion IoT fish farming, agricultural drones, and urgent groundwater governance in Malaysia, the Philippines, and Vietnam journal.com.ph",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb3lJZFBIeW9fYVJ4aU9RMkJyUkJscUhTTDViZnNJdFBtMFJLYUV3cTFhSDNrRFBUS3RGWlJOeVFFWXp6R1NOU1dxbVdiNWttRGlrMkFpMi1TVlNXUVJ6SDRCbkExN3VKaDBIRVdmbnNrYkFvX21PQksyOW01UlVha0pZOEFmQlFKS0NjbUFwbGhTc0ZTWm51eHh3WWc5M3htT3NBQ2JDRzladEo5aFBfUmVPS25MRDFIbVMzMERXSDNwUENidnRWcm0wMTNtOTdRT0NaZmJtOGNDYWhOWjdteV9VMTNjT3dfYnJVZ3VPMHFGeWdrR2NWbmFtMEhZUQ?oc=5"
-    },
-    {
         "title": "Carney government should scrap plan to kill fish farming in Canada - Fraser Institute",
         "summary": "Carney government should scrap plan to kill fish farming in Canada Fraser Institute",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZGpFeXBHZnFOMGV3RDh1N18zMWJiMHdtalpOcXhYbUJoQl9YdHd4V1ltWTNyV202RHdzX3BuaGtjLXpiSXBKUWEzUkgxWmRwX2FvY2NIaV9yM2llZklqNUtOb2hmcFcyYkJYclpfWEdfVmhkWXFKRndpUDFYQlYxaWlLdGlJYUNYZzRrdTlFemtlOGNOaGZJVnVXU29SMjZDeWZ1NGpn?oc=5"
+    },
+    {
+        "title": "New evidence-based briefs champion IoT fish farming, agricultural drones, and urgent groundwater governance in Malaysia, the Philippines, and Vietnam - journal.com.ph",
+        "summary": "New evidence-based briefs champion IoT fish farming, agricultural drones, and urgent groundwater governance in Malaysia, the Philippines, and Vietnam journal.com.ph",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb3lJZFBIeW9fYVJ4aU9RMkJyUkJscUhTTDViZnNJdFBtMFJLYUV3cTFhSDNrRFBUS3RGWlJOeVFFWXp6R1NOU1dxbVdiNWttRGlrMkFpMi1TVlNXUVJ6SDRCbkExN3VKaDBIRVdmbnNrYkFvX21PQksyOW01UlVha0pZOEFmQlFKS0NjbUFwbGhTc0ZTWm51eHh3WWc5M3htT3NBQ2JDRzladEo5aFBfUmVPS25MRDFIbVMzMERXSDNwUENidnRWcm0wMTNtOTdRT0NaZmJtOGNDYWhOWjdteV9VMTNjT3dfYnJVZ3VPMHFGeWdrR2NWbmFtMEhZUQ?oc=5"
     },
     {
         "title": "Southwest fish farm fights the currents - Virginia Business",
@@ -485,8 +475,8 @@
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWQ3NS1fRVpuYk1vcm9vd1Z4dXhyVUppMWFWdktuOVUyUEhIeWw4VWlaSVNuSU1oSktmZ2xhQVpBTEd0YkxFTWR1VHZBUUZlMW5HQUUzX1JBX3lqNXJHUmZZOWkySlBCcXZWcEgzTUpoMHJ1WC1uaDZVREgtMjBTLU9oVlgxSzFCdDF2eXVaXzN3YWJpZ2ZZbFZ6dENoRUlvTUkwMEktU1NONmVoVHdQd1c2SlhaeFgyY2Y1RjR1X1B1UFN6VkE?oc=5"
     },
     {
-        "title": "Agric. & Environment: Museveni's fish farming drive praised - NewVision.co.ug",
-        "summary": "Agric. & Environment: Museveni's fish farming drive praised NewVision.co.ug",
+        "title": "Agric. & Environment: Museveni's fish farming drive praised - newvision.co.ug",
+        "summary": "Agric. & Environment: Museveni's fish farming drive praised newvision.co.ug",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOVpZR3g5TzNhUWlQMThla3hTbnNRUEtkMEpadGJ5ZDlVaFpCdlBIbjBXbEZNeDBPRVFtRXdIczgxZGZCdzJWSTVYeWVCUWo1VWtCRTd4Q1FjeW5aZmYxSXljRkxuc19WR0RjeFhZY3pkdVdiWGxrTUgwZXFGdXJ1V0ljMmRFdHZGZ2NWczV4NTRDemRjWWwwcWFreU0xQkxPSlc2c0NKaGJtMndxVmJZ?oc=5"
     },
     {
@@ -498,6 +488,16 @@
         "title": "Could Florida be the next frontier for offshore fish farming? - Gulf Coast News and Weather",
         "summary": "Could Florida be the next frontier for offshore fish farming? Gulf Coast News and Weather",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1dqVTRYcHdtekxvT1FNbEpQWWdiSmVTQzJQU3pJdXRyUWxuRDNiN25uRlFPbW5DZncxcTBRZEQxeTQxNGJEWDNfNk9NWUZBNldpUW04Szg0cmhMVzRzTWJfN01BcFFYa0h5RnowS1JkUTNSaFhxd0lXcTlaTXFWOEptZ2tCdw?oc=5"
+    },
+    {
+        "title": "Sunshine Coast fish farm appears to be abandoned, environmental group says - Global News",
+        "summary": "Sunshine Coast fish farm appears to be abandoned, environmental group says Global News",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUzdYMnRMcV9nY2hVRlJzNWRob0hSeXdQRU90M0UwUmhhdUxoeld5RFNmZGwwX3AtZWdGVWZ6UUdzeUhNdHhBQW9BcVF2X3V4anlEU2lURzVhUnlRREw1dWJPYy1jOGVNYl9DamRFZXR5V1VKLXc4Zi1oY3FjSGdRS25PejJ2eTB4R0N0TGV2OW5YcE5iV0E?oc=5"
+    },
+    {
+        "title": "Nigeria’s fish farmers reel from 8-year-old export ban - Business News Nigeria",
+        "summary": "Nigeria’s fish farmers reel from 8-year-old export ban Business News Nigeria",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRDBQeFJtcXdZTmc3U3FPTm1HSHRwLUl1cUNaN053cHNoZnFTSGNCaHNKQzRJSVVBb0ctU2FqWERoM2N6T1RRY1ViT0RpZlR5c0FqQkQ5bEdKRnRwcjJwTDc2WTYwWHJ2VW1NdmhiR1BfSU41a3Qwc0toRkVpRUZZQU5OQ0JVTERZWjZKWWJvZHg0MU0?oc=5"
     },
     {
         "title": "Alaska seafood industry valued at $5.3 billion - National Fisherman",
@@ -530,9 +530,9 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUElPVl85Y0xoeDljdzlHWk5MQzhOaWFMdG5EVXlKdU5VbGsyWVhzejBic3FxM0dKa0tyMU1oekN5QU5fZl8xSTY1S3M4ZmxaYlEyZ1J1Q0JpYk5JZVJ4S3B0R0s1YUw2cTUyZEpFSXNfX3pvZThRRS1mcDdMRnlVbFc4YVVrbWliWWViWDRmLTBUN1BDQ3R0Q216OWsydXByU2FUUXNnZThUX3h5TF9qSkp3?oc=5"
     },
     {
-        "title": "Digital traceability push impeded by seafood industry fragmentation, panel advises - Undercurrent News",
-        "summary": "Digital traceability push impeded by seafood industry fragmentation, panel advises Undercurrent News",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNanhTY1lOX19IV1JqQ0FNQnlrWi1RaWJlUzhxU3lycGY5c3N5UjNDR3U1V1ZDclh0QzRKRU85LUMwdTUzSm5JMktGVGtlcWhWcUUtLXZZU3VtMk5uaEF6bnpzTnE2OGlfU1JWTjJPbnV3VjlTZXM3ckRvdzdBUTNHVFk1ckZQTmZ3UjBwRDh6ZXd3UGh3dDNNZ3JVUHV5YkIyaF9FS2R3NWhoOHRnLTlKUEhn?oc=5"
+        "title": "Letter: Don’t let division undermine America’s seafood industry - intrafish.com",
+        "summary": "Letter: Don’t let division undermine America’s seafood industry intrafish.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXhyb3RsN004UzFOOUhvckFOQUVVdllMd3JZeHc0SGtaU0VBSmhEeUVKeTZLckdPSktIYXRpUGNJNFFVbkg0Q2dMQmk4MEdUMEZXczRhMkZpbC1iSHg5TlJ3Yl9mU2RKSHBtbmpaNFFUcFlsRmt4emd3WHhVZDlmNmNIYkxhWmhtcjJpcHNKem5CZ3pWeXQyaUFJc1FnaGJjaXJwV3laZ3hoRzJJ?oc=5"
     },
     {
         "title": "New ASMI study finds Alaska’s seafood sector impacts 7 percent of state’s GDP - SeafoodSource",
@@ -540,9 +540,9 @@
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEQ2RHZWVVZCeWJFWGx6N2pFXzhqWGVmTG05Q1AwbHV4d3Z5Z3A5a2dUd0F0N1FXRG9LZ2R6UFg3OGNjUWkzVHQyNzFRLTRBU1NweXk0MFZpc0VrekdrMFAxYnZ0UHlaQ3lLTWZITkprdTlvLTBtMklQUnNUMF9hWDczeWYtMzYydUNvcTlMenlmY04tU3daZ3VTTnBMRW5BOXNRZlp6Y1RSZjd2TTRwOUJSTHFQRG5Fem00NHVyZUFPR3ZFUV82aQ?oc=5"
     },
     {
-        "title": "Letter: Don’t let division undermine America’s seafood industry - intrafish.com",
-        "summary": "Letter: Don’t let division undermine America’s seafood industry intrafish.com",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXhyb3RsN004UzFOOUhvckFOQUVVdllMd3JZeHc0SGtaU0VBSmhEeUVKeTZLckdPSktIYXRpUGNJNFFVbkg0Q2dMQmk4MEdUMEZXczRhMkZpbC1iSHg5TlJ3Yl9mU2RKSHBtbmpaNFFUcFlsRmt4emd3WHhVZDlmNmNIYkxhWmhtcjJpcHNKem5CZ3pWeXQyaUFJc1FnaGJjaXJwV3laZ3hoRzJJ?oc=5"
+        "title": "Digital traceability push impeded by seafood industry fragmentation, panel advises - Undercurrent News",
+        "summary": "Digital traceability push impeded by seafood industry fragmentation, panel advises Undercurrent News",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNanhTY1lOX19IV1JqQ0FNQnlrWi1RaWJlUzhxU3lycGY5c3N5UjNDR3U1V1ZDclh0QzRKRU85LUMwdTUzSm5JMktGVGtlcWhWcUUtLXZZU3VtMk5uaEF6bnpzTnE2OGlfU1JWTjJPbnV3VjlTZXM3ckRvdzdBUTNHVFk1ckZQTmZ3UjBwRDh6ZXd3UGh3dDNNZ3JVUHV5YkIyaF9FS2R3NWhoOHRnLTlKUEhn?oc=5"
     },
     {
         "title": "Oregon students get a taste of our seafood industry: 'A true connection to who we are' - KGW",
@@ -550,14 +550,19 @@
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZmhwVlpaTG5jNjRza1hDeGlhN0tseDNyLUFLYzAzZ3hvZ1UyU3Z3VGVQLTVwN3pEM19RemNkT3FIVVFsaUNMQ2tqZnJDMVdCYWoxeW8zY25YYTBxUjA4UWJ3Uy1MdWlLd1lFMTZJaXhLbDZKR0Q5dGpDRmZwdTJHdGI2d3loSW82UFRYaUNOXzdNNkJkQV9WSkVNSEhrd2pSUkxlSWl1OVVIRVpqYU9NdFkxMHpwS3NWbGRyeUVXc25OekZ3N29wQ2taTGRnNHo1V2NhVE9WbVZIczhpTmlDWA?oc=5"
     },
     {
+        "title": "BREAKING: NOAA lifts crab import bans from key countries following Eastern Shore seafood industry pushback - WBOC TV",
+        "summary": "BREAKING: NOAA lifts crab import bans from key countries following Eastern Shore seafood industry pushback WBOC TV",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTlhCWjhxeWFUdV9LbGhKRmUtN0tYZEUwMDAxTF9aZUdTZzVXRmJEQU5KeTBjVnN0ZUNXYlBnSHVFMVQ4elBBbkVKUkwtcnFMSXBJOTZPRmNqZ0d1NkxRRlFyMHZTOHNjSEhjQ3VGelZZdXhmZXZ1enMtZ0MzVi1yYXhaOWZLNFlaUVoyMkNxcWZqTm9salZsbGZUV1lhLXJXSl9fd1o1a3paaFE4cUpwdktEUkNUZmpUeHBTSllVWF92MU0wNlkyMEdhWE9VSWZleDU5UTh3MUl2WEhIX0dvRHd1SC1aNmZ0a1ZmcnlibGw5NGxNakl3d3BqcUN1d3ZDbWtUSE12Zi1PZ25FdVE?oc=5"
+    },
+    {
         "title": "Alaska’s seafood industry employs 41K workers, accounts for 7% of state GDP - Juneau Independent",
         "summary": "Alaska’s seafood industry employs 41K workers, accounts for 7% of state GDP Juneau Independent",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXN3dHJfaEk0eU1fdFpZTmFRWU5GWUN3Rlk5MUR3eVhOa1U2VUhBWEs5SFRBbGItOXMzV1g4bkExVkpkZFE5Y2NSOV9ldllqZk4ycm9KYk1BSnJzZ3RBbHJ5VHp5SEdqcWNKRFFwdDRDcnVnNlJXZjI3bl8wUHRDd19YVnVGT0ZyWS1BbXNxMVFoQlpFcFQxaWw2SEtJbnptb21xYjFlTVEwNFg3VlZkQjVn?oc=5"
     },
     {
-        "title": "BREAKING: NOAA lifts crab import bans from key countries following Eastern Shore seafood industry pushback - WBOC TV",
-        "summary": "BREAKING: NOAA lifts crab import bans from key countries following Eastern Shore seafood industry pushback WBOC TV",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTlhCWjhxeWFUdV9LbGhKRmUtN0tYZEUwMDAxTF9aZUdTZzVXRmJEQU5KeTBjVnN0ZUNXYlBnSHVFMVQ4elBBbkVKUkwtcnFMSXBJOTZPRmNqZ0d1NkxRRlFyMHZTOHNjSEhjQ3VGelZZdXhmZXZ1enMtZ0MzVi1yYXhaOWZLNFlaUVoyMkNxcWZqTm9salZsbGZUV1lhLXJXSl9fd1o1a3paaFE4cUpwdktEUkNUZmpUeHBTSllVWF92MU0wNlkyMEdhWE9VSWZleDU5UTh3MUl2WEhIX0dvRHd1SC1aNmZ0a1ZmcnlibGw5NGxNakl3d3BqcUN1d3ZDbWtUSE12Zi1PZ25FdVE?oc=5"
+        "title": "How Thailand is Reforming the Seafood Industry to Prevent Exploitation - United Nations Sustainable Development Group",
+        "summary": "How Thailand is Reforming the Seafood Industry to Prevent Exploitation United Nations Sustainable Development Group",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzE5UnJnMzNJVVNmeVRuOXZzSEd5LWowRmtTZjVQVHZOQzc3cW11VW9kRHYzcU95blk1RjRSYTRRMzdkVS1iOTRNWGxlcWNWSlUzUmN3MFNWRGhrd2RRZlBhQzQtajU3bkZGTy1JX2NXZWtjeUdIaHMxT2NqSWRSUDJHRGwzMlozRW9LRWpZWjRaY1NmUkdBWGVPaGY?oc=5"
     },
     {
         "title": "Grand Haven charter captains raise concerns over bills loosening commercial fishing rules - FOX 17 West Michigan News",
@@ -565,24 +570,19 @@
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSjV3dUJ3UFJuT2ZuR0NhRmo3UE5mZ3Nlbm45UDJuYlVwUlB4NUZIbGdMRG9EazJLMVB5UFJ5N2cwV05XUWpNOURGSi05d2xJN1Y5dWlKSVV1VUw2MjZPdE52YlkwLUJXcW5EbzNqcnI3ak9OVm82NXBOTmQ5eGJSbUxhQktKcDM5cnpBRkx6eUdzT1FhMlFVQUZ4RmVDYzhZOFl6Um5ibm52VlFxU2VTZ3kwSWk0TkxQRzVIekhDaUVPWEItS0JCQ28tdUV4eXdSVGVUdGZDVXhod1VPdkdlVzNnNlJfMDlTSkRDZndXVEEzcmZjMlNuYWpYUQ?oc=5"
     },
     {
-        "title": "Global Seafood Alliance Unveils Expanded Program for This Year's Responsible Seafood Summit in Bangkok - PR Newswire Asia",
-        "summary": "Global Seafood Alliance Unveils Expanded Program for This Year's Responsible Seafood Summit in Bangkok PR Newswire Asia",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM25zN3RmZVB0eG5UUVR4cUZrUEJBeU1wR1FJWmVoOHpTVmJFajBxY3JiSlJvSWktaXlfR0xXZUFocnVzc05iZ1hEdDR0MjB5VktRUS1zTXo4Tjh6bVA3b19RT1k3SEhRYTZfU09LZ0JJYVpJVXVfMlRSc3g5TlZEQWFIbjM2eDRYUndrZEFFT1NLSWxiSUFiRmQ5VXZsUXFnVWxVWE0wc2NKR1JwREFYSUM4UjNwQ2JBV1F4UHkxYkxuUnZZRTdHdU5iWU1nMkNZSndVNnlDbGQ0Vnh0Q3pzeDNqSWhKazQ?oc=5"
+        "title": "Some tariffs may be gone, but wholesale seafood industry is still reeling - marketplace.org",
+        "summary": "Some tariffs may be gone, but wholesale seafood industry is still reeling marketplace.org",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXc5TmtQUFV4VmJhQ0c3ZFdDS0RpWmVJTjBZMGNJdWU4QkxHOFBRWmlibW5zVWUyNDdBSkt0OEEtbW5VSExWMV9pS1VFV0RnV0dWb3BQM2gtWURzWmN3cFlmWXdGVHNzLWlNODZ4VlJNeXFVX0RKT2pmYzduaEE2Q3I4VVBNRktOTDJJVE5xTWhnV1B1V0ZzMkVUaG91eWZJM3dEOEpOOA?oc=5"
     },
     {
-        "title": "UK Seafood Trade Value Surpasses £6 Billion in 2025 - The Fishing Daily",
-        "summary": "UK Seafood Trade Value Surpasses £6 Billion in 2025 The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmQ3ZVJDcWRUcTEyRzhBX2NyaVR3WDM1X0cwYkFCMUJQR29kb21LU1pMN3B2Q3JjQl93eWFVblBScGJNdHlwTXdhZVoyYW1USFlrQjlCZjA5SG5OSFhCTmRKdS1OZEhMa0dGMW82cXg5a0ZxclhWLUcxa01WRmd5ZFJWRF81aVREdEc2VndSTVZEMjdQcU55R08wZGduaE45NXJ0U2RqeGs4NUt4MXc?oc=5"
+        "title": "Secretary Rollins Announces the Creation of the USDA Office of Seafood - USDA (.gov)",
+        "summary": "Secretary Rollins Announces the Creation of the USDA Office of Seafood USDA (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbTFFUVhYdVRicmJRdlJxQ3Y4dlMxTFQwdkwwdWdrdWo4cDUwT3pJZFJKQTZ3My1kYnQ4Q1BYand1RHlIV0ZGM1VYRF9LdkdpVXZXRnNiUXZDc2N2TXVYOTk3UVdCUmNTVXc3QWFvd0VKaHNXNHhpc1BtaVRXRm9xY2NmdktZYnp6R1poMEtsUmF3S2RyTnNiQnhHVHdSMEdtdGRXWXU4aERIUXpDa1gxLXRTQ29MZEJyTmsw?oc=5"
     },
     {
         "title": "Louisiana legislators pass bills for local seafood industry - fox8live.com",
         "summary": "Louisiana legislators pass bills for local seafood industry fox8live.com",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQl9WS3NjZno4em5MV1FISnp2dXZuTXlZT2pOZmE0Z2lrZ25WcmZZaU40Z3NkbHZadUVRRUppdm5KRDBKMHNoU0RoTF8tMlVQbkV6aHA1NW9acllGMTE0MURKMnpWcWRZZEVhTFVCLW5oNmJheFEySXJpa3Bxc2FtYnk2WGMxZ0N6M0pXcjRoazdOSDFScUx3TVprZVFMSXc?oc=5"
-    },
-    {
-        "title": "At Barcelona expo, a resilient seafood industry navigates global pressure and change - Global Seafood Alliance",
-        "summary": "At Barcelona expo, a resilient seafood industry navigates global pressure and change Global Seafood Alliance",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNekw5dmRHNnRPY2pEMm5JdVVNcmM3VWZkYlBWREV3T3hUcW1CR05iTlh5dWZpcXlCQTRVVnVHRXVCRUg3N2Z1alVtX0dSOXFOeWhrUFZBaXFWbndJVllfZGo3cjlWbkx2a1Zpa3ZyUXpEUXhIdjNiS2M1UzZQNnZxdV9GRm9iVC1PLTJEamZpLWRyX19QRzQzMGYtQ19aYk8tUDRfbThqT0x4UGVoa0owbUFmQmdzU1pfN1BVbmo5YzE?oc=5"
     },
     {
         "title": "Seafood’s real credibility starts on the factory floor - intrafish.com",
@@ -595,34 +595,19 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczNZb2ZRRG1NNEl0a1dKQWlWQW9TM1ZJQUdiMEdOQW0yNVhES1A1R19fdnJBdUFONXlsN0E5Yzg0N3lZUTIyQ3IzemNnb2ZISkdPVWg3TlVXOU8zRmZIY0ZERUdKZGxvbl81U0djVHZtdlZMSXpOODZTbGwzYzM5ZzgyOXllakdjc09KUEdqNDkwQjBmc1pELWdyaGgwN0lBbDZpdjd1d1dKdU5jQmZibG1jZGpPZGFzSFpGRmVEUTdiQ00?oc=5"
     },
     {
-        "title": "Norway’s seafood industry slams revised 2026 budget over high taxes, investment risks - Undercurrent News",
-        "summary": "Norway’s seafood industry slams revised 2026 budget over high taxes, investment risks Undercurrent News",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVdRbFFDbDBYVGtheTRWSDB4UFM1S0F0Yjk3d3BVQy1UU05scWVmOGUyQy1EWkJsMXBhYzRLWHVKYUV0RVlYOXdhTURTNXpheWJLaUtSdkVJRXhIYkszWjg1a3R5S0NHaXF2elZIejVFN0kyb05OaHpMTWx0OGJ5dVBlNkVDT1Z0elQ2dG9UWHlyODg3OVNxdS1GSUpxdTdhNGlrNUJ5LWFfQ1FlVmVYLXpmeHg0eGlySFpuZmhYZ1hhbGIxMjJj?oc=5"
-    },
-    {
-        "title": "Seafood suppliers from around the world to expand business opportunities across Asia at Seafood Expo Asia/Seafood Processing Asia - Asia Food Journal",
-        "summary": "Seafood suppliers from around the world to expand business opportunities across Asia at Seafood Expo Asia/Seafood Processing Asia Asia Food Journal",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQl8xQl9RZXNBLWNGTmtkRGZWMS1vTjZGR1dzNDQzRWp1SnhsVGxMNGFjRHhNdElZdnF1ekEzRTBjZzRjUHNTTUVXTHl0R2lvSWJUMW4xdXpCVEc5bGwySFhvbk5IYXdlVWxUNF9YMWdsY1ZYbHRORHE4enNFV1NGLUg2dFpua2FpXzlneXoyLVdYNFRGNVgwVmlmRmhfSU0xU1B4ZFNyRV9vTlQxVTdmdlNScE1NbHh4cnlveC15SHVmRGRJUVVaVVl5Nk5ma3hNQVZERWtiYzhPODFmcFdsY1hyN0tLVzJQeTB2QWw4OA?oc=5"
-    },
-    {
-        "title": "LDAC Urges Coherent BBNJ Implementation with Regional Fisheries Bodies - The Fishing Daily",
-        "summary": "LDAC Urges Coherent BBNJ Implementation with Regional Fisheries Bodies The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnMxNFl5bVFsOHhjYUx5NlY1SjdvczZ5VVVVcktxUlFBSDRLZllXY1BvQ19IS2RlZmJvMnJMSmVrT0poUWVTcmF4ZEJFQnNPMXJCazE0R0dFVWFIbC10VzlOYlpBYlU0a243TDVSOVJzVFZSdFB2RjZLRUhlU0FlcjdHQ05mRDgtNFhUQjNnRElvazVMUmtZNEp6RlU1aGkySkNUYkNjZkZTeG5QV3NUSFV2d09yREZHaUlUZC1SdV93UQ?oc=5"
-    },
-    {
-        "title": "Secretary Rollins Announces the Creation of the USDA Office of Seafood - USDA (.gov)",
-        "summary": "Secretary Rollins Announces the Creation of the USDA Office of Seafood USDA (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbTFFUVhYdVRicmJRdlJxQ3Y4dlMxTFQwdkwwdWdrdWo4cDUwT3pJZFJKQTZ3My1kYnQ4Q1BYand1RHlIV0ZGM1VYRF9LdkdpVXZXRnNiUXZDc2N2TXVYOTk3UVdCUmNTVXc3QWFvd0VKaHNXNHhpc1BtaVRXRm9xY2NmdktZYnp6R1poMEtsUmF3S2RyTnNiQnhHVHdSMEdtdGRXWXU4aERIUXpDa1gxLXRTQ29MZEJyTmsw?oc=5"
-    },
-    {
         "title": "Office of Seafood - USDA (.gov)",
         "summary": "Office of Seafood USDA (.gov)",
         "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9qRXZuSEcxZGlUdDhGSTlRU01kdXVLZTZGdTRFaF9CQXowc3RyM3NSbWt2Y1c4dmxjOU9hcmxsMzVhQQ?oc=5"
     },
     {
-        "title": "Some tariffs may be gone, but wholesale seafood industry is still reeling - marketplace.org",
-        "summary": "Some tariffs may be gone, but wholesale seafood industry is still reeling marketplace.org",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXc5TmtQUFV4VmJhQ0c3ZFdDS0RpWmVJTjBZMGNJdWU4QkxHOFBRWmlibW5zVWUyNDdBSkt0OEEtbW5VSExWMV9pS1VFV0RnV0dWb3BQM2gtWURzWmN3cFlmWXdGVHNzLWlNODZ4VlJNeXFVX0RKT2pmYzduaEE2Q3I4VVBNRktOTDJJVE5xTWhnV1B1V0ZzMkVUaG91eWZJM3dEOEpOOA?oc=5"
+        "title": "After A Hard Winter, Blessing Of The Fleet A Welcome Event - Cape Cod Chronicle",
+        "summary": "After A Hard Winter, Blessing Of The Fleet A Welcome Event Cape Cod Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2hHZ2t0aXZ1VDVPTXNwYi1GQllycjgwSnhxbUhKZ2ZSRWN0RlpweTRVNDV3V1MzbFJVVWtSdWRSYUpUZEdwRFlKSTFlREdYMHpUWU1BZk5EM1JVS0pCVEx6ajg5aTItV1NJSDM4SEZrZ2hvUEZjeGU5bVAyZXJYV0RleXQwLWRNMVdkSzl0aEp0eEFNblluX0lRYzJKQjRDaWhKSmFLd0oxMXh5QlE?oc=5"
+    },
+    {
+        "title": "NOAA Fisheries Seeks Recommendations for Restoring American Seafood Competitiveness - NOAA Fisheries (.gov)",
+        "summary": "NOAA Fisheries Seeks Recommendations for Restoring American Seafood Competitiveness NOAA Fisheries (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkNfRTBTNGNfNkxZWHFuYlF6M2R3TjNPU2dkeVBQTDZxNzlSYk1rQ25Ybm53NHN5cnlPdko3TmF1RExJbnRwVzluTmk2UXVvcFFvNkFQU0hvcEVJTV84QTB6V3FsUjkzUDRDTWplTjVweVVyWndxeFVXUzEwY3FpT0FoSmRSdFdOX1dQWUc3cFRfUE15d014MG02d1lUVVVCUUw3WTE3dk1xaWpoSUVpUk1YdzJSTUNzM3NjTXlWbHNrZw?oc=5"
     },
     {
         "title": "Global seafood industry capitalizing on new trade paths, product diversification to meet robust demand in 2026 - SeafoodSource",
@@ -630,34 +615,24 @@
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDRDVDZ0MGotV3E2Z1JXTE82dHhNSHB6c3VxSDViUklwbllSQVpkejlhbDRPRzVLWUlneF9CeXYyQ1p3dlgwcWVFV1FYQURQX292VFB0TWhzNlh5QnpsckVXakc2NDEwaDh2Zm5QOU01VXE1Y0owcXN1UjJvUjQ1NDVRUU96MGt2VEhuUTZuR3NRaFJrSk9RUEUydDZET19zenp6UDBlbHhaRG1RdTJhN3dPRXl6bXVIdkxHa1dFNVVkdDd0akNKMWRNcnJFdUVHRXRzQmVJbHBDTHlsbTRpSTFGTUwxUmVBNGRCXzFn?oc=5"
     },
     {
-        "title": "Putin Visit Reinforces Russia-China Fisheries Partnership Growth Plans - Seafoodnews",
-        "summary": "Putin Visit Reinforces Russia-China Fisheries Partnership Growth Plans Seafoodnews",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjcwd3Mwd0xMZy1QeGlzNXBUODl6X0xxS3dzTGtXVXVIQ1JwRFQtdEhDTzVhTnowXzdEY1dOX0pkaloyckFaWmhfZTc0cTBqb0VUcWp1dkxZUVFWXzVXUF80UXBKNXotTlRMVWhORDNjMHB5d2tXLVhSckRQdDBtNVYydlVJZ1JvZWxwbkE2el8wVlBmWnB2dXpKMnYzM0JYcmRFaURtMEMyQklaSGNDV0VB?oc=5"
+        "title": "Global Seafood Alliance Unveils Expanded Program for This Year's Responsible Seafood Summit in Bangkok - PR Newswire Asia",
+        "summary": "Global Seafood Alliance Unveils Expanded Program for This Year's Responsible Seafood Summit in Bangkok PR Newswire Asia",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM25zN3RmZVB0eG5UUVR4cUZrUEJBeU1wR1FJWmVoOHpTVmJFajBxY3JiSlJvSWktaXlfR0xXZUFocnVzc05iZ1hEdDR0MjB5VktRUS1zTXo4Tjh6bVA3b19RT1k3SEhRYTZfU09LZ0JJYVpJVXVfMlRSc3g5TlZEQWFIbjM2eDRYUndrZEFFT1NLSWxiSUFiRmQ5VXZsUXFnVWxVWE0wc2NKR1JwREFYSUM4UjNwQ2JBV1F4UHkxYkxuUnZZRTdHdU5iWU1nMkNZSndVNnlDbGQ0Vnh0Q3pzeDNqSWhKazQ?oc=5"
     },
     {
-        "title": "How Thailand is Reforming the Seafood Industry to Prevent Exploitation - United Nations Sustainable Development Group",
-        "summary": "How Thailand is Reforming the Seafood Industry to Prevent Exploitation United Nations Sustainable Development Group",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzE5UnJnMzNJVVNmeVRuOXZzSEd5LWowRmtTZjVQVHZOQzc3cW11VW9kRHYzcU95blk1RjRSYTRRMzdkVS1iOTRNWGxlcWNWSlUzUmN3MFNWRGhrd2RRZlBhQzQtajU3bkZGTy1JX2NXZWtjeUdIaHMxT2NqSWRSUDJHRGwzMlozRW9LRWpZWjRaY1NmUkdBWGVPaGY?oc=5"
+        "title": "UK Seafood Trade Value Surpasses £6 Billion in 2025 - The Fishing Daily",
+        "summary": "UK Seafood Trade Value Surpasses £6 Billion in 2025 The Fishing Daily",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmQ3ZVJDcWRUcTEyRzhBX2NyaVR3WDM1X0cwYkFCMUJQR29kb21LU1pMN3B2Q3JjQl93eWFVblBScGJNdHlwTXdhZVoyYW1USFlrQjlCZjA5SG5OSFhCTmRKdS1OZEhMa0dGMW82cXg5a0ZxclhWLUcxa01WRmd5ZFJWRF81aVREdEc2VndSTVZEMjdQcU55R08wZGduaE45NXJ0U2RqeGs4NUt4MXc?oc=5"
     },
     {
-        "title": "Commission Approves €13 Million Aid for French Fishing Sector - The Fishing Daily",
-        "summary": "Commission Approves €13 Million Aid for French Fishing Sector The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0RXa2h3eEN0NjhTaF9tOWU4Y2VtV2FfdHlkenVjcUN2Q29mS0hTc1RHdDI4Y0NEcTU5LTBWTXZpS3FvQnlpVnpXR0NRNTRCUV9PaTlicGFrM3dKVG1Hc0Ruc2xxSVV5UzB3eXpLUTUwbG9jUFBzWjJnXzEwMktzWnpoVmlSUlJaOGR6c1Z3bHYwclJuRTRTTkx2SFFOS0dadlpqd3MxTHBQQXByZURRYmNyZTVsZw?oc=5"
+        "title": "NOAA Fisheries bolsters American seafood industry with new import provisions - NOAA (.gov)",
+        "summary": "NOAA Fisheries bolsters American seafood industry with new import provisions NOAA (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVkzY05QZmVCYk9SQ0pWXzNyX1FvZmdoXzNDTm5oOHE5TGNHNjYxQy13dVgtUHN5b1dISHRhenlubTkwNjNwRkVlajlXWUtiNGhHME0xeTVuNVN6djJSR0RhT1Z2NGJVWVJEWjdEYWVEazh4Tkt5OVVjR2QxTDltZHB4bFVubnhBdlB3dlpVRnBvRVhHSHlmUmhJRXJmU25uWDNha0RoV1dlLWpBcFFF?oc=5"
     },
     {
-        "title": "European Fish Prices Surge Amid Supply Cost Pressures - The Fishing Daily",
-        "summary": "European Fish Prices Surge Amid Supply Cost Pressures The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2ZLaEtqMHJtZlpSTnlUbFZXVTVtcHdxdkI2TDNNSDh3ZGFkSk5tckM1dHJmYUlzQVRyN2ZibGstdGQwdkFnc1pMb1ItLUs4MnRRVXVlR1pBNVdzVkpkMmpBY3h4SklWLWxqdG5RVmM0MEw4MzllZm1FY0ZEbDhncnhwRFdFeTNDV1VjN0RPenFDMU1rLWtram45cXd5TmNKck5wVnpLOUJsZnY2bHpkUUlzSQ?oc=5"
-    },
-    {
-        "title": "As US market stagnates, Norwegian seafood industry has eyes on China - SeafoodSource",
-        "summary": "As US market stagnates, Norwegian seafood industry has eyes on China SeafoodSource",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDA3YmlWSWc1aU5idWpmSXowejBDRWJoY1VHZWJsX2x4YmpoVG5QZElkaC1MLWF1REp6UWhRSHpfWTBaU2JPNnBKaTctdl9mQVFXX3BETHlwa0NETlRYM0w5M1B3V0czSzNDc1FfaGtKYXRxdEk3MXBUMS1zcEUwRmZGRDlQaDVieEpaSXFEczdaa2NqY3VobnMxY0JEdDJWdFdpbFFLSjhfMGhZZGljVnhubmZQUQ?oc=5"
-    },
-    {
-        "title": "Seafood industry experts warn supply disruptions are pushing seafood prices higher - News4JAX",
-        "summary": "Seafood industry experts warn supply disruptions are pushing seafood prices higher News4JAX",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSThqY0Q2NXduZUZ0NHcyemU1ZUhiaV95R1c0Z3FLYUl3NjNYdFR5NWFVOFlNMXlOUFoyRnVERjNSZ1Nua09FN2h6Tk5RV3cwamlRS1YxTFhQTzNIbE4wUnoyT3FTUDFsQ2N5TUJkQU54SGlSUjFWaWhlOEJiS1VQbmQ2WnVyY213dUhnV2kyb0xVZlBCcXkxNVBvZmpYX3ItRHBiUGlHVHJPc2Z0cTRSdGJmMzhkYkJnRjBRekJkTU9wd2pvYmJGbHZn?oc=5"
+        "title": "At Barcelona expo, a resilient seafood industry navigates global pressure and change - Global Seafood Alliance",
+        "summary": "At Barcelona expo, a resilient seafood industry navigates global pressure and change Global Seafood Alliance",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNekw5dmRHNnRPY2pEMm5JdVVNcmM3VWZkYlBWREV3T3hUcW1CR05iTlh5dWZpcXlCQTRVVnVHRXVCRUg3N2Z1alVtX0dSOXFOeWhrUFZBaXFWbndJVllfZGo3cjlWbkx2a1Zpa3ZyUXpEUXhIdjNiS2M1UzZQNnZxdV9GRm9iVC1PLTJEamZpLWRyX19QRzQzMGYtQ19aYk8tUDRfbThqT0x4UGVoa0owbUFmQmdzU1pfN1BVbmo5YzE?oc=5"
     },
     {
         "title": "Canada Fisheries Minister Joanne Thompson working on initiatives to support nation’s seafood industry - SeafoodSource",
@@ -665,9 +640,19 @@
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMVdwQTRPR0RQaEN2NVdyX2lCM1BoZFU0UUMyM210UDNKbmZNVW1YYUIwX0dLT3hyeWJvblZUS2lsTzVuNHNYMXh4czBaVFJqZ0NtS3RmdmhqczlxSUQ0RVBsOWRRTWRmdm1VYWVUTGRCQmRCUkgxbWk2dmtjSkdXUzNPOUFGWFpEX09hZUJsY3VrVkdiNDVRbnl4SHlyUmVjcnJKUEhBRnJWcVlwMS1lZ01paXRjMno4YTIyMEZCcXRuc3FaM3RUYW55cGVVQQ?oc=5"
     },
     {
+        "title": "Seafood industry experts warn supply disruptions are pushing seafood prices higher - News4JAX",
+        "summary": "Seafood industry experts warn supply disruptions are pushing seafood prices higher News4JAX",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSThqY0Q2NXduZUZ0NHcyemU1ZUhiaV95R1c0Z3FLYUl3NjNYdFR5NWFVOFlNMXlOUFoyRnVERjNSZ1Nua09FN2h6Tk5RV3cwamlRS1YxTFhQTzNIbE4wUnoyT3FTUDFsQ2N5TUJkQU54SGlSUjFWaWhlOEJiS1VQbmQ2WnVyY213dUhnV2kyb0xVZlBCcXkxNVBvZmpYX3ItRHBiUGlHVHJPc2Z0cTRSdGJmMzhkYkJnRjBRekJkTU9wd2pvYmJGbHZn?oc=5"
+    },
+    {
         "title": "The seafood industry bets Americans will eat more fish if it looks more like meat - Los Angeles Times",
         "summary": "The seafood industry bets Americans will eat more fish if it looks more like meat Los Angeles Times",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZl8wakxQcVE2YXN4MVE2Tm43dDg0dUdWOVFDUHM0YUZpcC1BTXpRbTI5ZnR3V2RKY1JUa2JKc1htUExHSzB1UXFLS3dtUkw1X2RFYjNlNU13U3MxZUFpaXE2eEpUNnpuSWtSTl92SDRfcWhwWjVVNnBRdXI4UWRadXFDclNuRk81VVBLTUpHU2RNaXpHUVlFUlJKcE5EcHVYbEVfemtVSGhtc2J1RFQ5TlZieUQ0d0xNX3VTZHJKaGw5Wkk5SGc?oc=5"
+    },
+    {
+        "title": "Climate change may soon cost global seafood industry USD 15 billion annually, Planet Tracker report finds - SeafoodSource",
+        "summary": "Climate change may soon cost global seafood industry USD 15 billion annually, Planet Tracker report finds SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTDE4bjk3M2c2YldBUXdVQkFYd3JYME9lSTgtZGJ0UXVlWTUxNEFyRjFGSkNJRERBdGJoRFBRRDFHd3hwNG1XcTBMdlQ0S1h4QU9ENERBMFN0dkx0cXFZS1lXcGh2NFdFbWJwSmZtQ1IyRlVIRmJZWmFab0czLWd0NUg4Q19XYmlzeUpLYVQyUVRXOXBGanltY0ZRTHZYZ2kwRzNfeFFKUUtIZ2ZvT29JWnFFWnNSVWt4MkRwdkpNSUtldXdmMENJQWt0QXo2U3VoeWsxUk5OZnVCaENMTjRlX3cxV3JRamJfUDE3T1hfQ1BtOEdpanVUc3N3?oc=5"
     },
     {
         "title": "Inaugural North Atlantic Blue BioTech Summit working to boost seafood industry via tech innovation - SeafoodSource",
@@ -675,14 +660,14 @@
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWmxoSFhCeFk3YkNFZ2M4U19jTV9LSFdpZWEyQ1J3aDJCZWpYWXVZRTRtWFhnaTVMbkNNSVZUSU43NDNPNGFCcGlkTDdjTUc4dDB1SVVCeFVwbWlodnVqRG9OZVpDVFd3cVNLQzY1bkk2QTBQRFd0US0tblNSTm5DaDNBajVsMmNrWkdWWFp2Q1ZzSUI4MVJDRjc3MHFXaG5FTUNMaDI2WjJJcVA5MmpLNnJoa21uckdUUW5KTWZMT2ZoRmtvXzhibUhhcVFWU203eFFWVkxaNzJKZjJ3R2ZJT0hoeFc?oc=5"
     },
     {
-        "title": "USDA launches new office to support US seafood industry - KING5.com",
-        "summary": "USDA launches new office to support US seafood industry KING5.com",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RuYnF1WXc4bEx4eVl6Y1ZkYlRlWXZDalEzcUllX1NiVXM3Zk9DUE1BeWNvaDJfX0VDRzh2UE11MmFMMm1uU3NaRzhSMXdibzRnc3JmUDdVaDJiRUJaakpLeV9qVUNLdFVURzVOSjJ2ZHY4bmN1U1Bfc0RQTFlfSXE1V1BkRE1jeFprSWpycXZRRmUxb1R5QmlxZ2twbUpEQ1FaV3F3YzRweG1LUkhuamlWU0U3YzNjQWpWX2NVamY0Mk0ySGQ5elItZ0RDX3BVQnhJZkRMS0ZaUllp?oc=5"
+        "title": "As US market stagnates, Norwegian seafood industry has eyes on China - SeafoodSource",
+        "summary": "As US market stagnates, Norwegian seafood industry has eyes on China SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDA3YmlWSWc1aU5idWpmSXowejBDRWJoY1VHZWJsX2x4YmpoVG5QZElkaC1MLWF1REp6UWhRSHpfWTBaU2JPNnBKaTctdl9mQVFXX3BETHlwa0NETlRYM0w5M1B3V0czSzNDc1FfaGtKYXRxdEk3MXBUMS1zcEUwRmZGRDlQaDVieEpaSXFEczdaa2NqY3VobnMxY0JEdDJWdFdpbFFLSjhfMGhZZGljVnhubmZQUQ?oc=5"
     },
     {
-        "title": "Ropeless Fishing Gear Trials Successfully Revitalise Closed Crab Fishery - The Fishing Daily",
-        "summary": "Ropeless Fishing Gear Trials Successfully Revitalise Closed Crab Fishery The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkhuU0Z0dVlfS0tJYXl1OUQyRktkblJZazc1TTVEdUpXQ2RXRzByVnlEd3k5NUZ5bXBCZU9QRTlQZWV1dy05Y2thckY2ZExORVNRQWh2WElXZFJUQURJQk00V1RMQnp3N1ZpSW94QVpwWG5zZzF2UGhYSU9BNmhZdDlHcmNhWldfNDlXTTZPT2NVckVUbFhpSW1VS0tVUnZyekpQc3RycFh1TnFTcm4takJqTQ?oc=5"
+        "title": "NOAA Fisheries Seafood Strategy - NOAA Fisheries (.gov)",
+        "summary": "NOAA Fisheries Seafood Strategy NOAA Fisheries (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblFhY01GMmFNUDRxbkwxTHN0SXM2ejFmNHpxSG91RXFJNzh3ZkQ5aXd3QWdDUjhWV0FoOVVmNjl5cFg3bnZGclM1VVA0aDI3ZTNHSWxYX0pOVUlHSXYxWTFGZ3ZndFg1RjBUWjlfRzhKMDV6WkJKSXNBTUhzUXp3S3NUYVRPcHd2U01MMkJhT3NTdVdPQnc?oc=5"
     },
     {
         "title": "Norwegian seafood industry keeping close eye on US as it plans 2026 strategy - SeafoodSource",
@@ -690,9 +675,19 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnJJN3BFa044M1B3bElVZkhMQkJkT1l4RU9TTHZMUkJOdDdLQ1dyVnpLNXBXSUFYMkF2a0pwOWxjSXdaQXdUZlZpZzcxNHpmbGlWTHNqRHU2aVcyZ0l5X0dFM2o2bDRRZ2Y4Z2NuQ1QxUjNjQ3RoUFpQRGVwc2JtUVgzcmswb1FlTnJWZU1UUE1GRWZIcS1EM1NJbE5VUTZIN0w3VFA4SF9aVklqYnFBb3JSYkJHQkQtamJnV003Q1QyUQ?oc=5"
     },
     {
+        "title": "USDA launches new office to support US seafood industry - KING5.com",
+        "summary": "USDA launches new office to support US seafood industry KING5.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY0RuYnF1WXc4bEx4eVl6Y1ZkYlRlWXZDalEzcUllX1NiVXM3Zk9DUE1BeWNvaDJfX0VDRzh2UE11MmFMMm1uU3NaRzhSMXdibzRnc3JmUDdVaDJiRUJaakpLeV9qVUNLdFVURzVOSjJ2ZHY4bmN1U1Bfc0RQTFlfSXE1V1BkRE1jeFprSWpycXZRRmUxb1R5QmlxZ2twbUpEQ1FaV3F3YzRweG1LUkhuamlWU0U3YzNjQWpWX2NVamY0Mk0ySGQ5elItZ0RDX3BVQnhJZkRMS0ZaUllp?oc=5"
+    },
+    {
         "title": "Trends, challenges, and opportunities for the United States alternative meat and seafood sector: stakeholder-informed perspectives | npj Science of Food - Nature",
         "summary": "Trends, challenges, and opportunities for the United States alternative meat and seafood sector: stakeholder-informed perspectives | npj Science of Food Nature",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55VWVmdGVHd3lwMGVUM3ljMlVtOEpad2h6UVB0cDJ1RFQ1V2xrLTlNVWZZa2lfcU1Hc2k5OExpUEdJSUdySjdWN0tuTERTSWJnQTVRX3hZc0JwcTFMSzg4?oc=5"
+    },
+    {
+        "title": "Fisheries and seafood - NOAA (.gov)",
+        "summary": "Fisheries and seafood NOAA (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkhaZW5ERGs2R1E4NHdCV1gtMEhsdUthNEZta1p4NkstM1FFRUs5Z2gwZk15MG5aTExQN2dOQU1oUmxVcVBRUkpvSkl2eEZmOHQxcUJPS2lXbEpwajVVWkJSZWRrY1ZtUTdWSXhXckJ4Q0F3Vkk3RjhRZWpqN2R5WnZwbnlYZmdTNXc2M3Jn?oc=5"
     },
     {
         "title": "Riding the Wave: Seafood Sector Must Embrace Sustainability and Safety to Ensure Success - Food Safety Magazine",
@@ -700,9 +695,34 @@
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTmFUdVktQ1BIa1VWU01IeEQ4MERnSmJxMktPd0RRUUNtUVZ4OHd0WEFPTENSSjB4azBNNGl0WmZiaDVwSVFBYU15UUdEUGdXX3ZkeTVJbFJhNEVnRzhxUW9WSGdBeVRIOEJpeXpDTEk5SFM3QVBxaGFYcnFJY2hGSXpRcWVfNW1MdXFvRzlFQ1VBTVNDWlBBSm5yVm9HQ29oM0dDWVpiLUVDNXpFRERGQWVMSG1Ca2w0cFFReVZDSlhoc2ltMFRaNmRn?oc=5"
     },
     {
+        "title": "Healey-Driscoll Administration Awards Nearly $1.2 Million to Support Fishing Industry - Mass.gov",
+        "summary": "Healey-Driscoll Administration Awards Nearly $1.2 Million to Support Fishing Industry Mass.gov",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLWFkdVQ5NF9VbDJ0RHBfWC1LT0RJaEtGc1lsMDZSd2F3Q1hselV3WVB3aVY1cG1fOW1UR2V5MG5aRVJFcTU2ZXJfZEdwS2dBNXdQb3g5NGVfQ1BHczdFZkE3bEdIQy1DSkp6VTZiMHB6cjY4THBLYVNFNjdjYVM1Z2NyMENuNFhndGh1U1BCcFI5eUFaS2JnZXloX29PclUyaDVaTjFYajR6TUFWcXc?oc=5"
+    },
+    {
+        "title": "Rising fuel costs strain Oregon seafood industry, raising concern over prices and supply - KGW",
+        "summary": "Rising fuel costs strain Oregon seafood industry, raising concern over prices and supply KGW",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHBQbkxxeF85S21FYTROWkV5c0FZX3VSOEU3WE9NNVlZa2VNSHp2eVpxWVR2QTBLVDN6LVRnWXZzS3ZhZi11LTluc1lUUGNuakZ6X1RUa093bkRDWnNmZ3JwSFd2ZEstUWF2ckdNQUt3dTJPLVZ3ci0zZFBhS1FmM05sOGZIWUpfc2Z4eVZhb3hMc1JPeU41WXNGaTNIZjVFRXRzaFpnLTdONW51NThkYm9LLWlfS3F4WE1IS01UbWllTlE?oc=5"
+    },
+    {
+        "title": "Norway’s seafood industry slams revised 2026 budget over high taxes, investment risks - Undercurrent News",
+        "summary": "Norway’s seafood industry slams revised 2026 budget over high taxes, investment risks Undercurrent News",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVdRbFFDbDBYVGtheTRWSDB4UFM1S0F0Yjk3d3BVQy1UU05scWVmOGUyQy1EWkJsMXBhYzRLWHVKYUV0RVlYOXdhTURTNXpheWJLaUtSdkVJRXhIYkszWjg1a3R5S0NHaXF2elZIejVFN0kyb05OaHpMTWx0OGJ5dVBlNkVDT1Z0elQ2dG9UWHlyODg3OVNxdS1GSUpxdTdhNGlrNUJ5LWFfQ1FlVmVYLXpmeHg0eGlySFpuZmhYZ1hhbGIxMjJj?oc=5"
+    },
+    {
         "title": "Irish fishing industry welcomes EUR 5 million monthly fuel support package - SeafoodSource",
         "summary": "Irish fishing industry welcomes EUR 5 million monthly fuel support package SeafoodSource",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDNzSnlDSlFUUUFYdXhhWGFfNWdRMnRVRk85ZzE1WktQZ0lRbmN5S0h3cjFCeHFLTXQxMlJ5RWgxN3BYRTVmT2ZCV1ZhWlczZXBGbXg4YkJwM1Y4NjF1eERvU0JxNFdRLXBUUXBJakNRQmtKWXltenRtUTM2QnpMcjMzaHc1RHg1bVU0MjFHQlJKczdweURLRnJiUE5DUGJUN3h2dWNkMWFkTjQzQ2NxYllmaVF1ZGVIT1FzSk1XSQ?oc=5"
+    },
+    {
+        "title": "Maritime and Seafood Industry Museum inducts new boat - WLOX",
+        "summary": "Maritime and Seafood Industry Museum inducts new boat WLOX",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeENTNV9yNDhvRE5JTzJDS2NzV3VwV182TXBiZENibWxHQ0hkdWJORkd6Z2xfb0dObXM1eFlVdDN5a0FETld4OFg3Q0RqcXBISS00VE5rVV9zeXhrNkVOMnFsMTVGbFM1ZWRtMTJjNjdSVW5uRW5GZU1Ua1FLOWJJWS1WZDlvMWNwelHSAZ4BQVVfeXFMT1FzSVdTdG9sWjFidkhJdDI0RGdXTjU3dWplTVY5TlR2ZGRHQ2MwSnVyVjk3c1hoTUZpdzNuWGl4T25kdFNsWlduZ21NQ3NzdEhuUG1CTVJacGZTQ2lqX1FRRTFYN3ZxSVg1QnotTGZBWlUtUEFaMjVtQjNoV21PNWlPeVpzOE1Gbk0xQWFhaldrcEZCZmhuM1IzbzVsLWc?oc=5"
+    },
+    {
+        "title": "Brazilian seafood industry eyes recovery after US Supreme Court shoots down tariffs - SeafoodSource",
+        "summary": "Brazilian seafood industry eyes recovery after US Supreme Court shoots down tariffs SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1A3QlhSR1RJci13dElqa2RlRHFrTGNKZXJ4N1VmbERLZmptSmZpeEM3SUJRcXVYeHJRcVhweFFQYVBOTE5ZUXZoUjltX2lPVVZ3M3VaN0FmT1VsdWRJT2JYc1NSZFlzMmpGOXdxS3g0RHFDYnRNSWlZYWZOOUZYOHRYRmlXb1lfV0VESkdzanFPVFdOWjFJZldNeUZzeTFQQnVPaHktckJSaFRzVkdvU09jWW0xaVdjVFlDTm1jQm1OS1FLMjBqLTBiVQ?oc=5"
     },
     {
         "title": "New USDA office focuses on strengthening U.S. seafood industry - crossroadstoday.com",
@@ -715,24 +735,9 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjhfVkxIMGhQcy1pdjVSc2pIMndoamU0Q1d0ZGtFVkJ4cFBWODd0YnBYYlFvVVJ5TnhzUkJqa3I4eXBBQ0dROUlyRl9ybDFUX0w3SUtFUnc3VVVhWGViNk5reHlDclhPVjNQb0FlQUZ5WURHSkUyUlo3YmYxX3RMLXJ2QS1KdGtUZl9RaTRXR015d0xPbENCUnQyZTFSM2hVdmlaZ3hJaHlGQQ?oc=5"
     },
     {
-        "title": "Rising fuel costs strain Oregon seafood industry, raising concern over prices and supply - KGW",
-        "summary": "Rising fuel costs strain Oregon seafood industry, raising concern over prices and supply KGW",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUHBQbkxxeF85S21FYTROWkV5c0FZX3VSOEU3WE9NNVlZa2VNSHp2eVpxWVR2QTBLVDN6LVRnWXZzS3ZhZi11LTluc1lUUGNuakZ6X1RUa093bkRDWnNmZ3JwSFd2ZEstUWF2ckdNQUt3dTJPLVZ3ci0zZFBhS1FmM05sOGZIWUpfc2Z4eVZhb3hMc1JPeU41WXNGaTNIZjVFRXRzaFpnLTdONW51NThkYm9LLWlfS3F4WE1IS01UbWllTlE?oc=5"
-    },
-    {
-        "title": "California salmon fishing poised to reopen, but with a catch - CalMatters",
-        "summary": "California salmon fishing poised to reopen, but with a catch CalMatters",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF90WF9mekxvdXJJWmIzSUNYT1NxekNsdWZPaTVrMUdJRHBNdmlJWGxacW1jb3RYV3RDeGNsVUU4dEl3VndJcEQ1ZlhOemRRVmtMWGR2c2Znd3RzYVFJZnhZU2dzT2pKcGdHUTRRbnhockZZTFdyZm16NGhLRlg0MTVIVVYtS1ZQNU5v?oc=5"
-    },
-    {
-        "title": "Brazilian seafood industry eyes recovery after US Supreme Court shoots down tariffs - SeafoodSource",
-        "summary": "Brazilian seafood industry eyes recovery after US Supreme Court shoots down tariffs SeafoodSource",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1A3QlhSR1RJci13dElqa2RlRHFrTGNKZXJ4N1VmbERLZmptSmZpeEM3SUJRcXVYeHJRcVhweFFQYVBOTE5ZUXZoUjltX2lPVVZ3M3VaN0FmT1VsdWRJT2JYc1NSZFlzMmpGOXdxS3g0RHFDYnRNSWlZYWZOOUZYOHRYRmlXb1lfV0VESkdzanFPVFdOWjFJZldNeUZzeTFQQnVPaHktckJSaFRzVkdvU09jWW0xaVdjVFlDTm1jQm1OS1FLMjBqLTBiVQ?oc=5"
-    },
-    {
-        "title": "US Seafood Industry Gets Support - AG INFORMATION NETWORK OF THE WEST",
-        "summary": "US Seafood Industry Gets Support AG INFORMATION NETWORK OF THE WEST",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXo0cVJzeEVmRlp3dDRZbUVzUG9vLWNJdmVGdF9iaG1lTEtEVGpTdzZSN0ZqZ1dxVGlXMzhQUGRMbVN4b1l2THhHTXdaYWZDcC1BdFY1TG1vR2dDaU1vLU5GRlhxZzRUdmUxaFptQ3laallkQno4bXhiS2pKMGViUFdpWVZQR25QYWFSeTYzMXdoZw?oc=5"
+        "title": "Seafood Expo North America/Seafood Processing North America Kicks Off Its 44th Edition in Boston, Bringing the Seafood Industry Under One Roof - Seafood Expo",
+        "summary": "Seafood Expo North America/Seafood Processing North America Kicks Off Its 44th Edition in Boston, Bringing the Seafood Industry Under One Roof Seafood Expo",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdHJ1NWYwSjVJNGJqV2RYZUhpYUwwWXNDSXRFMnBlNFc4SGtuMkx3WUQ2UmRieVdZUGJrN0lPOHpIS3NmbXdJRUVQckR2SXhVQ0pzc2I2U0FidHNGWGdaNlZ5QUFmeDZIdzhmcmY4d3Q5VjN3d0k2RTJQRUdrSjhFaEw1c1lmbkdsR042clQ3dEZKNUE0SGtNV0N3OWdOOTlfc1M1ZjZBbmtTNzVzTnJxcTUwOXVjOHp5S3c0dVpzVXNfS3pnUDBRcnY5TlhrQTVRREpWQlV6Y2FFMjJTZFlvZDd2OXZhaWlpS1VUd09fN3NzNnl2XzdrQ3E4M0djREhDSzIzdWtTLUZPdVJycWRWY2Jn?oc=5"
     },
     {
         "title": "Oil spill closes oyster waters in Terrebonne Bay as seafood industry faces uncertainty - WDSU",
@@ -740,39 +745,9 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3BmYTZmcnA5MDFXemRjS3Z1Sk13WHV6SGI3UmxES050YUF0V3hMcTlOMmtpZHhQMlQ3TUFLY0JrZTZzSUxYYjFkQnhqdEpQcThFanhxcjVCYVVUdUprQmFsZFJnRnZwSDdDV3pvOUVreUlGTXdIVDFOYVJLNElLN253b3FiMHUwZWVYNEJxVi1PY3d0aFRkemhzQlY5MlZCN3Y5dEw2N0JTN2RJNkxTbV9fVmZRWFNmUm45SlpHY0NUQQ?oc=5"
     },
     {
-        "title": "The IntraFish Power 100: The full list of the seafood industry's most influential executives - intrafish.com",
-        "summary": "The IntraFish Power 100: The full list of the seafood industry's most influential executives intrafish.com",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ0Nsc1pvUDNTMklLUWF2bU1fNDBjeU9Kano5ekltOHh6Q2NzZHAwYjdHdldic0FxaFdlLUV0eGFCM20yNWFidFVwcTlyYVpycnUxZ0NpcEZCV2pzVE1TbkhTbHNMUmhkRy1SZ1JWTE9VTjVjNDZZMmVWbWRSdmU5WGRfMFN2aVJlVHBLV05Cem1Hd1VTTkF1OEROeEtRLVZTS0gwTWZhaUhOTGY5R3FFY3VJTzY1MWxFdW9ZSWVyNmM5NVM3aUx5RW5uZ2JtY1NJ?oc=5"
-    },
-    {
-        "title": "Seafood Expo North America/Seafood Processing North America Kicks Off Its 44th Edition in Boston, Bringing the Seafood Industry Under One Roof - Seafood Expo",
-        "summary": "Seafood Expo North America/Seafood Processing North America Kicks Off Its 44th Edition in Boston, Bringing the Seafood Industry Under One Roof Seafood Expo",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdHJ1NWYwSjVJNGJqV2RYZUhpYUwwWXNDSXRFMnBlNFc4SGtuMkx3WUQ2UmRieVdZUGJrN0lPOHpIS3NmbXdJRUVQckR2SXhVQ0pzc2I2U0FidHNGWGdaNlZ5QUFmeDZIdzhmcmY4d3Q5VjN3d0k2RTJQRUdrSjhFaEw1c1lmbkdsR042clQ3dEZKNUE0SGtNV0N3OWdOOTlfc1M1ZjZBbmtTNzVzTnJxcTUwOXVjOHp5S3c0dVpzVXNfS3pnUDBRcnY5TlhrQTVRREpWQlV6Y2FFMjJTZFlvZDd2OXZhaWlpS1VUd09fN3NzNnl2XzdrQ3E4M0djREhDSzIzdWtTLUZPdVJycWRWY2Jn?oc=5"
-    },
-    {
-        "title": "Seafood industry braces for fresh US tariffs as policy uncertainty rattles trans-Atlantic trade - Undercurrent News",
-        "summary": "Seafood industry braces for fresh US tariffs as policy uncertainty rattles trans-Atlantic trade Undercurrent News",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa0ktUzN0aTQ5NjNkbU5LLXZnV3FLNlR2UjZ4VFJUd1NNMnhMa3Y2RWlwT2l2dEpPb0RwcXMyTEFTZG5UMTRiTDBrNVZKRE9ha21UT2xndzVmVTktZkZQVU9KWDE4T1RHZWxxWE9SUm1rZGllM3dsYVQtM0R6UGgxQ2R0MWJXZUt0YTJMbFVwS3RPTTdkcGR4TGY0YXgtR19yUXpKRXBjbzdMTldiQVQyeWU3MXdmZWlUeUY5TzZkd0JIUVNmd0V4Z0hlUFQwRkl1RXNGWEt3?oc=5"
-    },
-    {
-        "title": "New bills aim to strengthen Louisiana seafood industry - WGNO",
-        "summary": "New bills aim to strengthen Louisiana seafood industry WGNO",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSW1MeU5ORXZrRGxMbGRVX2dwMnZ4UnFjbF9maG1CV0RxQy1nWVNFWXhoVTFkY3lsek0yRmlCVGNQNnRjS01QZk5VM052czRoXzZXS3d4T2t2clJHaFBUQ1dUWERlbExkUWNCUGh2VGNmUjVtZG9keDJrTi12Tnc5Z2pTSlhTaWVvNFd3MlNEZ03SAZYBQVVfeXFMTmVuQkt6UHRPM2EtZTJpNWFzbnByUVgxekRSY1BjNC1FVDJZb0M4YzRRMXM5azMydWtrYXJ1TjlzT0V1c1RncC12N0toUU40a18yNnhFLWtrbjY1TlhPMVRSUFJIaW12a2NtRUtEcmlpTlpNUEE1ZjB3eXlOSGd6aGphV1pxY3FOaXpQSk5kX0tTOVc1NUNn?oc=5"
-    },
-    {
-        "title": "Southeast’s seafood industry needs to be part of the revised Tongass management plan - Juneau Independent",
-        "summary": "Southeast’s seafood industry needs to be part of the revised Tongass management plan Juneau Independent",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVkzNk1XMGJwanhPMGxYcllDZVYwNFF3QXY4aFNIWEpENTN6SlpUTU1TejFQS0R5UGZvZVJNMzAwXzRnS0c3ZWVGdEhUS3ZYMG5XZ2NOYURreGdna2N1WFUxeWg4OGZPdDBILS1lVW5ZX0xqeTZvTFRzb09qcm5va1I4M08wMWRLZmJCeklzQXpRTGxfb2p0Y3MtQnF6Z3c1UU1MOVJRQW95Y2NTY0JITXN5V1BNR0MtU1ZGVE5wZjY?oc=5"
-    },
-    {
-        "title": "The seafood industry bets Americans will finally eat more fish if it looks more like meat - The Durango Herald",
-        "summary": "The seafood industry bets Americans will finally eat more fish if it looks more like meat The Durango Herald",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzE1clJRbHR4LU9kTGdkWF9qUmt4aXZFVmkzTEhhek1sSVRueFh3Wmp6S21rXzQ2X18wdEJrNE5aOXE3c3h0dndUNjJncm5SWTRPckhPOVZLbXFiM0JyTzc4ejl4QWtuUF8xQzM4ZVBGaVVpYklxeEpYVk5VRTFwTXBvZUNpdTBNYVpReW4yVkQxVWlJajRqNi1oOVBjWl9wUlBjQWlGTkRaYldNekVObElkSl9tdHdTNUZzd1FxUU5lb0hTRGQ4NA?oc=5"
-    },
-    {
-        "title": "“Dress the bride” – In competitive climate, new seafood ventures need to professionalize before soliciting investment - SeafoodSource",
-        "summary": "“Dress the bride” – In competitive climate, new seafood ventures need to professionalize before soliciting investment SeafoodSource",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMHNRUWZvRXpBSlMxVm94dko2emFFUzJMR2hvMjc1OFlVekx3elhwYWQ3S0o5ci1yYWxlUDhUNm53TFluYnVrQnNCcTY3MWN4NXExWkJ1RlBQNUZ1OXFZZ281UWJXdkM3cFpSNEVQUzlXei1PUkxKTlhWRW1ZU05LNTd2MUktY1prc0FYWlVsOFBDdllfeFZXd0JRTjdMZ2JHMHBLbGowVFp3YUZ2UWN4YVVIU3NzZVlHemN4RURFT3MwM0xDWjNzNkVUQ0NFSngzY1Zob2thWnQ1eXJNQm9tTzBWaGxYNVg2emw4SGpHVEc?oc=5"
+        "title": "California salmon fishing poised to reopen, but with a catch - CalMatters",
+        "summary": "California salmon fishing poised to reopen, but with a catch CalMatters",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaF90WF9mekxvdXJJWmIzSUNYT1NxekNsdWZPaTVrMUdJRHBNdmlJWGxacW1jb3RYV3RDeGNsVUU4dEl3VndJcEQ1ZlhOemRRVmtMWGR2c2Znd3RzYVFJZnhZU2dzT2pKcGdHUTRRbnhockZZTFdyZm16NGhLRlg0MTVIVVYtS1ZQNU5v?oc=5"
     },
     {
         "title": "Louisiana seafood industry faces worker shortages as H-2B visa cap hits - KATC",
@@ -780,89 +755,9 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPelZSU2dCZ2Vkdlk5OUNRbE85aVRDRDdxejVrUmxZZ1EtOTIxdHdpREd5TkRNRjNoNGlXbmEyY2Z2OTdVdERsanZ3dG1jYkZZQzBIRzhaUjdFV3BwVG5WLXFnTnBROFlhZElwYXB3bkQ2d0dfTEd3Z0x0MjlQelJMNGdpMFFXdWdNQmhQSGY2UmNUNWVqU3M0NTllMndCN3hyclltNEp3bEtmNk0?oc=5"
     },
     {
-        "title": "Seafood industry warned of 'global food and energy crisis' amid Middle East tensions - intrafish.com",
-        "summary": "Seafood industry warned of 'global food and energy crisis' amid Middle East tensions intrafish.com",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcktZRXNPbE5RaF91YVY3bnFpMElOMWE2dEhiRlV0Q0ZuUFJ2SU9QUUlmR1VzQzRZbXlnUWVOcEpYWEhuZnc5MTI2aXVQNVRjajQ3ZzkzZmR4LWh3WmFLa1VDSWduZ1hScDVDZHdCUHlIR2NQeWdwYWstYmRZVUpGd2pCQWhNNTY2ZGlwZDZKVW1XeU1tX1M5R0FNYm5Kd203MEZuTWVUa29qck5CSGJsSDNaai1QSXU1TGh5OHlHM1hXT3JOMDk4?oc=5"
-    },
-    {
-        "title": "Fisheries and seafood - NOAA (.gov)",
-        "summary": "Fisheries and seafood NOAA (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUkhaZW5ERGs2R1E4NHdCV1gtMEhsdUthNEZta1p4NkstM1FFRUs5Z2gwZk15MG5aTExQN2dOQU1oUmxVcVBRUkpvSkl2eEZmOHQxcUJPS2lXbEpwajVVWkJSZWRrY1ZtUTdWSXhXckJ4Q0F3Vkk3RjhRZWpqN2R5WnZwbnlYZmdTNXc2M3Jn?oc=5"
-    },
-    {
-        "title": "Lobster Egg Study Sharpens Enforcement Against Scrubbing - The Fishing Daily",
-        "summary": "Lobster Egg Study Sharpens Enforcement Against Scrubbing The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHJOMTh0Nk1wWFlFdlU0OThSM0w5N0NDZGdlNjhtLXR5Z3NQQ2FVYWdqY3RxcGUyQlVPZ0Fwd0tKNXp1YTJYZmY0SWpXSHpzQ3lxMmxMMnNNQWlpTlNpeVlMbmdqWHpDYW1yQUgzbjd1Z0t5VjY1QnRMdWdWZGVoOUpXWXdYVmNrdlNYNVh2OV9fQmRRdUVKWVZaUU1hbHJYQmJUbV9SbXdPZ3BGejBHTUcweDlZQQ?oc=5"
-    },
-    {
-        "title": "Thai fishing industry nears a standstill as Iran war pushes up fuel costs - Reuters",
-        "summary": "Thai fishing industry nears a standstill as Iran war pushes up fuel costs Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY21kOWd2dEVPOHRKOTZRN2JkRWFxSFo5VEhZUGFSUkJYNFNuZUpQZ1BwOGVlbEE2c3Q3aVE3Q0tLaVlNalVMMlU5M0FMV3BqdzNZN1FOU2FiVDdnMlBFb1hFeDEwWV92ejZrMVRwemZqekhpOF9yOUZDclJ0WW1CSnVwWGhBMFZYcHdPWDY0Ui1BaUlGLXM0dklvVHh0aF9WRXRxNXNpcGc3N2FNaldCRjJzWlU3VTZrcFdkcjZtMkg?oc=5"
-    },
-    {
-        "title": "Engage With Us at Seafood Expo North America 2026 - NOAA Fisheries (.gov)",
-        "summary": "Engage With Us at Seafood Expo North America 2026 NOAA Fisheries (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5odjJaS0pGMEIwZVZDNGxZX3paTWwtVFY3Wmw0RTQwaV9jS0NmaTk1TjJmYWt6Vk1BMXRncGs1UkhXc1pkcUhENGhfdEpDdzZfOVhqR3h3amNKSllDclk1WU5EdTl4TFlIbVRPY2dRQzV3d0dPMGdYQk8tNA?oc=5"
-    },
-    {
-        "title": "Keyport appoints seafood industry leader Craig Morris as president - My Edmonds News",
-        "summary": "Keyport appoints seafood industry leader Craig Morris as president My Edmonds News",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTl4WnJmd0VFVDkwLWxuZmFYUzZtc3JURFlaYXgyTWtBV0twSXRsYVBSTk1LRk9aSEtQVjIxTmdtUUQtSlg2a3VzdGZ5RmVQdWgyQWhnY0pNUlBxUzBJTm9ZV0U1Mzg0OG5hSTh6NUt6ckxiZHdjNHV3RG01X0RmVWFZeWhwcVZybUZPOTJZMWpBci00NmwyY0Jwa2tBSVBMRDBR?oc=5"
-    },
-    {
-        "title": "Terrebonne Parish seafood industry seeks answers after oil leak - fox8live.com",
-        "summary": "Terrebonne Parish seafood industry seeks answers after oil leak fox8live.com",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWY3UkE0MHBFVjZYZ0VlRGVjZVZHd1dCQzVHSWZmN04tS1BqWk1kM1BjQlExejRCRjhzRDRyaF96bzZBQmUxTkN3emZEWDZHWGVhelJEVDJsWkI5ZFo2azhORUJEZlZKOGxNOXZKaS1lY29oeGgzWkJpM1h1YllCU3JQa2NONUp6Tk9McklnblA0OFNScnVRMWtVQmluYWhUaXfSAbYBQVVfeXFMTnZqS2Q2WHlmUl93cmVRV212dDVIN2tRR0I1Wk5RVzhKM3pWd0VlSEV3WGFpZW04YjR3VExSa0NVNElZTzRLcmxLXy02Ul9KdlZBUG1mMUlpMkE4WXVMRm9JTC1MLUExWnhrdW5iLTlGM1J3aVpKQ1dGdEZmaFp1LTdldG1XM2NiNjdaR2FEdDgwLTU1bkZvV3J6bTZOUlJ4QVhPQmdyVnpyejl1UHlMTUNUckZyTGc?oc=5"
-    },
-    {
-        "title": "Canada’s fisheries minister pledge support for industry as DFO announced fisheries fund renewal - SeafoodSource",
-        "summary": "Canada’s fisheries minister pledge support for industry as DFO announced fisheries fund renewal SeafoodSource",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDZlV3l1Rnk4UlRDR1FBbHpGUDlCczRUX3czbmpUN0plWnhPekZlLTBvVWpGVkZaMkRfMjRKTHkxVVoyVWEyRGtzdDM5cTNnM3ZaZFdHSk9sNldXZG5CNWhMVWJwemtiUzV1eW9nOVY5cUdvTDExMXRmNlJTY3VCSEt6dlJSU043SE04VWdSQlhsZDZTbF9vODBydWwteUJMMmp3dlV2UDRUZFhKN0RzRDRHSmE0amZWeUZLcV9xanJiZFY4d3NQWU1VcDB4NlFORWxJMDRIbW1JOG8?oc=5"
-    },
-    {
-        "title": "Maritime and Seafood Industry Museum inducts new boat - WLOX",
-        "summary": "Maritime and Seafood Industry Museum inducts new boat WLOX",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeENTNV9yNDhvRE5JTzJDS2NzV3VwV182TXBiZENibWxHQ0hkdWJORkd6Z2xfb0dObXM1eFlVdDN5a0FETld4OFg3Q0RqcXBISS00VE5rVV9zeXhrNkVOMnFsMTVGbFM1ZWRtMTJjNjdSVW5uRW5GZU1Ua1FLOWJJWS1WZDlvMWNwelHSAZ4BQVVfeXFMT1FzSVdTdG9sWjFidkhJdDI0RGdXTjU3dWplTVY5TlR2ZGRHQ2MwSnVyVjk3c1hoTUZpdzNuWGl4T25kdFNsWlduZ21NQ3NzdEhuUG1CTVJacGZTQ2lqX1FRRTFYN3ZxSVg1QnotTGZBWlUtUEFaMjVtQjNoV21PNWlPeVpzOE1Gbk0xQWFhaldrcEZCZmhuM1IzbzVsLWc?oc=5"
-    },
-    {
-        "title": "Partnering with the Fishing Industry to Monitor the Northeast Shelf - NOAA Fisheries (.gov)",
-        "summary": "Partnering with the Fishing Industry to Monitor the Northeast Shelf NOAA Fisheries (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUlqOWQ3eWNpOFJOZGdIX0JHd3hDYnJLa1hRZk96X0h5dkQxazZQZ0MwSE5ySFJIanFqczNBek9QS0JzamMyS3M1dE5PMjdDTmJNbGxoaXVqTFktSlp3MDF3ajFfcjZrbWR1dG9nWmdTY3ZVS2hUZzFLVGN3WjJ6bkJ3eXcwMUszWV9kdUpaQjZJT0o0dzF0Zzc4T0FTczRJTGF6aUpPejlGLXNDMGFZX0J4a1pFNTN5dGRGUWpXZw?oc=5"
-    },
-    {
-        "title": "Stronger ports, smarter farms: Japan’s seafood sector remains on guard since the devastating 2011 earthquake - Global Seafood Alliance",
-        "summary": "Stronger ports, smarter farms: Japan’s seafood sector remains on guard since the devastating 2011 earthquake Global Seafood Alliance",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdU04VkhsUVE0MTVGQ25Fa1VCaVpnZERYcUJLeERCNjdnZzFtLXlPSS01ekY2WGdPbWY3WndVQXJmdGlKM0ZrUVF2eUdWenMxV3RRcW9oLWZIVE5Rek9UVFppRkZla0RRZlNER3Y0OS0wemtXUklOSGEwTGYzUFZmUVg5QXR2R1h5cXdNVk9BeTd1NmdGYUdDd2VtQVZBeXZTM3ZYNlcyRmowR0NjdGFzUUhxdTdiVENiVUZ1N0VGNDFKc25qa3M5WUNoQksxajVwQTdLZWdFV1JzQXo0WWc?oc=5"
-    },
-    {
-        "title": "Seafood industry digests impact of Sysco’s Restaurant Depot acquisition - Undercurrent News",
-        "summary": "Seafood industry digests impact of Sysco’s Restaurant Depot acquisition Undercurrent News",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3U2bEVwdWxOT3Z2ZXRscFVvTlVNQlRMN3ZLVDB1NmJmZ0k4N2stam13aU5UNHk3Z1ZONndwOHQ1Slc5NFo0bEZsVzZQRUZhVWNaV2NXNGFSMU9ZWkd6d2kzcGU2cWhxQ0NkczdhTXZQOG8xMURVN3NVQWtqTEZMU0c1ZHNUZXFYbjluUXIwQVNoS3VqMHlPcE9KZndrUGtIRjItcUo1UVVXWGxtam9QdUtkMWNTZw?oc=5"
-    },
-    {
-        "title": "Cornwall IFCA Proposes Emergency Limits on Octopus Potting - The Fishing Daily",
-        "summary": "Cornwall IFCA Proposes Emergency Limits on Octopus Potting The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWNaNkg4TmxGY0xUdThGdmVYSDEwM2ZNdEI2T0RCTzFyU3hnYWtNX1BuUVNjUjlVTjBSVmFhOWc1MUZmblMzQnhDaVFCTmZKeHFxSi1FZEticFJLQWNLNmh0UVZRZmIweVUzZkM5RGFNVkdZWEc5X2NsN25WU0RvR25wZ0QtSXJLMVExV3NNbzk0clJIQmVWLUpjMVZ4aHJMOTN4N1VrSEdIVW5ESnBoQmU3c2pNalhm?oc=5"
-    },
-    {
-        "title": "Alaska lawmakers push for continued ban on Russian seafood imports - KTOO",
-        "summary": "Alaska lawmakers push for continued ban on Russian seafood imports KTOO",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmg2M1VkeWo3Szg1Tm9jRExicFVfcGx0RkZ2Y3N2UFJ3bVpZdjRSeGl2dU1raUw0X3dsVVNzWkVOY0RmeXl3a3hhdEJwZjdaQlg2ZG5HX1Fsa1kzLXUtLTB2cXhLc3ZxeVZFbUpydl80ajh1YzZwOE84RkdkcEFYWU9TazBRTlFPZWc2b3NwUnpaZF8yVm54QWN4enAwYmhn?oc=5"
-    },
-    {
-        "title": "Gulf Coast seafood industry’s future uncertain after Supreme Court tariff ruling - WKRG",
-        "summary": "Gulf Coast seafood industry’s future uncertain after Supreme Court tariff ruling WKRG",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlVyaGpDMkE1Z2p2N1N1RU5JVVhCTUNnRGVYY2dhN0JCZDNwZy1NWVFpanMwalhiSVJrQXRuam9veHY0a0gwM1JaNjFQVTVNM3lCNWx0YWdpSDRRcHM4Q1VJV0R1U0FNc09hb0hiZ3M1VVFiRFpHaTAzOUVIUldhRE9wdlljakpiRlVoTXJrX2tXc1hmXzJhd1dqNThfbXRhc04teGRuMzFGTkVEWXFRaF9qYmhwQdIBuwFBVV95cUxNTXJSR2daX0gxclpJN3l3dXd3b3BnZU15OW9rTjFKMVFZTnRYaTEtWGNUTHRHblM0VjhrQVloSWJadmxLSFZHbld5S2dqWENMMUk2MXd4Q3Q1N19aakFFSVFONDVzY2V6WWs0RGpsbHoySW5VRDdMUEh1dkc5VmpkV0hWbFpnVkVmalRTNUJGMDJqZVg5MWFMQV9kX0RLUmJhMU03Rlo4enRqeHNCSTJXUEtkMVRlVlh3S3hF?oc=5"
-    },
-    {
-        "title": "USDA Creates New Office of Seafood - Civil Eats",
-        "summary": "USDA Creates New Office of Seafood Civil Eats",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5VmlrQTdzWVppamNnNGJUT3hITl95el9tZVpyaWphY29VRlE2ajZDYUcwWDZMTkZCaXB4VEllaFFDSmZTbUFVa0VRcGYtVmhtZlVxUUJmeXhRa193ZWRRY0pWcTQ0SnhOaWFoVDhtMEtWeWpMcE00?oc=5"
-    },
-    {
-        "title": "Grant to Wanchese Fish Company to Support Va. Seafood Industry - Morning Ag Clips",
-        "summary": "Grant to Wanchese Fish Company to Support Va. Seafood Industry Morning Ag Clips",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamd4ckdueGdBOFJOZXZjc21qT2pCWjFGdVJIYWNaRHk2OG05NEdBbl9pZlhiLVIzNzBtTkFVOUFpZTkwOW15R0xFeXZPN3V5QUZUbXU3eDlFWTQ0dkdYVTVYOF9iTjBWTFh3Unp2bzlaQVZzN00yMk91Y21KejJtU0lGQkktMk9EUXc0OHVTMk5JR2JCTWQxSg?oc=5"
+        "title": "LDAC Urges Coherent BBNJ Implementation with Regional Fisheries Bodies - The Fishing Daily",
+        "summary": "LDAC Urges Coherent BBNJ Implementation with Regional Fisheries Bodies The Fishing Daily",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnMxNFl5bVFsOHhjYUx5NlY1SjdvczZ5VVVVcktxUlFBSDRLZllXY1BvQ19IS2RlZmJvMnJMSmVrT0poUWVTcmF4ZEJFQnNPMXJCazE0R0dFVWFIbC10VzlOYlpBYlU0a243TDVSOVJzVFZSdFB2RjZLRUhlU0FlcjdHQ05mRDgtNFhUQjNnRElvazVMUmtZNEp6RlU1aGkySkNUYkNjZkZTeG5QV3NUSFV2d09yREZHaUlUZC1SdV93UQ?oc=5"
     },
     {
         "title": "The challenges of keeping Oregon seafood local - Oregon Public Broadcasting - OPB",
@@ -870,24 +765,94 @@
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RR3l1Yk1oY002dTR4cHptdzlxWGUzVHVJVG5fRFhESjNjYUFFNkxVd0tlYXFfQVgxaWVmSTA4em5icUVqMnA5dkctTEdPVFcwME1weWhoUktRZzhXbWFBYlNSMWczVkNQcmJNaDM5VQ?oc=5"
     },
     {
-        "title": "Philippines weighs increase in fish imports, subsidies as fuel costs squeeze seafood sector - SeafoodSource",
-        "summary": "Philippines weighs increase in fish imports, subsidies as fuel costs squeeze seafood sector SeafoodSource",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3F5U1J4Y3F5b1dKNXFjN1dvWkROLWxweThIMkV1MGZ2d0drdjBZVzlRSlpTR2NoZGJtX3pFLXU4UE56cHBVczdIUl9vVjQzMThVQjF4ZmJaeHA3YWs3dkhUSWtpMXdpeS1HT1RNY1RqUlROSFRHT09saVoxSFg4NTVzaVIwa3A3dnh0N3dfakZ2XzJMazV0NmdPZ1c2eTllejVMUFU0ZzNZZTVSOGpodkgtQkJMbzdEay1MYnVyT3ZRTEhVZlhRY0tUc2F4WjA4bjhUWA?oc=5"
+        "title": "Southeast’s seafood industry needs to be part of the revised Tongass management plan - Juneau Independent",
+        "summary": "Southeast’s seafood industry needs to be part of the revised Tongass management plan Juneau Independent",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLVkzNk1XMGJwanhPMGxYcllDZVYwNFF3QXY4aFNIWEpENTN6SlpUTU1TejFQS0R5UGZvZVJNMzAwXzRnS0c3ZWVGdEhUS3ZYMG5XZ2NOYURreGdna2N1WFUxeWg4OGZPdDBILS1lVW5ZX0xqeTZvTFRzb09qcm5va1I4M08wMWRLZmJCeklzQXpRTGxfb2p0Y3MtQnF6Z3c1UU1MOVJRQW95Y2NTY0JITXN5V1BNR0MtU1ZGVE5wZjY?oc=5"
     },
     {
-        "title": "Terrebonne Parish seafood industry nearly shuttered after oil leak - fox8live.com",
-        "summary": "Terrebonne Parish seafood industry nearly shuttered after oil leak fox8live.com",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTh3OFlxZWk3TkVoai1IVFlTRXNPNGRiZGxpekppMGZ4enBzeDlscVZvVmlUUzJITExxb1BtbXlWUnlCRUxNeFNxZ2pZR2tqNHNXaFpzNFdEbFB3LVVDS1NyLWtfUE9PeXdFZnBGaXdvcWVJWTJOc3FrN204dmluOXE0VWdZdXA5MTZTREpRVzRRNTZFSkZQSk1ORUNkdFAxWjEwWDFSaEpONWw5UXc?oc=5"
+        "title": "Rabobank: Seafood industry faces ‘prolonged instability’ as tariffs, tensions reshape trade - Global Seafood Alliance",
+        "summary": "Rabobank: Seafood industry faces ‘prolonged instability’ as tariffs, tensions reshape trade Global Seafood Alliance",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHF2UVVCYVBQY0ZZa0RyU1lScTNoWWlUdllsQXdoZEVjdS1FUUpVSXl4MlZBZzVxTVFNS0Nac2RGNHl6RjdCbFVvM1NoWGNSYmNfMjcweXRscFEyejFiUUhPTmo2Rk9Yb0tUcktaRDBRZ1hWYzFpUFFUczlpbzZrOFdxcHFxcWcyZHF0R0dwUjVaQ3ZEbk5RYnhTS3UzNU00UnlkNW1Dc2NuZGFGQWlyR2lydW5JZEZOWUllU0E2M0xzSUZaLWc?oc=5"
     },
     {
-        "title": "Seafood industry looks to premium retail offerings as consumers cut costs - intrafish.com",
-        "summary": "Seafood industry looks to premium retail offerings as consumers cut costs intrafish.com",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVJlSHVDSkRSWnAzaVgyem10MnF1UzdRLXpaNnBGcU9YT2FRaWhtZUo5RFUyaDRZTTlWNTBoY0wtamZKREZmeV9WUTNwRmE5ZGlNQUMxOS1HS0VSSFUzWmN5OHZwTDVBenlQeGR0elBqZ3dfbVBHX1FvREhGSHQwbmRFVGxBdFRUN05qNWM0YUl0Q1BKTkVVdUVKYXpWM2tlbWVrdl9IaTJramh6UXItTHNsSUFsYnRmQ2Jz?oc=5"
+        "title": "US Seafood Industry Gets Support - AG INFORMATION NETWORK OF THE WEST",
+        "summary": "US Seafood Industry Gets Support AG INFORMATION NETWORK OF THE WEST",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXo0cVJzeEVmRlp3dDRZbUVzUG9vLWNJdmVGdF9iaG1lTEtEVGpTdzZSN0ZqZ1dxVGlXMzhQUGRMbVN4b1l2THhHTXdaYWZDcC1BdFY1TG1vR2dDaU1vLU5GRlhxZzRUdmUxaFptQ3laallkQno4bXhiS2pKMGViUFdpWVZQR25QYWFSeTYzMXdoZw?oc=5"
     },
     {
-        "title": "British seafood trade hits £6bn despite global challenges - The Grocer",
-        "summary": "British seafood trade hits £6bn despite global challenges The Grocer",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWpRVHVzZi1wODJNYnNOSXZUMGNpUmRfRHFHLV8yUXNJaFl1dnhTOUkzUzI3NHdwRVM4X3BfZDBSOFk0X3hSdWRYM1lZTHZSbW9DMWlHdE9RVjlPY21FYV9JZnVRX3hiRTY0WEJLbjN6bTF0NlJKbGxka2FZT01jbnB2T19KVFFFSXB1aUZOemo3aGNvckRSUFlBMUVfd3VXQWtOWmRTVQ?oc=5"
+        "title": "Keyport appoints seafood industry leader Craig Morris as president - My Edmonds News",
+        "summary": "Keyport appoints seafood industry leader Craig Morris as president My Edmonds News",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTl4WnJmd0VFVDkwLWxuZmFYUzZtc3JURFlaYXgyTWtBV0twSXRsYVBSTk1LRk9aSEtQVjIxTmdtUUQtSlg2a3VzdGZ5RmVQdWgyQWhnY0pNUlBxUzBJTm9ZV0U1Mzg0OG5hSTh6NUt6ckxiZHdjNHV3RG01X0RmVWFZeWhwcVZybUZPOTJZMWpBci00NmwyY0Jwa2tBSVBMRDBR?oc=5"
+    },
+    {
+        "title": "The IntraFish Power 100: The full list of the seafood industry's most influential executives - intrafish.com",
+        "summary": "The IntraFish Power 100: The full list of the seafood industry's most influential executives intrafish.com",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ0Nsc1pvUDNTMklLUWF2bU1fNDBjeU9Kano5ekltOHh6Q2NzZHAwYjdHdldic0FxaFdlLUV0eGFCM20yNWFidFVwcTlyYVpycnUxZ0NpcEZCV2pzVE1TbkhTbHNMUmhkRy1SZ1JWTE9VTjVjNDZZMmVWbWRSdmU5WGRfMFN2aVJlVHBLV05Cem1Hd1VTTkF1OEROeEtRLVZTS0gwTWZhaUhOTGY5R3FFY3VJTzY1MWxFdW9ZSWVyNmM5NVM3aUx5RW5uZ2JtY1NJ?oc=5"
+    },
+    {
+        "title": "Engage With Us at Seafood Expo North America 2026 - NOAA Fisheries (.gov)",
+        "summary": "Engage With Us at Seafood Expo North America 2026 NOAA Fisheries (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5odjJaS0pGMEIwZVZDNGxZX3paTWwtVFY3Wmw0RTQwaV9jS0NmaTk1TjJmYWt6Vk1BMXRncGs1UkhXc1pkcUhENGhfdEpDdzZfOVhqR3h3amNKSllDclk1WU5EdTl4TFlIbVRPY2dRQzV3d0dPMGdYQk8tNA?oc=5"
+    },
+    {
+        "title": "The seafood industry bets Americans will finally eat more fish if it looks more like meat - The Durango Herald",
+        "summary": "The seafood industry bets Americans will finally eat more fish if it looks more like meat The Durango Herald",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMzE1clJRbHR4LU9kTGdkWF9qUmt4aXZFVmkzTEhhek1sSVRueFh3Wmp6S21rXzQ2X18wdEJrNE5aOXE3c3h0dndUNjJncm5SWTRPckhPOVZLbXFiM0JyTzc4ejl4QWtuUF8xQzM4ZVBGaVVpYklxeEpYVk5VRTFwTXBvZUNpdTBNYVpReW4yVkQxVWlJajRqNi1oOVBjWl9wUlBjQWlGTkRaYldNekVObElkSl9tdHdTNUZzd1FxUU5lb0hTRGQ4NA?oc=5"
+    },
+    {
+        "title": "Seafood industry braces for fresh US tariffs as policy uncertainty rattles trans-Atlantic trade - Undercurrent News",
+        "summary": "Seafood industry braces for fresh US tariffs as policy uncertainty rattles trans-Atlantic trade Undercurrent News",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa0ktUzN0aTQ5NjNkbU5LLXZnV3FLNlR2UjZ4VFJUd1NNMnhMa3Y2RWlwT2l2dEpPb0RwcXMyTEFTZG5UMTRiTDBrNVZKRE9ha21UT2xndzVmVTktZkZQVU9KWDE4T1RHZWxxWE9SUm1rZGllM3dsYVQtM0R6UGgxQ2R0MWJXZUt0YTJMbFVwS3RPTTdkcGR4TGY0YXgtR19yUXpKRXBjbzdMTldiQVQyeWU3MXdmZWlUeUY5TzZkd0JIUVNmd0V4Z0hlUFQwRkl1RXNGWEt3?oc=5"
+    },
+    {
+        "title": "Seafood industry warned of 'global food and energy crisis' amid Middle East tensions - intrafish.com",
+        "summary": "Seafood industry warned of 'global food and energy crisis' amid Middle East tensions intrafish.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcktZRXNPbE5RaF91YVY3bnFpMElOMWE2dEhiRlV0Q0ZuUFJ2SU9QUUlmR1VzQzRZbXlnUWVOcEpYWEhuZnc5MTI2aXVQNVRjajQ3ZzkzZmR4LWh3WmFLa1VDSWduZ1hScDVDZHdCUHlIR2NQeWdwYWstYmRZVUpGd2pCQWhNNTY2ZGlwZDZKVW1XeU1tX1M5R0FNYm5Kd203MEZuTWVUa29qck5CSGJsSDNaai1QSXU1TGh5OHlHM1hXT3JOMDk4?oc=5"
+    },
+    {
+        "title": "New bills aim to strengthen Louisiana seafood industry - WGNO",
+        "summary": "New bills aim to strengthen Louisiana seafood industry WGNO",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSW1MeU5ORXZrRGxMbGRVX2dwMnZ4UnFjbF9maG1CV0RxQy1nWVNFWXhoVTFkY3lsek0yRmlCVGNQNnRjS01QZk5VM052czRoXzZXS3d4T2t2clJHaFBUQ1dUWERlbExkUWNCUGh2VGNmUjVtZG9keDJrTi12Tnc5Z2pTSlhTaWVvNFd3MlNEZ03SAZYBQVVfeXFMTmVuQkt6UHRPM2EtZTJpNWFzbnByUVgxekRSY1BjNC1FVDJZb0M4YzRRMXM5azMydWtrYXJ1TjlzT0V1c1RncC12N0toUU40a18yNnhFLWtrbjY1TlhPMVRSUFJIaW12a2NtRUtEcmlpTlpNUEE1ZjB3eXlOSGd6aGphV1pxY3FOaXpQSk5kX0tTOVc1NUNn?oc=5"
+    },
+    {
+        "title": "Thai fishing industry nears a standstill as Iran war pushes up fuel costs - Reuters",
+        "summary": "Thai fishing industry nears a standstill as Iran war pushes up fuel costs Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY21kOWd2dEVPOHRKOTZRN2JkRWFxSFo5VEhZUGFSUkJYNFNuZUpQZ1BwOGVlbEE2c3Q3aVE3Q0tLaVlNalVMMlU5M0FMV3BqdzNZN1FOU2FiVDdnMlBFb1hFeDEwWV92ejZrMVRwemZqekhpOF9yOUZDclJ0WW1CSnVwWGhBMFZYcHdPWDY0Ui1BaUlGLXM0dklvVHh0aF9WRXRxNXNpcGc3N2FNaldCRjJzWlU3VTZrcFdkcjZtMkg?oc=5"
+    },
+    {
+        "title": "Tanzania seeking investors for USD 108 million worth of seafood industry projects - SeafoodSource",
+        "summary": "Tanzania seeking investors for USD 108 million worth of seafood industry projects SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaE40TEZEVVgwZmp4THlsSjIzYlFKalUzMkVhX0RaZ3lHN1hxMzJLQTRlQlpJNjJkbWJMNVpsZGtVcmdSanBKNm9wcDhKNU9ZZXRNVXowYVd5aWVRNkFWN2VyZlhIa01xNFB5emJRSGphVFNHODExdmg2ZjFHVk5GbTI1V1lnX04wMml0YzJpc0hiMnA2M2lIeHFSeDhIT2ZtNUZqazVqOEZjV2xKZ1ZNMXBFdEJ4bTdKRENFZmh5TVYtWGFOZWJ1Y213Rm5qdw?oc=5"
+    },
+    {
+        "title": "CBF Urges Trump Administration to Fund Vital NOAA Fisheries Work in Comments on Bolstering the Seafood Industry - Chesapeake Bay Foundation",
+        "summary": "CBF Urges Trump Administration to Fund Vital NOAA Fisheries Work in Comments on Bolstering the Seafood Industry Chesapeake Bay Foundation",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmx1enNSeWN1X3NOc1B6and3ZTNNQ2NUUDZSTGtMdlJ2MnZkN094N05HMUt1Q21VU193MGF6SzhvU1lwZ3ZOREpOUWUyNkk4SXJSZFl6a3VBdExUZHFnYXZ0N3dhOWlSWm5YTDFWOE5hci1ibTVXM0lpSkhseWZjdFFEcXcxdGFhXzVGYzBRQ2FNQWppOW9MNXlGODFXam9mT0pINXYwS3hGTEVidDNDLS1pMjA0R05MYkFHdlVDNWp2aWduQ3ZzZkFLMVVDc1NGbDFv?oc=5"
+    },
+    {
+        "title": "Indian seafood industry leaders call for market diversification amid US tariffs - SeafoodSource",
+        "summary": "Indian seafood industry leaders call for market diversification amid US tariffs SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON0t2VFFFa2FxT1ljSEJCcWNnNlVpSG0yRmpKWmx1LXhkQnhDYXRpSUFXRm9WQ3UxUWdDSkN5dkcxUUdzeDlOSzBOZEk5MjUtTmg3VTBrLUgtNHdLTk5oS3ZrOTNaWE05Ui1ZR1d3TkdvUWpnbEVYQXVhczhWWVdwQ0syQmt1ZmdaWjBQZGFVZDRoVHl0RmtzNlJwY04tbkZ6bFZIZVVaYUpraExOOTlWcG5EOFZUQUNvUlVBNmw1amhMbVlYcHc?oc=5"
+    },
+    {
+        "title": "“Dress the bride” – In competitive climate, new seafood ventures need to professionalize before soliciting investment - SeafoodSource",
+        "summary": "“Dress the bride” – In competitive climate, new seafood ventures need to professionalize before soliciting investment SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMHNRUWZvRXpBSlMxVm94dko2emFFUzJMR2hvMjc1OFlVekx3elhwYWQ3S0o5ci1yYWxlUDhUNm53TFluYnVrQnNCcTY3MWN4NXExWkJ1RlBQNUZ1OXFZZ281UWJXdkM3cFpSNEVQUzlXei1PUkxKTlhWRW1ZU05LNTd2MUktY1prc0FYWlVsOFBDdllfeFZXd0JRTjdMZ2JHMHBLbGowVFp3YUZ2UWN4YVVIU3NzZVlHemN4RURFT3MwM0xDWjNzNkVUQ0NFSngzY1Zob2thWnQ1eXJNQm9tTzBWaGxYNVg2emw4SGpHVEc?oc=5"
+    },
+    {
+        "title": "Canada’s fisheries minister pledge support for industry as DFO announced fisheries fund renewal - SeafoodSource",
+        "summary": "Canada’s fisheries minister pledge support for industry as DFO announced fisheries fund renewal SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWDZlV3l1Rnk4UlRDR1FBbHpGUDlCczRUX3czbmpUN0plWnhPekZlLTBvVWpGVkZaMkRfMjRKTHkxVVoyVWEyRGtzdDM5cTNnM3ZaZFdHSk9sNldXZG5CNWhMVWJwemtiUzV1eW9nOVY5cUdvTDExMXRmNlJTY3VCSEt6dlJSU043SE04VWdSQlhsZDZTbF9vODBydWwteUJMMmp3dlV2UDRUZFhKN0RzRDRHSmE0amZWeUZLcV9xanJiZFY4d3NQWU1VcDB4NlFORWxJMDRIbW1JOG8?oc=5"
+    },
+    {
+        "title": "Gulf Coast seafood industry’s future uncertain after Supreme Court tariff ruling - WKRG",
+        "summary": "Gulf Coast seafood industry’s future uncertain after Supreme Court tariff ruling WKRG",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlVyaGpDMkE1Z2p2N1N1RU5JVVhCTUNnRGVYY2dhN0JCZDNwZy1NWVFpanMwalhiSVJrQXRuam9veHY0a0gwM1JaNjFQVTVNM3lCNWx0YWdpSDRRcHM4Q1VJV0R1U0FNc09hb0hiZ3M1VVFiRFpHaTAzOUVIUldhRE9wdlljakpiRlVoTXJrX2tXc1hmXzJhd1dqNThfbXRhc04teGRuMzFGTkVEWXFRaF9qYmhwQdIBuwFBVV95cUxNTXJSR2daX0gxclpJN3l3dXd3b3BnZU15OW9rTjFKMVFZTnRYaTEtWGNUTHRHblM0VjhrQVloSWJadmxLSFZHbld5S2dqWENMMUk2MXd4Q3Q1N19aakFFSVFONDVzY2V6WWs0RGpsbHoySW5VRDdMUEh1dkc5VmpkV0hWbFpnVkVmalRTNUJGMDJqZVg5MWFMQV9kX0RLUmJhMU03Rlo4enRqeHNCSTJXUEtkMVRlVlh3S3hF?oc=5"
+    },
+    {
+        "title": "Terrebonne Parish seafood industry seeks answers after oil leak - fox8live.com",
+        "summary": "Terrebonne Parish seafood industry seeks answers after oil leak fox8live.com",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWY3UkE0MHBFVjZYZ0VlRGVjZVZHd1dCQzVHSWZmN04tS1BqWk1kM1BjQlExejRCRjhzRDRyaF96bzZBQmUxTkN3emZEWDZHWGVhelJEVDJsWkI5ZFo2azhORUJEZlZKOGxNOXZKaS1lY29oeGgzWkJpM1h1YllCU3JQa2NONUp6Tk9McklnblA0OFNScnVRMWtVQmluYWhUaXfSAbYBQVVfeXFMTnZqS2Q2WHlmUl93cmVRV212dDVIN2tRR0I1Wk5RVzhKM3pWd0VlSEV3WGFpZW04YjR3VExSa0NVNElZTzRLcmxLXy02Ul9KdlZBUG1mMUlpMkE4WXVMRm9JTC1MLUExWnhrdW5iLTlGM1J3aVpKQ1dGdEZmaFp1LTdldG1XM2NiNjdaR2FEdDgwLTU1bkZvV3J6bTZOUlJ4QVhPQmdyVnpyejl1UHlMTUNUckZyTGc?oc=5"
     },
     {
         "title": "WWL's Lily Cummings shows how the seafood industry is preparing for Lenten demand - WWLTV.com",
@@ -895,34 +860,49 @@
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSnR1VnNMcHVCbUFDb2ZKc2tseWFwV243RFV1QTBlTjFXNGp3LTdOSzNxajRoSXlka2FITnAzTnQ0V3BMZmV4c1J4MHZPaVFjQjhWMFBVS1ZoUDBBUHJkZEhvRUtpNWZBUXhXeHlSTXFCbmI2MXU5RE8zNGdfT2ZSWm1HNlRLVEZPZy1QUnI3dFMxWHlTNTNWSVhhTEIzTE9JeEppUkd3Sk5KWS1yT01kZjRCbGdZN3NDdXF1V0c2emIyYTBsMFI5UTJwWjB3amdWTmMweXNMZ0pRZHBBVU4tQUY2S3VCRjRFZU9FcUtGMGV5QQ?oc=5"
     },
     {
-        "title": "Irish Fish Producers’ Organisation Expands Team with Brussels Base - The Fishing Daily",
-        "summary": "Irish Fish Producers’ Organisation Expands Team with Brussels Base The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ1g2N1dxakt2SlgzWldXMS1DaVdhc2VzNVJkV3l4SHBFbUxqLVlQRkltTFhPU0dINmp1X3FPeEZfY00zR3NoaEFTYXZSNllPcFBqdUV2a2s4WDB3eTI3Z2hyZWJuVlBzYjNla3hpMUZTNkEtUHAwWGtFaTFRU3NkdGtSODFZNFNfZGMzcEZkU29xeHlmQXJEZ3pGeG1PUW83N1ZCbmhKbjEwZXhFWnQ0aGlKZFNTZHl2MFNaVDAtOA?oc=5"
-    },
-    {
-        "title": "Seafood industry experts warn supply disruptions are pushing seafood prices higher - News4JAX",
-        "summary": "Seafood industry experts warn supply disruptions are pushing seafood prices higher News4JAX",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUS11YTBpcUdsMzlxTmVFT3JBSlR5RXQyMUFzTlNIV29RNDRsc19XT0lEOTE2NkNIaFFqZ05HMTZST0RJNWlmSFRFN3otQTFpeHg4V3lGVEpYcnV6MDlXTWJQaTJvUFlPZHZRYXVHR1lKTU5xak9McVNhbUJwU3I3X3FTYlo0UlN6bkhnR0habGhkRHJBdElkMS1lUlh1MDFNR2FLUFRRWldlS1NMWUozTTBYVnQ2RjdwQ0VfczRLcG5SUm9NYmUtTDdMdmU2Uk9oU0E?oc=5"
-    },
-    {
-        "title": "Oireachtas Committee Calls for Reform of Sea Fisheries Protection - The Fishing Daily",
-        "summary": "Oireachtas Committee Calls for Reform of Sea Fisheries Protection The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmZVcExvaUZEVk12Vk54VlVHSU53THZMdUZUcWJvOWF6Mmg1emkxdTRCVUNESmM4UzZqSDBHS2tQcnpVZFhCRENGTUN5LUw0NjdoSzJudUxraVFpOEFpVGQ1YktTLXdyQ3ZzS3VLalhrV2RfOUZ1eEUxZU9YQnp1NVZ0UUpRa3lXeVNBdE1qUW9UeDRUU2tWcjNqZkgzUWRzVC1RUDNaa2lVTjFaVU9BVEJrTlFyZjQ2QUFRNklhbw?oc=5"
-    },
-    {
-        "title": "Lucky Star and hake sales lift Oceana earnings - Bizcommunity",
-        "summary": "Lucky Star and hake sales lift Oceana earnings Bizcommunity",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2dDUVc0cEdqaHVLUWd2LUZvaGpXclNBRzJkUkM3ODVZdDlfRFNMU2NvbkxMYXI5STNrZnFSV29qWnhoVmxVV1N3bmlpR21mZjVtNVdRd09XNHFEN3gzUUVvZXhvcVQyYkFvei1ucDNUc05fUU9wazk2MGhLNWZCSmcwQVVxT0wtdUpqQUFFLWdkQ1AtNlE?oc=5"
-    },
-    {
-        "title": "MEPs Set to Vote on GFCM Deal and Discuss CFP Evaluation - The Fishing Daily",
-        "summary": "MEPs Set to Vote on GFCM Deal and Discuss CFP Evaluation The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHhwcHlRR2NJc29ZOWFxSGRZSkdpMC1MOUpmWGhFZUtYd3dMZG1FU2FZRDZEbU40N0NTRlcxVlpXQlV3R09EZGdvaHVtWm1qdlQ3N1ZQbkJpRlZUMERUNjZPQms1TTFCZld5OXoxUndFWGU0amY5aE9xYldycXhxMmFXd1pvTFItZ2VkM2k4Q2ZmZHQ4VS1nRWFSdFNjSE1acXJRejNQSzZlbUo3bkNR?oc=5"
-    },
-    {
         "title": "Evaluating economic contribution of seafood industries in Busan using hypothetical extraction method - Frontiers",
         "summary": "Evaluating economic contribution of seafood industries in Busan using hypothetical extraction method Frontiers",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXI1NjF2ejZ5NHZNS2NsWVBYU19fV09OVHVVWUtkY1FKMTJjekhKM3YxTVBZQjRDQjNZcEVnMUUzUUJ1bkVmbEN6NG5QMW9jay03WjRqZ0V6RDNpY2FGOTVRRGpGVkJOTGp5elRMTXVmd2NIVWk5c00ycy05MHVEREVTTVpWaThxNzl6U253VllVUTJKS3pz?oc=5"
+    },
+    {
+        "title": "Partnering with the Fishing Industry to Monitor the Northeast Shelf - NOAA Fisheries (.gov)",
+        "summary": "Partnering with the Fishing Industry to Monitor the Northeast Shelf NOAA Fisheries (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUlqOWQ3eWNpOFJOZGdIX0JHd3hDYnJLa1hRZk96X0h5dkQxazZQZ0MwSE5ySFJIanFqczNBek9QS0JzamMyS3M1dE5PMjdDTmJNbGxoaXVqTFktSlp3MDF3ajFfcjZrbWR1dG9nWmdTY3ZVS2hUZzFLVGN3WjJ6bkJ3eXcwMUszWV9kdUpaQjZJT0o0dzF0Zzc4T0FTczRJTGF6aUpPejlGLXNDMGFZX0J4a1pFNTN5dGRGUWpXZw?oc=5"
+    },
+    {
+        "title": "Op-ed: What the seafood industry can do to release trapped value in small-scale fisheries - SeafoodSource",
+        "summary": "Op-ed: What the seafood industry can do to release trapped value in small-scale fisheries SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeElzaVpobFZxRUdaaFNNaDRvcFlEckNmRmRENVZOd1Z5Q2hJdUZ3WmVGRlBLQlNxc1l4dDlmTzBWV3RKVkdLeDdJV2pRWF9NTUNTeGM5MVAydUlyU09WT1F2S2JlaVd5RWtsVGI0RURjZXZUVUdLUDdmaTNPcTJ6X3poWE5sSFpiVGhzUmpjT3FReV9INXFPWW8tMi1PRFJXOGVYR1JzUlk4cC1MS1Bvb2FpNTlCYmhHbEh1SHUxWnk3NTJyT3lpMmVaZXpUS1dHUXc?oc=5"
+    },
+    {
+        "title": "Seafood industry looks to premium retail offerings as consumers cut costs - intrafish.com",
+        "summary": "Seafood industry looks to premium retail offerings as consumers cut costs intrafish.com",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVJlSHVDSkRSWnAzaVgyem10MnF1UzdRLXpaNnBGcU9YT2FRaWhtZUo5RFUyaDRZTTlWNTBoY0wtamZKREZmeV9WUTNwRmE5ZGlNQUMxOS1HS0VSSFUzWmN5OHZwTDVBenlQeGR0elBqZ3dfbVBHX1FvREhGSHQwbmRFVGxBdFRUN05qNWM0YUl0Q1BKTkVVdUVKYXpWM2tlbWVrdl9IaTJramh6UXItTHNsSUFsYnRmQ2Jz?oc=5"
+    },
+    {
+        "title": "India and Russia working to form closer seafood industry ties - SeafoodSource",
+        "summary": "India and Russia working to form closer seafood industry ties SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEh0elc1SWNfM0RQRm9QbGZDdEFvbzUtdzVMVU1CZTNVRW1ESElMSFhxc1VJbzc0SURQQ0lyZmhGNGl0UTNTQjQyX0ZpbHJFbnpfTUZMWWwwbHZlVGxDT3NtbXFiTEtoT0Z2ZUczQnlBUG5tY1dmQUUwQmRDNWl5MjV3Wk80ZlNPSHNiMjVqUHlyS2FFSVZnUmM2QnY4bEpUVi05V2JyU0ZWMFZrX1E?oc=5"
+    },
+    {
+        "title": "For America’s economy and health, Alaska seafood is the answer - Alaska Beacon",
+        "summary": "For America’s economy and health, Alaska seafood is the answer Alaska Beacon",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmY5Ukx6dkpRRHNPbnVFd0cwamFDRmliMjB2YTFFQVdBWDAtMUJxTzNYT3BUR2lNRXNGZHZsWFB2ZXpNam9kX2QxNFF5MlhDN0JBLXh6NGFlMGdsNW9EcnY1eWY5OVJKSUlESEFDYjRwZDZNVnRlLWxNU2h6V2ZFNDZ4YUlBTEhQSmRNVFNBVlJsaF9qTmtPZGh0LU9qZw?oc=5"
+    },
+    {
+        "title": "Seafood industry digests impact of Sysco’s Restaurant Depot acquisition - Undercurrent News",
+        "summary": "Seafood industry digests impact of Sysco’s Restaurant Depot acquisition Undercurrent News",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3U2bEVwdWxOT3Z2ZXRscFVvTlVNQlRMN3ZLVDB1NmJmZ0k4N2stam13aU5UNHk3Z1ZONndwOHQ1Slc5NFo0bEZsVzZQRUZhVWNaV2NXNGFSMU9ZWkd6d2kzcGU2cWhxQ0NkczdhTXZQOG8xMURVN3NVQWtqTEZMU0c1ZHNUZXFYbjluUXIwQVNoS3VqMHlPcE9KZndrUGtIRjItcUo1UVVXWGxtam9QdUtkMWNTZw?oc=5"
+    },
+    {
+        "title": "“Seafood shoppers spend more” – UK seafood industry says retailers can’t afford to overlook the category - SeafoodSource",
+        "summary": "“Seafood shoppers spend more” – UK seafood industry says retailers can’t afford to overlook the category SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRFJaMS1ITG5aZVNjRjBlMXRRanBwQmNLc2Jrc1FCM3E4MU5oaFg2TlotcFFBU1gtXzRnTWZCdXJjN1hXTkdld25PZjROSVlGNkl5aTNHaGxVMlBkcnYwS1E5c1BWZGI4Mk5IUDBPbGdIZk9Ed1F1b0JCOTJ0NGJhdVhXMjJfcklkLXY0TkV1WFFTa2p5RnJmbjBNRkFIdmZvOC1RS2xRc2oxa1AyTzlrMHZzeWVES2FTZXRoVTM5VVZZdGZJU0dyTVRZeHFLbnpvYmEtTXlxb1JWZ2NpbFFkTkxST01HYlE0TTdv?oc=5"
+    },
+    {
+        "title": "Putin Visit Reinforces Russia-China Fisheries Partnership Growth Plans - Seafoodnews",
+        "summary": "Putin Visit Reinforces Russia-China Fisheries Partnership Growth Plans Seafoodnews",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjcwd3Mwd0xMZy1QeGlzNXBUODl6X0xxS3dzTGtXVXVIQ1JwRFQtdEhDTzVhTnowXzdEY1dOX0pkaloyckFaWmhfZTc0cTBqb0VUcWp1dkxZUVFWXzVXUF80UXBKNXotTlRMVWhORDNjMHB5d2tXLVhSckRQdDBtNVYydlVJZ1JvZWxwbkE2el8wVlBmWnB2dXpKMnYzM0JYcmRFaURtMEMyQklaSGNDV0VB?oc=5"
     },
     {
         "title": "Acme Smoked Fish announces USD 250,000 in grant funding for carbon-reduction projects in US and Chile - SeafoodSource",
@@ -930,39 +910,19 @@
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQak84bTVVS1NYR0t6NGVZNV9NOXdURnp0MzZNSTg1cXJmSXh0T3hkcFFnUEQ1dU1Mam90SHo4UVNQel9lR0EwRTdkUE1EM2ZzWlB0TkpUNEhqY2stZTdkTU96MlBHYXpqdDhWU2ZyRV9zRDA2Nm9pLWJuaGpaOWo2a1BDcGhHS0tKSXVRNWxVZ1hQWGJoeVJWc0FONTdZUl9jSXJmbFJmYkxMai1sMUdtU3hwb0xBVFZUT01vcGlSVzV5bHU0SmVZMFh2ejlyX1BJVzlqY1FRU3E4cmpuQUtiVkxMS19XM2x6QUhUcFZRNlhwbzAtdmdPeUhCYld6LTBqa2c?oc=5"
     },
     {
-        "title": "Faroe Pelagic Fleet Lands Strong Blue Whiting Catches - The Fishing Daily",
-        "summary": "Faroe Pelagic Fleet Lands Strong Blue Whiting Catches The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFRnYmRHOTAyWEJ5ZlJ1c3J4NzUtd0VwM3paNTdxN0x1eWRjeGNIYTUtZF9mUUFOZU1ucUtoRDU4cFRUUmxrbHJVM2t1WW0wcnJuQlpEaTA1MWFxUWloQVRYX2h6bEFxaHJhU21ud3NUTVcxY1lvcWJVYlpCenI4d2wwMjBMQ3hQbU8xM3J2LUF0LUpya2NvNDZNUl95R0pNeUYxU1ZpYUgtTUw0b0xiQU9rUQ?oc=5"
+        "title": "US seafood industry poised for substantial growth in 2026 - Supermarket Perimeter",
+        "summary": "US seafood industry poised for substantial growth in 2026 Supermarket Perimeter",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHJJZE9YYlJWcmhMWlpvY1g2dVMybFE5UXEtYTdqSmp2YjZSMmZPaDF5SDhYN29LcS1nUk5xTXpKeWtna0VadkhhR1FvOFc4TTNxZzNDMmZwRkZCRWptWHdJN015eUVoRzNiQmFuRU1VSUNDOHg5SmlpU3dnejVMWFNzbHVMbXpQQXBJM2lZUmVMckxEcngwU0FWTHBYTUVBaUtvVEN4aWR6S0l5YUE?oc=5"
     },
     {
-        "title": "Indigenous Delegation Challenges Seafood Industry at Expo - The Fishing Daily",
-        "summary": "Indigenous Delegation Challenges Seafood Industry at Expo The Fishing Daily",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVV5cHNVaVdPOTlxRjJlZ19uVXdRRTZlczdva0NHTmpDbzlRVV9JRTQ5SjROU2syVnloNnZuYmVDdGtqVGd2UDBuY21kclExNU5pMnVELVRIZDdJVUktSThrY1dGZHk4dTd3LUVHRVhqd2xQTEdYQTVRLVVscUxGZWhLcVZYYXd1MWliM1g2bWNaUU1EaWlnNUdiNHVNTXA0VHM0NXFic3hMWHJCZFhUa0FrQQ?oc=5"
+        "title": "Five Impactful Ways LSU is Helping Keep Louisiana at the Center of the Nation’s Seafood Map - LSU",
+        "summary": "Five Impactful Ways LSU is Helping Keep Louisiana at the Center of the Nation’s Seafood Map LSU",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lenpaZjI2TXpVYzNjVmdzQ0ZkT2JLUDRheWFsQmNlQmxEcG1fZkVPemM2QmZ2VWdNNlI3NkpBYndEZFBQMkltSUk3MEVKTkZXV3hBaVJPcjNhaU9wRXhNNVlNWWE?oc=5"
     },
     {
-        "title": "Trump opens massive Atlantic marine monument to commercial fishing - E&E News by POLITICO",
-        "summary": "Trump opens massive Atlantic marine monument to commercial fishing E&E News by POLITICO",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEhnY09KR3hHdGR5N25oajNTQS0tcjhhVDhMQUxaNVlxcFY2U3Zxd1B2VXFfeEM2LXNOMlMxZXZPWjJVdjNmUlRtRk55cktaWFVBMEJZMDh3NF80T0ItcmRXLTZxRF90VFNTUlBRSWJWQUctNmRvSnFCMENJNXZRQllLX1hTX2h6X3ZYcVF0SzI4SmJRZjRUNVdNa3RNR3Z4?oc=5"
-    },
-    {
-        "title": "SC’s commercial fishing industry is in decline. Offshore anglers, restaurants adapt to meet demand. - Post and Courier",
-        "summary": "SC’s commercial fishing industry is in decline. Offshore anglers, restaurants adapt to meet demand. Post and Courier",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkc3YnZvbjktY2RkUFp5cEF4b1h1WFF5VDZ3aEtpeVBfdDhLR2wzNDVzTHFxZGd6S0poQnhXR1FfVmJQT1JWMmdKWWN6RGpWbzd1T01DckdUSXVzVFg5VWJhMGJqVTB3eHhwa0NhWVFMcnRFOEhCMjU1UXRvZGMwOEF6MGNYdzlVRXBEZTB3RndhdkIxRjFhLUdfa28teVdiNVBUSm5OUEtfUjEwN1lWUzl5Rkg0SThiVzNabmxNT2NfME9fVXBfNEhTdUw3Rkk?oc=5"
-    },
-    {
-        "title": "NOAA Fisheries Seafood Strategy - NOAA Fisheries (.gov)",
-        "summary": "NOAA Fisheries Seafood Strategy NOAA Fisheries (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQblFhY01GMmFNUDRxbkwxTHN0SXM2ejFmNHpxSG91RXFJNzh3ZkQ5aXd3QWdDUjhWV0FoOVVmNjl5cFg3bnZGclM1VVA0aDI3ZTNHSWxYX0pOVUlHSXYxWTFGZ3ZndFg1RjBUWjlfRzhKMDV6WkJKSXNBTUhzUXp3S3NUYVRPcHd2U01MMkJhT3NTdVdPQnc?oc=5"
-    },
-    {
-        "title": "Climate change may soon cost global seafood industry USD 15 billion annually, Planet Tracker report finds - SeafoodSource",
-        "summary": "Climate change may soon cost global seafood industry USD 15 billion annually, Planet Tracker report finds SeafoodSource",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTDE4bjk3M2c2YldBUXdVQkFYd3JYME9lSTgtZGJ0UXVlWTUxNEFyRjFGSkNJRERBdGJoRFBRRDFHd3hwNG1XcTBMdlQ0S1h4QU9ENERBMFN0dkx0cXFZS1lXcGh2NFdFbWJwSmZtQ1IyRlVIRmJZWmFab0czLWd0NUg4Q19XYmlzeUpLYVQyUVRXOXBGanltY0ZRTHZYZ2kwRzNfeFFKUUtIZ2ZvT29JWnFFWnNSVWt4MkRwdkpNSUtldXdmMENJQWt0QXo2U3VoeWsxUk5OZnVCaENMTjRlX3cxV3JRamJfUDE3T1hfQ1BtOEdpanVUc3N3?oc=5"
-    },
-    {
-        "title": "Open-ocean clam farming could reshape the seafood industry - Earth.com",
-        "summary": "Open-ocean clam farming could reshape the seafood industry Earth.com",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXRDY0VRbHhzNG1yWExpZk11alo0OFpIQXVINUxpbGZGV3oyM19iRTVWN01UcTRLTTFfeXdzYzJIeXZkVi1vS2hHaktqZUhsVk5rbTFXeHhnLUNGaUVwVHc0ZVRDemg0WFJ2a1AxLTBkaXNtVTAwR2RYMDNuYlRTOGVWNVhsdHhha0Y1UENIcw?oc=5"
+        "title": "Alaska lawmakers push for continued ban on Russian seafood imports - KTOO",
+        "summary": "Alaska lawmakers push for continued ban on Russian seafood imports KTOO",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmg2M1VkeWo3Szg1Tm9jRExicFVfcGx0RkZ2Y3N2UFJ3bVpZdjRSeGl2dU1raUw0X3dsVVNzWkVOY0RmeXl3a3hhdEJwZjdaQlg2ZG5HX1Fsa1kzLXUtLTB2cXhLc3ZxeVZFbUpydl80ajh1YzZwOE84RkdkcEFYWU9TazBRTlFPZWc2b3NwUnpaZF8yVm54QWN4enAwYmhn?oc=5"
     },
     {
         "title": "Trump is talking Greenland again. Here's what the seafood industry should know. - intrafish.com",
@@ -970,9 +930,44 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeTI3Y0FfLW00YmlVVGtqclI5aUVfXzZFa25LMGdZaVZpcjhkQVdlSGVsLTZDaEh0eXlqTTdVUGNwbmI5RHVRRFZkcFBuWmJjT1ctWm53bjBIN3BGQnNaMkJXUmdDWFhDbWlNOHVqVmVVTlhlWWRxLVdwUy1hMDVjcENtV01aQlllNUpxWkZfMWtKQU9DSTQ1cE14ZklwREVvekZBOS1TcFhEMVlTdFNqWFk5WkxqQS12VGloRlBIVWQ?oc=5"
     },
     {
-        "title": "Ireland: Ministers Launch Food Vision Seafood Sector Group - Seafoodnews",
-        "summary": "Ireland: Ministers Launch Food Vision Seafood Sector Group Seafoodnews",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRl9kNUwtYmhxUG42NG1uZzAtQjRhMzh4RkxlWm92QVVUdmRiSEg3ZExLb05YbllRRU0yRHB4b1QxYmktY0pkc2ptMmI3UnVjYTJYd0tBd2J2ODNmaDd4OWh2NzhpS1YxZ0xrRF9uRHVrbExac01EbDdOYzhrb1dFRk1EYUtaQ3JYQnpQZTVwelo4TGtUZFhwY01GUGVJMC1n?oc=5"
+        "title": "Grant to Wanchese Fish Company to Support Va. Seafood Industry - Morning Ag Clips",
+        "summary": "Grant to Wanchese Fish Company to Support Va. Seafood Industry Morning Ag Clips",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamd4ckdueGdBOFJOZXZjc21qT2pCWjFGdVJIYWNaRHk2OG05NEdBbl9pZlhiLVIzNzBtTkFVOUFpZTkwOW15R0xFeXZPN3V5QUZUbXU3eDlFWTQ0dkdYVTVYOF9iTjBWTFh3Unp2bzlaQVZzN00yMk91Y21KejJtU0lGQkktMk9EUXc0OHVTMk5JR2JCTWQxSg?oc=5"
+    },
+    {
+        "title": "Stronger ports, smarter farms: Japan’s seafood sector remains on guard since the devastating 2011 earthquake - Global Seafood Alliance",
+        "summary": "Stronger ports, smarter farms: Japan’s seafood sector remains on guard since the devastating 2011 earthquake Global Seafood Alliance",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdU04VkhsUVE0MTVGQ25Fa1VCaVpnZERYcUJLeERCNjdnZzFtLXlPSS01ekY2WGdPbWY3WndVQXJmdGlKM0ZrUVF2eUdWenMxV3RRcW9oLWZIVE5Rek9UVFppRkZla0RRZlNER3Y0OS0wemtXUklOSGEwTGYzUFZmUVg5QXR2R1h5cXdNVk9BeTd1NmdGYUdDd2VtQVZBeXZTM3ZYNlcyRmowR0NjdGFzUUhxdTdiVENiVUZ1N0VGNDFKc25qa3M5WUNoQksxajVwQTdLZWdFV1JzQXo0WWc?oc=5"
+    },
+    {
+        "title": "Terrebonne Parish seafood industry nearly shuttered after oil leak - fox8live.com",
+        "summary": "Terrebonne Parish seafood industry nearly shuttered after oil leak fox8live.com",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVTh3OFlxZWk3TkVoai1IVFlTRXNPNGRiZGxpekppMGZ4enBzeDlscVZvVmlUUzJITExxb1BtbXlWUnlCRUxNeFNxZ2pZR2tqNHNXaFpzNFdEbFB3LVVDS1NyLWtfUE9PeXdFZnBGaXdvcWVJWTJOc3FrN204dmluOXE0VWdZdXA5MTZTREpRVzRRNTZFSkZQSk1ORUNkdFAxWjEwWDFSaEpONWw5UXc?oc=5"
+    },
+    {
+        "title": "Trump opens massive Atlantic marine monument to commercial fishing - E&E News by POLITICO",
+        "summary": "Trump opens massive Atlantic marine monument to commercial fishing E&E News by POLITICO",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEhnY09KR3hHdGR5N25oajNTQS0tcjhhVDhMQUxaNVlxcFY2U3Zxd1B2VXFfeEM2LXNOMlMxZXZPWjJVdjNmUlRtRk55cktaWFVBMEJZMDh3NF80T0ItcmRXLTZxRF90VFNTUlBRSWJWQUctNmRvSnFCMENJNXZRQllLX1hTX2h6X3ZYcVF0SzI4SmJRZjRUNVdNa3RNR3Z4?oc=5"
+    },
+    {
+        "title": "USDA Creates New Office of Seafood - Civil Eats",
+        "summary": "USDA Creates New Office of Seafood Civil Eats",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5VmlrQTdzWVppamNnNGJUT3hITl95el9tZVpyaWphY29VRlE2ajZDYUcwWDZMTkZCaXB4VEllaFFDSmZTbUFVa0VRcGYtVmhtZlVxUUJmeXhRa193ZWRRY0pWcTQ0SnhOaWFoVDhtMEtWeWpMcE00?oc=5"
+    },
+    {
+        "title": "Seafood industry experts warn supply disruptions are pushing seafood prices higher - News4JAX",
+        "summary": "Seafood industry experts warn supply disruptions are pushing seafood prices higher News4JAX",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUS11YTBpcUdsMzlxTmVFT3JBSlR5RXQyMUFzTlNIV29RNDRsc19XT0lEOTE2NkNIaFFqZ05HMTZST0RJNWlmSFRFN3otQTFpeHg4V3lGVEpYcnV6MDlXTWJQaTJvUFlPZHZRYXVHR1lKTU5xak9McVNhbUJwU3I3X3FTYlo0UlN6bkhnR0habGhkRHJBdElkMS1lUlh1MDFNR2FLUFRRWldlS1NMWUozTTBYVnQ2RjdwQ0VfczRLcG5SUm9NYmUtTDdMdmU2Uk9oU0E?oc=5"
+    },
+    {
+        "title": "Philippines weighs increase in fish imports, subsidies as fuel costs squeeze seafood sector - SeafoodSource",
+        "summary": "Philippines weighs increase in fish imports, subsidies as fuel costs squeeze seafood sector SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3F5U1J4Y3F5b1dKNXFjN1dvWkROLWxweThIMkV1MGZ2d0drdjBZVzlRSlpTR2NoZGJtX3pFLXU4UE56cHBVczdIUl9vVjQzMThVQjF4ZmJaeHA3YWs3dkhUSWtpMXdpeS1HT1RNY1RqUlROSFRHT09saVoxSFg4NTVzaVIwa3A3dnh0N3dfakZ2XzJMazV0NmdPZ1c2eTllejVMUFU0ZzNZZTVSOGpodkgtQkJMbzdEay1MYnVyT3ZRTEhVZlhRY0tUc2F4WjA4bjhUWA?oc=5"
+    },
+    {
+        "title": "Maryland crab processors are rapidly nearing point of no return, industry rep warns - SeafoodSource",
+        "summary": "Maryland crab processors are rapidly nearing point of no return, industry rep warns SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbHVSSTFBX2xKbVRGbU9pakJvbE45ZktCNmZuSEQ4ajVTVXNNaTJJWjF3eGw3LXhFNG5qR04zVFptTkxEVDFkZjN4S2pMU1JwU0o3Z29nTHBkS0JHazZmOGxqWDF2R0NqUVlxc3NNdUN0ZHFNblFUU1FrRzZ1T2tKWTJjWkdvMXNfLWV2TnN0c3V1M1lHMDRtNDRPX3hjeW5QdzhHeFpDYmJUTHk5QldSdEtFc0V3N2tmOGNxN19EaFlqejZTa3haM3B3?oc=5"
     },
     {
         "title": "Mozambique's $100m seafood industry crashes as Spanish investor announces exit - Business Insider Africa",
@@ -980,9 +975,9 @@
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUzh4UFJDMHVTVnRsQnVoeHJYYk94QlZGYVl6bGRvYmZNUTh6NkhXSHFFczFsWUZ3U0lWLV9aMGdjbjRVbzFqcTJZS3Y0ZHREUDVKdDItcFA0aU5rd19uQnV6OXh0ejN5dldZTjk5M0E3Y1NNOVFSbDZEWXAtVEg0QmVkbVpkMG9ueHRRbzlERFV1bEpTS1MzYVNIMHphY251aFUzM3NCQ0I1TEVSV1IxaUpoRElnNjFZd0NKSVh6OTIydU5PLWNHVmVNcGl0RzZVYmppOElR?oc=5"
     },
     {
-        "title": "Blue catfish bill clears House as debate grows in Maryland seafood industry - Baltimore Sun",
-        "summary": "Blue catfish bill clears House as debate grows in Maryland seafood industry Baltimore Sun",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04VjZRR25zVGdwTG5SQXFpcmFZUnhsQmotdDRYYmlOWHRDd2JSV25ZeFIxUGlPNnp4NmFZT19QLVdUWkVtRThFSlkycVpwT29LRDhGbk5VUlVkY1BieWtUdERSZ2l5dDBmN0lnRGlR?oc=5"
+        "title": "Alaska has finally recovered its pandemic job losses, but the seafood industry is headed the other way - Alaska Public Media",
+        "summary": "Alaska has finally recovered its pandemic job losses, but the seafood industry is headed the other way Alaska Public Media",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY3F2SHZPZEVoSkJRZE85eWNhVzZIbkk4cEJtSTdDM3R6UXlydko1ak05M3QzcjRTcGJvemREeGh2OXR5RDFESi13RWRjd0Y3aHAzMVBlaV9zMGg1RWR4bFJKQXV3dGVoc1JmY0dfallzeGJMeFZ2cHdBR0thbEFTbEN6WUJxQXRydm5rQWNmbVl3NDY3RmJuOXZLN2Y2S29QZlpGZnlUeVBMQ0lfSUFGbV9DdGVodlByR3JTWnFMSllxeVQ0TVBkYmY1dFk0SXM2dFY3bEdGUmdORFoxVnZZNWFLNUhwQmU4RVE?oc=5"
     },
     {
         "title": "Maritime and Seafood Industry Museum opens new copper wildlife art exhibit - WLOX",
@@ -990,14 +985,19 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObkU1Z2k3d1gwNDRndTM3cExieG5XS3A3NXgxeWZYVHpJN3U1RnpPelNwWnJSY2RPM3VPYi05RTV4eEpLMkFfeW1YaVBYV2dPSkpxY0Z0S0hlU2xhTzNwTVpFT3RaSlB1MUtTdTJOZWd4eEZiajhYNFpxVWQ5WFFYREpHeW9VTXFvcFhFTW5KY0dCejI1eTY4RjNkSF9SM3BUaGFQODhB0gG6AUFVX3lxTFBoR0FiQWFaS0VycVpCU1Zfb3ViNldvM0pScG5sUC1xNVp2bDFGYWNnVEdZcmwyczY5cG5LZElCY1NPVXMzaVNTM0ZJQUNKeFpZSFJyVWVyLXB6eXdRSXJGR0JxRzlZbjQ1Vnp5N01OWkNSNzlPWW16alc3MjNTaWowNmUwSlN0d1FicGFRVHpWRjBXY1Fsb0kzbXlaS0puTmJSNExJS0QtQ19VYmZVUUdKSWhwQ3FFQVJXUQ?oc=5"
     },
     {
+        "title": "Commission Approves €13 Million Aid for French Fishing Sector - The Fishing Daily",
+        "summary": "Commission Approves €13 Million Aid for French Fishing Sector The Fishing Daily",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0RXa2h3eEN0NjhTaF9tOWU4Y2VtV2FfdHlkenVjcUN2Q29mS0hTc1RHdDI4Y0NEcTU5LTBWTXZpS3FvQnlpVnpXR0NRNTRCUV9PaTlicGFrM3dKVG1Hc0Ruc2xxSVV5UzB3eXpLUTUwbG9jUFBzWjJnXzEwMktzWnpoVmlSUlJaOGR6c1Z3bHYwclJuRTRTTkx2SFFOS0dadlpqd3MxTHBQQXByZURRYmNyZTVsZw?oc=5"
+    },
+    {
         "title": "High-profile exits and key seafood hires: The top people moves of 2025 - intrafish.com",
         "summary": "High-profile exits and key seafood hires: The top people moves of 2025 intrafish.com",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1RhcFVWdHgxZF9PUnp2VS1MQi1XT0JPV3NHekxuaHdraUwzaHRfMkc1ZzBnRGFaYXJGc0RzcWxoRWg4NDl3QnpFcG13YlFVT3NXVk1VWGNkZjBaeGw1di1GRkFmU1pTeU5ZLXVROWJXckpROXZiZTlObzBCME54aC1pRExzSUJzZVZOa3VBbXUwRWljN3p5Y0lrN3M4a3N1alJLcEJWT09DbVZ6aEJ0bFh1c2Q?oc=5"
     },
     {
-        "title": "US Supreme Court again puts off seafood industry-critical tariff ruling - Undercurrent News",
-        "summary": "US Supreme Court again puts off seafood industry-critical tariff ruling Undercurrent News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVHcyUDNKR09KLWJrQl9JNng5NklxZWE4Z2s1c3VKUThCUjFSNTFkVFZnMnAwWmFUYU5hZjNKQmxnOW01NHBxZk8zdHVPTXNVd2hhbi00ZDhhY3J2MFRicUZtZGE5RjZCTlVkQVN3ekh4VGhDaGNrNzlsT2FJQ001NTdKVXRhUkpNOXdncU50TnJ3MWJINkFnYUF5bjN4TEJWSVBpeDNwM3BRa1NVVk9HZl9TcWZvYzg?oc=5"
+        "title": "SC’s commercial fishing industry is in decline. Offshore anglers, restaurants adapt to meet demand. - Post and Courier",
+        "summary": "SC’s commercial fishing industry is in decline. Offshore anglers, restaurants adapt to meet demand. Post and Courier",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkc3YnZvbjktY2RkUFp5cEF4b1h1WFF5VDZ3aEtpeVBfdDhLR2wzNDVzTHFxZGd6S0poQnhXR1FfVmJQT1JWMmdKWWN6RGpWbzd1T01DckdUSXVzVFg5VWJhMGJqVTB3eHhwa0NhWVFMcnRFOEhCMjU1UXRvZGMwOEF6MGNYdzlVRXBEZTB3RndhdkIxRjFhLUdfa28teVdiNVBUSm5OUEtfUjEwN1lWUzl5Rkg0SThiVzNabmxNT2NfME9fVXBfNEhTdUw3Rkk?oc=5"
     },
     {
         "title": "Samoa - Fisheries and Aquaculture - Food and Agriculture Organization",
@@ -1040,24 +1040,19 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWpNQlFudGJGQWMwTVNWR1NrY08temgyNUtOY21SQmtvQmM2NE5kUVRjM2tTc1hLcHM1ckt6ZFdWV0s5aDZoODEyTVoxVlNpNWhEa2Y1TGFxLVAyZlV4NEZ3LU5HME9JQ0RwTUJmNWF2TjVQa3hHVDRuZVFRVDVpUHdkekV4LXVqUWZ1QTJQRlcxZnA2QnRKWVhqLVJaWG4wVUdCc01ESFR5OUF3Tlhtc0tQQ2ZURlFmOGFnSUNBWW5XRHpnNTNr?oc=5"
     },
     {
-        "title": "Suffolk Disaster Declaration After Aquaculture Industry Sees Significant Damage From Brutal Winter: Gov - Patch",
-        "summary": "Suffolk Disaster Declaration After Aquaculture Industry Sees Significant Damage From Brutal Winter: Gov Patch",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVNrN1hpRHo3NGkxQ2dPcDM0RlpudWZxRjVxMFVZVnE4Um1OOGM2RlBja2xIVWMydnRhYURvTXZWVWF6YnhLLURyblFrbTZqM21ielpJVmc3RHBMS0tqSmhVTnVFMnBBaHEtdmpMUVlaLXRpVnpWTmNnbUQ0dDVDTHU4eFdwSV8zVW1yeXFBNmlSU2IzSWR3UkwtbGcwOExVS2ZidFpXcWZSZkxvdU55REZSS1VVRHfSAeQBQVVfeXFMTmVsTGZxakdCelR4TTJEZTh3aGhpMEV1eEh6Q3hhMzl4OW9Bazdjb19KQ3FhN0RUS3lXYS1PSWhMM3VwVHhrQmMxVTRvY1pCbGFYdnpMU3ItUkVzRl9FX0RQbWIzVDZUQW5ycVNyUkVqR0ZtMzhnSkZ0UTl4TE00UlozdGRGbDliOFJsZHUtei1WVk1QZEFrTmtpZFZsTmhzaHY4dk1PV1FVNkk0cm1FSVpyNnFteUI1Ml9Qb1RtdVpISDVWV0x3MzZnTUdQYW5vM3JrNDYzVEE5Rnh0RUdObjZOVmJv?oc=5"
-    },
-    {
         "title": "USDA Disaster Designation for Suffolk County Aquaculture Enables Emergency Loans for Oystermen - IndexBox",
         "summary": "USDA Disaster Designation for Suffolk County Aquaculture Enables Emergency Loans for Oystermen IndexBox",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3BnSlJSWFY0TjA2ZGRMYzV4M0dyZEd3NkNVMWtmVktXRzFtVXlibHZKV3JlRDB0OUltcEtDbVBwODc4SkcwclpuWHhUMVc0VjRqS0dJYmxnX0hIX196OHdDODZVSkVfeU9rdXdjenRydzluVnZfSnZmd3JLcVlIc3c1Z0IwYUpzcEtIUDF2NWVGakRrb282N2JpNWt4RkhaQXNBTE9LdnJhZ2VRZGg0U2JhM18tbVdRckFlVHlhS3o4QQ?oc=5"
     },
     {
+        "title": "Suffolk Disaster Declaration After Aquaculture Industry Sees Significant Damage From Brutal Winter: Gov - Patch",
+        "summary": "Suffolk Disaster Declaration After Aquaculture Industry Sees Significant Damage From Brutal Winter: Gov Patch",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWVNrN1hpRHo3NGkxQ2dPcDM0RlpudWZxRjVxMFVZVnE4Um1OOGM2RlBja2xIVWMydnRhYURvTXZWVWF6YnhLLURyblFrbTZqM21ielpJVmc3RHBMS0tqSmhVTnVFMnBBaHEtdmpMUVlaLXRpVnpWTmNnbUQ0dDVDTHU4eFdwSV8zVW1yeXFBNmlSU2IzSWR3UkwtbGcwOExVS2ZidFpXcWZSZkxvdU55REZSS1VVRHfSAeQBQVVfeXFMTmVsTGZxakdCelR4TTJEZTh3aGhpMEV1eEh6Q3hhMzl4OW9Bazdjb19KQ3FhN0RUS3lXYS1PSWhMM3VwVHhrQmMxVTRvY1pCbGFYdnpMU3ItUkVzRl9FX0RQbWIzVDZUQW5ycVNyUkVqR0ZtMzhnSkZ0UTl4TE00UlozdGRGbDliOFJsZHUtei1WVk1QZEFrTmtpZFZsTmhzaHY4dk1PV1FVNkk0cm1FSVpyNnFteUI1Ml9Qb1RtdVpISDVWV0x3MzZnTUdQYW5vM3JrNDYzVEE5Rnh0RUdObjZOVmJv?oc=5"
+    },
+    {
         "title": "Superior Fresh sets new farm's first harvest for major anniversary - intrafish.com",
         "summary": "Superior Fresh sets new farm's first harvest for major anniversary intrafish.com",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXdVZ0cwUXpWdmRDLVp3TWhtVXNRNnZ1c1FoN0hKMjUtM0t1UWNndUtBWTd1eDhobHBmLVNGU203NGFZc1dNc2ZadEE0NTVXV1hIM0d1dTRMZ3hiVWZBTzhvTGxvb2cwOVhLbjNyaFZWUTd4MjVBMG82ZGFBVlJ0Z2xyVkh5NnV5R3Z6d1FBSTVfNHBRX1N6VUlKSWpJdW1FLXpjR0Y4bFQtQ0Flb3NITkZ2eDNPdw?oc=5"
-    },
-    {
-        "title": "Minnesota and Texas Host National Aquaculture Leadership Academy - Minnesota Sea Grant",
-        "summary": "Minnesota and Texas Host National Aquaculture Leadership Academy Minnesota Sea Grant",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xY3A0SnpXbUJKcllWOURpRldZR2lzcHFuMDFLT3AyQzFpWVZnOHlyZ1NtMzhhQ1dLWDZNbUZNNnF0cXk3a3RmSXFnWjBuZURETVZicmtfdXJ6dExpaXBPdEZ4SmJZekNqRlE3cUljaVdLMDA?oc=5"
     },
     {
         "title": "Chile aquaculture rules reform push sparks opposition from Indigenous leaders - Undercurrent News",
@@ -1070,24 +1065,19 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jaVEtdy02dk4wWTJySE9MY1FuSFdBTEs2MTNVSUJqdlRzQTllelVrc1dNYWNWcThjWGF6MkVQY1EycVRyVWVZV2sxRHNyRnZhdGEzdUg3T3hnSnUzeHd5c2F3amFfV0s1b2JrN20tZ014SXRTUGM2bkoxdjhYQQ?oc=5"
     },
     {
+        "title": "Innovations in Aquaculture: Larval Fishes at the New England Aquarium - New England Aquarium",
+        "summary": "Innovations in Aquaculture: Larval Fishes at the New England Aquarium New England Aquarium",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUllbTNld2hNSDR2R3JsbHBsc3M3WmEzbDk1N3BZcXlfenpWVkNCV19PQ2V5cnpHQWdsUUxsMTRPeHhOeFhQYURmcjl5aDZDRnJjeDZnYmhyTFQ2YnFHd20yRXZxTTAtMmViYUVSUGgwaTlSemRtR0R6aGNyZU16b0x4amh0UHkyUkFNSi1jQzFnb1FxVTNjZ1hiZzZkVXZjVS1xMUNzclNVeGNCdGcwcnd2dmwtelNCMFZtWHFaa2dXT28?oc=5"
+    },
+    {
         "title": "Largest-ever Northeast Aquaculture Conference Celebrates Growth, Innovation, and Community - NOAA Fisheries (.gov)",
         "summary": "Largest-ever Northeast Aquaculture Conference Celebrates Growth, Innovation, and Community NOAA Fisheries (.gov)",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWk9Qd3UxWWVOVUdYXzFmVUpyUFQtOENrNHJSLTdUVVNvOFR1VGVJMGNVZmo0YTdvVWQ4UDg2dGgwclpTaHVJclhZbHotLXg3WFdXVDRFVWxqN2kxdFlQdHlYLWJvc2NzZEl6U2VsS05xNlhvbE5ndHl2akl2VWVZRG1HRDNaMDFBdzBfT1EydGRIMmw0bWNrOHBKZUxseENiX0dMQXlwd1JuZEN3dEpzUy1XTzlHUnI1TUtCYW5lcGM?oc=5"
     },
     {
-        "title": "Launch of NAVAC (New Aquatic Food Value Chains) - Pêches et aquaculture de la FAO - Food and Agriculture Organization",
-        "summary": "Launch of NAVAC (New Aquatic Food Value Chains) - Pêches et aquaculture de la FAO Food and Agriculture Organization",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpVjBXUVg0d0tXZGlWY0M2WEJiQ2tjNDB4OGVZd3pZTUJMVF90OW5NUkl3ckhVUHBua3RyUi11NC1FblZJc2lSWmw1cThEQm12TnZRQ3NUNA?oc=5"
-    },
-    {
         "title": "Southern California Aquaculture Opportunity Areas - NOAA Fisheries (.gov)",
         "summary": "Southern California Aquaculture Opportunity Areas NOAA Fisheries (.gov)",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeWVUTVVnOHVFb0lvbVVMY2RCeTlnOGo3RlNwREdQbnVvWU4yQWhKVzFQMTVqT0xhYzB4Q2o4YlZObDBJc0xlZFVBeGlKSktvQnpHTHNhZVpqY1dWdzR6eFM0QjdIOTdqenhaaDVvLWpldFlfbUVzWHRZZ0w3UHpPRXJHT1BOSmI5cGhRUVA2RmZMMFV4LVFKb08tWFZONk0tX2FxSU5n?oc=5"
-    },
-    {
-        "title": "FAO advances conservation and sustainability on the high seas - Food and Agriculture Organization",
-        "summary": "FAO advances conservation and sustainability on the high seas Food and Agriculture Organization",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wU202V0ZtOUQ1anBoLUFYTzY3aVpIZmpaZTliWEFxUUVHOFhYT2U2WlhKaUpaS3VQSWgxV25YOEV3X1k5S2J6Y1UzWWZHWEJQY0M0?oc=5"
     },
     {
         "title": "New atlas identifies potential opportunities for aquaculture in Gulf of Alaska - NOAA (.gov)",
@@ -1100,29 +1090,19 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd3JXajJUSnFyU3dzZGZ0dDRKS0FfdHhuRmN0aEtXUFRvT19oYm1WbWxZYVJrVU5CWUlHTUVwVWNLRDdxM0dDUU1JeTVuYTdEYTFmeC04aGpvMTBndzZ2X3BULURIYVkzYldzQ1BycW05MkhxM2tWeEs2UmdUTUgzTUxLTWNOS2JmS0hNeFJmbmQ4dmlpdXFpRzJpYjNfZDFuRjRKQ1pzMkEzaWFLWU1sWWln?oc=5"
     },
     {
-        "title": "Innovations in Aquaculture: Larval Fishes at the New England Aquarium - New England Aquarium",
-        "summary": "Innovations in Aquaculture: Larval Fishes at the New England Aquarium New England Aquarium",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdUllbTNld2hNSDR2R3JsbHBsc3M3WmEzbDk1N3BZcXlfenpWVkNCV19PQ2V5cnpHQWdsUUxsMTRPeHhOeFhQYURmcjl5aDZDRnJjeDZnYmhyTFQ2YnFHd20yRXZxTTAtMmViYUVSUGgwaTlSemRtR0R6aGNyZU16b0x4amh0UHkyUkFNSi1jQzFnb1FxVTNjZ1hiZzZkVXZjVS1xMUNzclNVeGNCdGcwcnd2dmwtelNCMFZtWHFaa2dXT28?oc=5"
-    },
-    {
-        "title": "Innovation and investment drive a transformation in aquaculture in Asia and the Pacific - Food and Agriculture Organization",
-        "summary": "Innovation and investment drive a transformation in aquaculture in Asia and the Pacific Food and Agriculture Organization",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HaWZNLUg1TFQwQ1MtTXptNnJBeWU2YWpwek1DOTVVS2psT2pGeDNUNUJLeFpOOU1xNl8weE5pVlhMSU1wUG9EcjNZT2xvdnJra3FZ?oc=5"
-    },
-    {
         "title": "Home-Grown Seafood: NOAA’s Aquaculture Highlights from 2025 - NOAA Fisheries (.gov)",
         "summary": "Home-Grown Seafood: NOAA’s Aquaculture Highlights from 2025 NOAA Fisheries (.gov)",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYWlfQlcwU0JTNUYwUlZJLWRzcjN6ZEp4cVlsekJLcmhXeGVrZjBlUG8tbDFJcVB1RC1xQUczREdiWExzcDU4Mk5HMGxUeE9HWjZPdnVMYnhuSWVDd0VHU1gxNDUxZ2JjazVLVTQ4WVpwamRPOXdubmFGRlN5aFVaQTFMVFN1MVV5VmgwRWd2QnlfTjFvUWkycHZubDUwdw?oc=5"
     },
     {
-        "title": "CONGRESSWOMAN PLASKETT SECURES AQUACULTURE STUDY PROVISION FOR VIRGIN ISLANDS IN HOUSE-PASSED FARM BILL - Congresswoman Stacey Plaskett (.gov)",
-        "summary": "CONGRESSWOMAN PLASKETT SECURES AQUACULTURE STUDY PROVISION FOR VIRGIN ISLANDS IN HOUSE-PASSED FARM BILL Congresswoman Stacey Plaskett (.gov)",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10T2dwOXo0ZEt2QktnTkg2TjhUWVlza0k5ZWIyV2ozeWRRR2dXS3lHcklxTk5OV092NlJ0Nlkwbl9rWWRHdWFFd1Fxd3Qyd3JEUkhIajloWjlTdGR3Rm12Qmc5el9tSHZvZllwMkNmcWxvUXVMU3c?oc=5"
-    },
-    {
         "title": "Celebrating Aquaculture Week: Farming from Tide to Table - NOAA Fisheries (.gov)",
         "summary": "Celebrating Aquaculture Week: Farming from Tide to Table NOAA Fisheries (.gov)",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV3R4WURHUmpDS0NwUGEwQ0RQU3lvMnROWVRfQmpNLTR1cncwSTNYdHZqOUVWWHJuYndraVB2aFBZcnpLVGw4YzFFbGxxaFlSb0paMlk0TF9RWG5KMHFCRVVmNFZKWlk0dXE4SVVpVDlIb1FiVk0yYmd6YU1uUGRvUS0za0xDalNfR1RCZ2ZtVFF2VFA4c2RR?oc=5"
+    },
+    {
+        "title": "CONGRESSWOMAN PLASKETT SECURES AQUACULTURE STUDY PROVISION FOR VIRGIN ISLANDS IN HOUSE-PASSED FARM BILL - Congresswoman Stacey Plaskett (.gov)",
+        "summary": "CONGRESSWOMAN PLASKETT SECURES AQUACULTURE STUDY PROVISION FOR VIRGIN ISLANDS IN HOUSE-PASSED FARM BILL Congresswoman Stacey Plaskett (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10T2dwOXo0ZEt2QktnTkg2TjhUWVlza0k5ZWIyV2ozeWRRR2dXS3lHcklxTk5OV092NlJ0Nlkwbl9rWWRHdWFFd1Fxd3Qyd3JEUkhIajloWjlTdGR3Rm12Qmc5el9tSHZvZllwMkNmcWxvUXVMU3c?oc=5"
     },
     {
         "title": "Commission approves €15 million French State aid for agricultural and aquaculture companies facing increased fuel price - The European Sting",
@@ -1190,14 +1170,14 @@
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT0t6ajJvSGhLOC0wVlMwZ1pZZjR0SzlCdGh2c3Fvb0xDNUo5V1d5UWs1RnM1U3Faa3NfSG1LVkU4UVNyb1RpVnN1QjBtTDFMZkhib2FpQjJNOWZKelkxaDBiWmMzQW5FY3RWNno2MnI5cnV3Rk9nNXlqZmNCa0hyNW5EdzRXRUdIaWFsUWhmVzlESmVoR0xteDN2MThod2h2SXFiaV9ZWTQtakVBVk5DcmFOWkNkeVdpUmRRMFZB?oc=5"
     },
     {
-        "title": "Iceland salmon ambitions hinge on identity - intrafish.com",
-        "summary": "Iceland salmon ambitions hinge on identity intrafish.com",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXpqamJUQ2p4TnBMZU56TTNwU2FKb01PaUYwaUNYQ00wLVBpcjB3Nl9vZWcwb3EtM2cwRUdUaGNGdVI5Nms4ZDI1UHhLZ3NKejJnYVIwTXE5Y0NzbHhNOWRzdEUwdXRjNTlTYVNPNldHaUhudTVjVl9obHJWamI1LVNDbWFYRFFOa0x6a0ptOW4yNV9SNlFV?oc=5"
-    },
-    {
         "title": "Chatham Callan, Associate Professor of Aquaculture – Keaohou - University of Hawaii at Hilo",
         "summary": "Chatham Callan, Associate Professor of Aquaculture – Keaohou University of Hawaii at Hilo",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDYzR0d3hHVzN1eGhPMW5pOW5JMmtmODRhcnJTQzRPM18ydEFMNEZNUVRvYnh4TXpYdFQtQzVreTIzRlBRT2J4cXNLb0FCNlFRbjlsdGd0SGxHQnN6bGtFamRsMUtVQ05UQWd6SFU4a1htcW56NHRTUndB?oc=5"
+    },
+    {
+        "title": "Iceland salmon ambitions hinge on identity - intrafish.com",
+        "summary": "Iceland salmon ambitions hinge on identity intrafish.com",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQXpqamJUQ2p4TnBMZU56TTNwU2FKb01PaUYwaUNYQ00wLVBpcjB3Nl9vZWcwb3EtM2cwRUdUaGNGdVI5Nms4ZDI1UHhLZ3NKejJnYVIwTXE5Y0NzbHhNOWRzdEUwdXRjNTlTYVNPNldHaUhudTVjVl9obHJWamI1LVNDbWFYRFFOa0x6a0ptOW4yNV9SNlFV?oc=5"
     },
     {
         "title": "NOAA Fisheries Releases 2025 Alaska Aquaculture Accomplishments Report - NOAA Fisheries (.gov)",
@@ -1220,19 +1200,9 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rV3JpZlRIZUhoN1Z5NGpzTEdOUzRkNU1mb3lPQUdhbUlFN3pleVJnNmNWcUNaRHRjOXNwM1otaXFkcTAyckdLT3ZNcC01bldnSUl3YzBXNTZWNUczd2tJ?oc=5"
     },
     {
-        "title": "Aquaculture training course to cover best practices and business strategies – Rhody Today - The University of Rhode Island",
-        "summary": "Aquaculture training course to cover best practices and business strategies – Rhody Today The University of Rhode Island",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUJLUFdSbDRrRjFHRElDV05WbkdmYlE0TDhxMzRfVEZDcWNrWU5MYzRZZ1BBTzlPT254OFB2WVhuM05JY2FZd2RVbVBXY1NXT1h1VzBvVkN1Vk90M0NHT2NNeEdqYXBXRWhNVHpZTkNma2dGTFVLQ2JreXk1bENTOTZwc3Z3aXNnX2ZMM0pCZDFBRzFERFdVaEZGemtvTTViaWQ1Y01KbDdsX2JHa2c?oc=5"
-    },
-    {
         "title": "Why Africa’s growing aquaculture sector is worth investing in - The World Economic Forum",
         "summary": "Why Africa’s growing aquaculture sector is worth investing in The World Economic Forum",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFAyNmdxZDJiSC0yNXpkWWdUZG9WdE56UVhIZ2ZiLWktbURLM29Mb1hFRUZwaVRFMFh4S0xXb3R4ci1TZDZsNmlMZnktOXFuVlFjWVlaSjVRUDd2d2xDbDZQVjNFTkpNcU9GV2JQcVVUWlNpdGRfckxnNTRRRU9ReFhqSzFkTldxWEpmVFNQMEpLRlRJUnpn?oc=5"
-    },
-    {
-        "title": "Morocco’s Blue Future: How Aquaculture Can Power Growth and Jobs - World Bank Group",
-        "summary": "Morocco’s Blue Future: How Aquaculture Can Power Growth and Jobs World Bank Group",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmZwSnh0OWxHZW5SaUhyd0t4QXFCRnQxeVdqd2d6RUtab2QzODBLM3NVUWJoczBDRG9abFJrYlF0eUREc0tyakJoQlhBaDJQNWhnNENYSHl5Q0YxZ3RSOW1CRzlUbXAwY3BfUlBMQVBUSEptazFrTWlETG9GcmFJamRYTjB3RHVrYVIxTEpBZlp3T3c5MUdrZTMzellWMkROeDRNempoS3RybFhXdUJMM3RTQ2lublk?oc=5"
     },
     {
         "title": "Seaweed farming for climate and food - World Wildlife Fund",
@@ -1250,14 +1220,19 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFh5bGpvb0ZERTh1VElVakdESlAzMU5kOFEtdDg1Rmwwa1BLbWFVb2FuYWNBcU0zNmVRMFFTWHlDWU9iYzYwWGJoVVdXcFdzZFdSVlAtNnQwQXNsNEJPUU0ybDhadFVnMHpFMHVZZ2lwVmpGcDZiSGV1YXdaQ3IyNkl3bEVDc0tFaG1XOC1sT2ExMTB2VnlhSFNjLUlrSjdaaExPLWZsVXFBZ2hRS3prUC1zZjV4dE0?oc=5"
     },
     {
+        "title": "Morocco’s Blue Future: How Aquaculture Can Power Growth and Jobs - World Bank Group",
+        "summary": "Morocco’s Blue Future: How Aquaculture Can Power Growth and Jobs World Bank Group",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmZwSnh0OWxHZW5SaUhyd0t4QXFCRnQxeVdqd2d6RUtab2QzODBLM3NVUWJoczBDRG9abFJrYlF0eUREc0tyakJoQlhBaDJQNWhnNENYSHl5Q0YxZ3RSOW1CRzlUbXAwY3BfUlBMQVBUSEptazFrTWlETG9GcmFJamRYTjB3RHVrYVIxTEpBZlp3T3c5MUdrZTMzellWMkROeDRNempoS3RybFhXdUJMM3RTQ2lublk?oc=5"
+    },
+    {
+        "title": "More Maine towns assert authority over aquaculture, but is it legal or sustainable? - Maine Morning Star",
+        "summary": "More Maine towns assert authority over aquaculture, but is it legal or sustainable? Maine Morning Star",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDA2Z29LMU5PdHhlV0NTTkFRTTQ4REN1MEZ1QmRrN25WczQ3OVFLVTBxeWhKb1NYSmtETjFOTnNacWV3RnZMb1d2dmhtZ1VkMWxpWU1tM3RrbHpGdnBfUGpSaWRfQ095OUZrNF96bTdJVW9hVTB1djNma1p2aU1BeVkyQXljOGwxUk1kTEh0MWhOS2psVDRnQlVZblpUd2YzTm05cGk5VVQ4NUdWZFNfbHNWU1RncGNIVGRIY0tBUQ?oc=5"
+    },
+    {
         "title": "USM Helps Lead Deployment of Offshore AquaFort Platform, Advancing Sustainable Aquaculture in the Gulf - The University of Southern Mississippi",
         "summary": "USM Helps Lead Deployment of Offshore AquaFort Platform, Advancing Sustainable Aquaculture in the Gulf The University of Southern Mississippi",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11eFJURDlOa2R5ZXUtMTlEVTFsVVJKeF8zcnBUanRWWEpEckRFNGNtT3hyWm1YM0NXaHlRR3oxWWF5RUlwTnZPZlZVWXRqTGE2TmtrM2phTE5vb0hUN1IwN3M1Y1lrdktnbmFtazRmRQ?oc=5"
-    },
-    {
-        "title": "FAU Feasibility Study: Queen Conch Aquaculture and Seagrass Impacts - Florida Atlantic University",
-        "summary": "FAU Feasibility Study: Queen Conch Aquaculture and Seagrass Impacts Florida Atlantic University",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TdzhNRmpzRG84Q3M2TzhjaHRYeDRoYXY1SmNZc25mczhwUFNKZlA4NTdDTDZ6ZjZZQkkwb3daT3RIUURQM2FCbmNERExyeUZnckUtNGV1U2x3RWhianNHLW5FSlZlZkV4Zm1IQXpyQVFmcEZNM3p6ODg1Yw?oc=5"
     },
     {
         "title": "Iceland - Fisheries and Aquaculture - Food and Agriculture Organization",
@@ -1325,6 +1300,11 @@
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMnR4UmJTR09mODI4OXhpQzZPNEF6LUtxT1I4UEUxRXBoOGxaRzdtenpFakgwYjNFVjh6LTkweGhDV0JncXhnS3YwSFNJMHlwR1QwaHNQQzZ2TmVmTUkyaE53eC1nS1JnNWJkbXhRelFveGlkTFZSbXZ4Rjd2NFA1OUZETDNjY0RoU3hJeQ?oc=5"
     },
     {
+        "title": "EU aquaculture: 1 million tonnes produced in 2024 - News articles - Eurostat - European Commission",
+        "summary": "EU aquaculture: 1 million tonnes produced in 2024 - News articles - Eurostat European Commission",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBubkNmOTB5NjdxY2ZUZGdCWGhxaTZ1LW5IRWpsVWV2ZW5PWkNHeVJGQk5faVhHd1gyblhncEVCa0I4VUtPOUwzb1d6ZGZENzVOTnBCYkRfSEp4U0tvQUM5bjBaQnB0RnhVYmtDQlZoTUZ5eFdXUTF5eVdabWowUQ?oc=5"
+    },
+    {
         "title": "‘Ghost farms’ have been polluting Greece’s waters for years. Now, things are changing - Yahoo News New Zealand",
         "summary": "‘Ghost farms’ have been polluting Greece’s waters for years. Now, things are changing Yahoo News New Zealand",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczE3M2U4Z1RNVHJTMVBTU3I4Ujl2LVBqTGNMellQdXJWZ29TQTVROTBkMlUwR0V1bXU4azAtNGxGMlVReHlBd0liMFE1cmhZSFpkeE8yWWIzWlVEdTFHNUJOTVMzSUU1R0hCUHpSTXIxOGF1M3F5SklmUEprcU9JMkRR?oc=5"
@@ -1340,14 +1320,14 @@
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FYVFHMUpZVHJtem8xNUpTRXFGUU1IRjRnYmRvZGZKRUdYWENYdVlvWmJ1QlVVNU5HeWxqa2tTV0dhMFlGU0lhc0tvVkZfd1VhZ2tvRHI2bkpFUGpkTG5ENmZESHRMS0swamVDOXNEVlpXNXhGZGJzcVRpYkYtZw?oc=5"
     },
     {
-        "title": "EU aquaculture: 1 million tonnes produced in 2024 - News articles - Eurostat - European Commission",
-        "summary": "EU aquaculture: 1 million tonnes produced in 2024 - News articles - Eurostat European Commission",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBubkNmOTB5NjdxY2ZUZGdCWGhxaTZ1LW5IRWpsVWV2ZW5PWkNHeVJGQk5faVhHd1gyblhncEVCa0I4VUtPOUwzb1d6ZGZENzVOTnBCYkRfSEp4U0tvQUM5bjBaQnB0RnhVYmtDQlZoTUZ5eFdXUTF5eVdabWowUQ?oc=5"
-    },
-    {
         "title": "Hierarchically tracking aquaculture effluent in waters by microbial fingerprints-driven machine learning ensemble - Nature",
         "summary": "Hierarchically tracking aquaculture effluent in waters by microbial fingerprints-driven machine learning ensemble Nature",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaYURFYjFOczZFMDktc3N6OHl3c3Q3ODRhNjhKZURJeklGaTFyc29sR0U2Q2wtak5oQ0t5TldTdV9MX1hFeWNPbUY2dGdFTUJBc2ItOHdnYjAzZ0JJUFgw?oc=5"
+    },
+    {
+        "title": "An Abundance of Aquaculture in Andhra Pradesh - NASA Science (.gov)",
+        "summary": "An Abundance of Aquaculture in Andhra Pradesh NASA Science (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZks3VjhITFo0VmRReWxzdTBJUG9RMTVwQWZEWVRJWTBTbmlIckdZQ2xtODdYVFFXeHdzSDQ5RUNSUE50N2labnlpOF9JeFNLWTY1Nk91dDMxQ0Z6YmJSQ1JnOFdBUmJKQWNZQzJwVmh1R3BJcjlLZ2ZIVnprcTVMY0NxSDduRExiN0llQjZDSjlibVBJRmsxYXhrVnBjWEtobjFVVg?oc=5"
     },
     {
         "title": "Powering the Blue Economy: How aquaculture can strengthen Michigan communities and economies - Michigan State University",
@@ -1360,11 +1340,6 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejZGUU1kZHZkRW9RNXE2RzdVUGlicmt2RUpuRkMzakwtSmdmekVHa29RU1hRckZHd3pGNDFlamNxTmNxSkZsaFNMbmgxMjhpQWNZLTJ0MGhVaHl3QTljX0VYaWpiam9zY2E2cURCbkVOT3hRTEROSElBd2VjRVpVM0ZfUVN2Qi04Y3ZoeTJySUJmd20wWjdFb2lsa1RkWWVhWUg2R3djTkpnNDdXYi1BRHV1aTgxcms?oc=5"
     },
     {
-        "title": "Active vision-based real-time aquaculture net pens inspection using ROV - Nature",
-        "summary": "Active vision-based real-time aquaculture net pens inspection using ROV Nature",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfcS1ZWE14LXNlcDZ0b0ZEM1RMWDNudmt1S1ZkMEx2bzNLdHpVN2tFQUVJZWJYdG5fd0VUd1RGTUFaZGRManlOcGFTSkJ1WVl4NHFpTWZoV3hWeWhySnE4?oc=5"
-    },
-    {
         "title": "Blue Horizon: Ocean Relief Through Seaweed Aquaculture | WWF - World Wildlife Fund",
         "summary": "Blue Horizon: Ocean Relief Through Seaweed Aquaculture | WWF World Wildlife Fund",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWkpSSW5pVHFIZjRlQTdjN0lObWV1TjN0QlluMkVrQ0VIZmNqUmY0N3JXVjRjODJYakxEeGdJanhwVlE0N1FvbDJtbzUwQ0RPZV9wR0Izb1BFNjBSLXR0X1pCeVVDNThRTmZmQS12cGNyQnRLUUczWm85SlpBMU5ocTNWUklDREY2YXpYbXJkaU9uVzZJREM1di1rWmk4VjNjd0VTVVE5a1FaSjFJNUEzdWRlbUlfZUU?oc=5"
@@ -1373,6 +1348,11 @@
         "title": "Tools of the Aquaculture Trade: NOAA Releases New Gear Guide - NOAA Fisheries (.gov)",
         "summary": "Tools of the Aquaculture Trade: NOAA Releases New Gear Guide NOAA Fisheries (.gov)",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSEN3YXJMMmw0YjJrZU1Hc3FxcFZWR0tXYVN0NmtMTHhIVnlBdFdURnFiemhTS1BsQjgxSkJxSE05aFo1ZTlobFZXREFKZWVORnJZYkNyQkU1Y0FJYXhoQXZYWXVFMVdHR0RwYWhLUWZhb25ydmJjRVU5WThWSExBNjlSbTNxdDRfT2I2Q2ljNGF3QW5XNUdSd09SZmZsUQ?oc=5"
+    },
+    {
+        "title": "Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages - Nature",
+        "summary": "Multifidelity digital twin for real-time monitoring of structural dynamics in aquaculture net cages Nature",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hcnE0ZnNkT3hja0dva0VtbXAwVjVwRUlxTVhJUHhhcWJQNTQ0bXFzUHJVeXJzRkpxdFpOTjlhaENMWFV6YjV0dm5yRHJzT2hiSWkwVEZ2RHBaek1qNjJr?oc=5"
     },
     {
         "title": "Commission seeks feedback on the future of the fisheries and aquaculture sector - oceans-and-fisheries.ec.europa.eu",
@@ -1400,9 +1380,9 @@
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUNUdTNfeEFTdlZ0WDR2bU40Zy1GZWVfcHk1QmJtRUxwaE9ROUhEM3g2TkJpMXZfMi1UZFFlYWpWVWRUWnlVOVVmRVFkbXRaOW1aOFpGUVo5OGs1THN3aFlodUpCTE8tUHRmalV1VFZrSzducFBTT210cm4zR0NFRklZV3dLMWJfZks2MzBpa1VlanI4VlRydDNVTnJ6YkxreGpNSF9nTHJFMGNVaDRLY21jQms?oc=5"
     },
     {
-        "title": "Detail | International Year of the Woman Farmer (IYWF) 2026 - Food and Agriculture Organization",
-        "summary": "Detail | International Year of the Woman Farmer (IYWF) 2026 Food and Agriculture Organization",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTjNlc01PdFU2TEJ4QXZjMC1yVXZiaHBFMmRHUEtHak1nY2U3RDlhcnNhMi1hak4tYTgtbjROTEhUZ01qY0xUT0FYM01XRHNzY1RmVVJQemlsY1lORTdlM25vYkVQNUpXY3Vxcmt3alY2aGZNTS13Z3F5UWxDTUkwSWFDUWtlZTdMOEFtcXBibHpocE15ZmJjdVVEaFRyVXA5RmpMWll6OW4zRXQ1OVN3dURIZEQ1a0xGcU9hR3hlcUl2aFhkaUFqS28xUTI2QzRCeFlkM2pqQzhOX2JJMVBvV3F2LWFSdTJTOHVTMnR6RWNLR2w2WWtKTGFUWTREd3Jua29DOFlGTmNTUjA?oc=5"
+        "title": "Hundreds sign letter urging US lawmakers to oppose offshore aquaculture legislation - SeafoodSource",
+        "summary": "Hundreds sign letter urging US lawmakers to oppose offshore aquaculture legislation SeafoodSource",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRmx0blVvYS1FMzhXUzNUMkF4LTJBbUhzdnJtZEtFWWJxejNQQ1pPb29jVUNpa3A2a1g2QXItc2hneHhvNkNlREYzUVFmX2E2TV9jcWFpcENYTUMxYXJHUTRTUDBDakpoUjdXdG83WGx5cVdBOUVpMEdVVGV2RWZIbC1sU3lZVGdfRllXUW9TVTBPZnI0RDkySFJEZTQxX195LVk2WTdpS1hPMXlqVWJmOEQtamF4Vkc4NzF2NGhoNXI3T0traGVERmtR?oc=5"
     },
     {
         "title": "Scientists raise 300,000 surfclams offshore, proving open-ocean aquaculture can work - Phys.org",
@@ -1420,11 +1400,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbUxCMk8tLUY5Vm9ldGxSdTdXMHFuUU1PSHdQLTF3czZPbjZuUTgtSjBwbXF5bmMxTWhtX1F2bW82TktJLXExdzBxRl9SRktpNWtLSlBPTUwzSW5SM3UxTTd5eTNCLXh1MHdNWHRaeGtvQUR4UlowbEU0N29DRk1wSDMzTGNfcl85Zm9yb01BOHR2XzBndVlKeGVHT2JqRXFSR0E?oc=5"
     },
     {
-        "title": "The Gambia celebrates first farmed oyster harvest - Food and Agriculture Organization",
-        "summary": "The Gambia celebrates first farmed oyster harvest Food and Agriculture Organization",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42QTdQLWlKeHd2ci10Z1hHU25FZmZwdzJxM2xQcjFJNjVaVVM0SHd6N3VqSkVkUEliTVBMY2JVazl2c05kNW9JeC1tZDFLWU12aVhZ?oc=5"
-    },
-    {
         "title": "Grown by nature, guided by family: The Lubimar aquaculture story - oceans-and-fisheries.ec.europa.eu",
         "summary": "Grown by nature, guided by family: The Lubimar aquaculture story oceans-and-fisheries.ec.europa.eu",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlY0cW5ReUtJeFhMMjVaVkcydjFCejQ1SzhqUTFDaE51V21uaWVyS1VmbXBselBtamktMDhtb1FlSVF1NzVMenJ6ZEp3M2lxMHN5OFVPVXB4Y1VCMzRyWEdlTkJVN29qa2RxeTVjeUg1WkppYmZzSXZrRFlJLVAtY05Pb3BMbkR0YUVqYXFFM3lGQXd6RTg4Nk81MU4xc1NqbVhQUDhIc3JuaEdkWGVSLXRtcw?oc=5"
@@ -1440,11 +1415,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnFrRS1tUnVvRm9yVWhNMXNNMm9XMlAxZ0xSLXNsT3l6ZVVxdU5pdW1jUHF2N25HTUJjWmVjOU8xb1UyRHl5bjlPN2V2ZmYzckpTUXhDR0c5eThXaDFEbUljaEFndW4xUXlrbDJQdkRYZUZRSTU2ZWpqMUYxQ3pkN3JNVzZtNnE0QTNvY0d3?oc=5"
     },
     {
-        "title": "UMaine research compares most cost-effective methods for Atlantic sea scallop aquaculture - The University of Maine",
-        "summary": "UMaine research compares most cost-effective methods for Atlantic sea scallop aquaculture The University of Maine",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDlUdEoxc3RRNkdaUXVuRDU5NFc0V05qemtrMUpMYWl3OENUcUhMWFcxRmdTR2djZlVCeVh0R0FDQmV6WURkcGNBMkc2LS1CN2NDcVFBUk1IYXBBVGlDVkxhclVqcEZPREEtcVctemRZMXBWXy01ZW1KSXdNVkEzOE5ucDEyNkxTNWYyaEFzbWhFd25ucm15SmVNYjRxenVUaEU2WXltVS1sR2lTQ0VVcVMzcWxydUxqSHgyNnU1NA?oc=5"
-    },
-    {
         "title": "Reflections on my internship experience: Piloting data collection to empower sustainable aquaculture - NOAA (.gov)",
         "summary": "Reflections on my internship experience: Piloting data collection to empower sustainable aquaculture NOAA (.gov)",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWUVpWnoxamZoV3A3QzBXaTgtcnVHVFJUVldORUpUYlptOURQTHdFM0RJeHRVSExQNXpidGt4UlBoMV9MeU1JQkozdWQtWVdrVGVUU25zZ3ZPbEpyb3UyVzJHUVZzNDZuUjluRmdsMUIzS2VTdmV4OWQxbEI1eE8wQ1gzeXRxQWtySmp4MkprbjYtZW1JMk9rWWlsQnBDVTlWSVA2VjBPeWJHSDVhRjFCdTd4TlBkRTJoLWtFalBaMWotTWsyVV9SN3V5U3psejhoZDRCaVhXQ0I3NkVFM3lBTHd2RGJVRERsMmxJcEMzWkZwUEpFTTJibjVn?oc=5"
@@ -1453,6 +1423,11 @@
         "title": "Wildlife Fisheries and Aquaculture major Karolina Heathcock crowned Miss Mississippi State University - Mississippi State University",
         "summary": "Wildlife Fisheries and Aquaculture major Karolina Heathcock crowned Miss Mississippi State University Mississippi State University",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjg3ZDFRZHRDMTZ1UVJWOWhCckpHN3NiUGlRcnB3SlNzc05EeUxXUENnTHI3VE1YN2ZDWEswQ0R1cmZSbVNLZ2ozUDh2ZlQ4ZEZxM3kzVWVEUkk1NGtwSXFTUG1SLUUwUVF2eFJrQWZwYkp1REptVlhxWkhMQm14OFljaUFfSVozaFRoS2dfQkpEQ2Z2TlZFcDM4d1RPc21CNHFVRlBOWU83c0xkMDhJNUNJU2JIRmZfQl95Rw?oc=5"
+    },
+    {
+        "title": "When women succeed, communities thrive: stories from fisheries and aquaculture - Food and Agriculture Organization",
+        "summary": "When women succeed, communities thrive: stories from fisheries and aquaculture Food and Agriculture Organization",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZTE04ek1xc091RTNVNVpGN1ZNVEF1Y255Y2FYMTVMTkVjMnYzeFBsNUhSdVk5dkI0X0RvVmtEMEZCWlNPcGtGU1htcHgzZHNadkRmOEVoRGFtYldXTjlIUjRVUk53MFR5bEE?oc=5"
     },
     {
         "title": "Implementation Dialogue on EU aquaculture policy with Commissioner Costas Kadis - oceans-and-fisheries.ec.europa.eu",
@@ -1470,13 +1445,43 @@
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdUNvSnhwQ3FiZzNkbkFPR2J3aG9iREhhREYxZ0RINTd3UDg2dEItQ0Y5R0VrMlhwaHBuV0J3T0twWHhDbDR5SExzMkEwbUxiRG5jb1pnM2J1U2poZmV3YWFRZHJKcFhVTVdLSWk1M3E0bEhqVnk5Yy1ud1FvQVo0Mmp0TnVUWmhyN2YwRGcwQXB3a010Tld1N24yYTlLQ0l0Wjl0b3FyZF8yTFF1MTVQYTJZM1g4bXJUd1d3NkgzT0dtcEtWZHNXT3VTVjgyWFk1LUJSM0x3Y0dxX0p0MGkwRXhHSHc4QUNOenZzOVk3MXZLVTg?oc=5"
     },
     {
+        "title": "Questions and answers on the new 2028-2034 budget proposal – fisheries, aquaculture and ocean-related activities - oceans-and-fisheries.ec.europa.eu",
+        "summary": "Questions and answers on the new 2028-2034 budget proposal – fisheries, aquaculture and ocean-related activities oceans-and-fisheries.ec.europa.eu",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmhuQ2gxMUw5SmxtcG5TTWJWZ3lDTjlzUFY5N3g0QmRHb25iX2x2aXZwT2tDUE5YaFJVQUtESl9VeUpTNkU1WUcxSFpBMXpreThsMFBMOGhIdW5jeE5XNXZla3phS3RmRERDS2VpVjBpdjhnc3dtNG50NjFZM0J5UGpOZUE4YzR6TTdHSDBDQllwNGRDZm10TmNhM1lVTkFyWHU5R3FkQlF3ODg0U3oxLTJ5U3R4VVNDVkhUemJ1X1ZBWTA1bHhWRU1kRS11YVFGa3FQaE5jUlZHcGtXdnhYWnlGT21qeGs?oc=5"
+    },
+    {
         "title": "Aquaculture tech business scales up production with manufacturing partner - TheBusinessDesk.com",
         "summary": "Aquaculture tech business scales up production with manufacturing partner TheBusinessDesk.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeGtDSnVmY0lsQU9RWV9STnVYdldOTnhFRWhFRTZXWWMtWjVCdDdudzQ4SS1CajJUaE9VUG1leHVyZV9oakUwMmtjenNDbU9yNjVfY0ZXbDQyNGZhTk5paEZ3YV9QZEFmeVowRVJzQzAtQ0JKXzAxYjlmYUZweENWMV90Yi00RFFWWUtHbzRHbUc4aU9TQmp4bVQ4eUQ5U3ZTM3p5LTNXS0IxWXFMYmxZNEE1b3NVTk9zWk9rNFpscE5jRVBkYWxON1U3VQ?oc=5"
     },
     {
-        "title": "Questions and answers on the new 2028-2034 budget proposal – fisheries, aquaculture and ocean-related activities - oceans-and-fisheries.ec.europa.eu",
-        "summary": "Questions and answers on the new 2028-2034 budget proposal – fisheries, aquaculture and ocean-related activities oceans-and-fisheries.ec.europa.eu",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUmhuQ2gxMUw5SmxtcG5TTWJWZ3lDTjlzUFY5N3g0QmRHb25iX2x2aXZwT2tDUE5YaFJVQUtESl9VeUpTNkU1WUcxSFpBMXpreThsMFBMOGhIdW5jeE5XNXZla3phS3RmRERDS2VpVjBpdjhnc3dtNG50NjFZM0J5UGpOZUE4YzR6TTdHSDBDQllwNGRDZm10TmNhM1lVTkFyWHU5R3FkQlF3ODg0U3oxLTJ5U3R4VVNDVkhUemJ1X1ZBWTA1bHhWRU1kRS11YVFGa3FQaE5jUlZHcGtXdnhYWnlGT21qeGs?oc=5"
+        "title": "Aquaculture - Washington Department of Natural Resources (.gov)",
+        "summary": "Aquaculture Washington Department of Natural Resources (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BZ2xUUjJaenI5b3RNOTZLbDlQTGhvQVBRcXpYblJRR0I5YkYwRUtJQWdEdHJsS2xaLXVWeXlCekh6SXpBVEFmMlo4S1Q3WDJrRjd4a3RESUM3b29DblE?oc=5"
+    },
+    {
+        "title": "Harnessing the Waters: A Trillion Dollar Investment Opportunity in Sustainable Aquaculture - World Bank Group",
+        "summary": "Harnessing the Waters: A Trillion Dollar Investment Opportunity in Sustainable Aquaculture World Bank Group",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaFVCeXd1ZllWUFlkajhHQ3dncVQzNVNhRHlNS0ZOU1B2UWFUeUIzMEl3U3hTR09VRXVQYXFfY29MRXU0MXU4ZlBHdk8tZEstYmhCSVRHMFBtUE5xd01Ud1o4aUhReEV6VUNaeVhWTTZjRExCTkFoeHdRTEhiVmVybUFjRGQzX0xCNURHYktfcDZFdjFSRXdvTlBaQ1AzVWNXUXVyZVB0TQ?oc=5"
+    },
+    {
+        "title": "Technological Advances in Aquaculture - National Institute of Standards and Technology (.gov)",
+        "summary": "Technological Advances in Aquaculture National Institute of Standards and Technology (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aREFEdkR4ZDZLaTdtc2J5ajN4R0xTRFROMnZ5R0tFMW9yQVR4TGVwRXREZVF2eGcwbHZ0THJxaXFEUjVwam9WZEhrRVB1d3lKSVpIMVYyOTdCQWFqMmo1QlhZSHVkVDY3T1VNek9SVExLd2gwcU1BSlkxRGYxQQ?oc=5"
+    },
+    {
+        "title": "Public Hearing on Reducing Bureaucracy in Fisheries and Aquaculture | Hearings | Events | PECH | Committees - European Parliament",
+        "summary": "Public Hearing on Reducing Bureaucracy in Fisheries and Aquaculture | Hearings | Events | PECH | Committees European Parliament",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRVJaUjVOYWZ6RkVNNzNGN1N6bFUwa2F4YmRjZ1V4X19uNGlhbnFSMkpyN2dNRnlPTExQLVFZOXFwSFh6aElESVMtLVpoZGFGQ3B4ek5XZXp1OWk0d3l3SHBEbzhjWHdDd0didFVVR2ZORUNDSkE1aS0wZnhrZ0czam13LTdiSzk4MTZ5QzRjc285ZlA1ejdBT1lRSG5qb1NOYno4cnJmWlVwV0p2Y0NqTmZDM0ZvWmdqdEE?oc=5"
+    },
+    {
+        "title": "From Our Bays to Your Plate: Inside Delaware’s Shellfish Aquaculture Industry - Delaware.gov",
+        "summary": "From Our Bays to Your Plate: Inside Delaware’s Shellfish Aquaculture Industry Delaware.gov",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXlIWkJyM1d0SURJMVVWUVBpRnV3czlTYkV0bmlEYXIyazdzckl1VTFQbUZDX3FBVmhTaWVmcjBVcVhqLUdKdmRRR0t2VmY1VFNscDlKejg2cXk1dUZwQmkyZkNlWmp2S0tteDJ1WGpwVHFQaEtUMXc0dG5yWmh6TElQQnBwRUNWdnhybkNFRFlxWXl3NFk5Z1JiTzVNd2Y0bzk4Tm14YVNwNlN4U28ybmRGMHQtMWM3XzBEUw?oc=5"
+    },
+    {
+        "title": "FAO promotes partnerships for sustainable aquaculture development - Food and Agriculture Organization",
+        "summary": "FAO promotes partnerships for sustainable aquaculture development Food and Agriculture Organization",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYzJ5Sm1IYVl4dG1OWTBVT0NQN1FFZ3c5SlZXNlhiT05oOFJ3N21ObkpVc0QtRzdTdXloZjJKcHpUS3VYRkFLaEhLb0VMSGthb3JodFdWU0F4ZVJjbktKVW1wSW9MRWRoaE1nTDU2aWljVWltWXRhZjZnQmUxXy1udHE5dXNPYVdWNnFGbXF4aWk4Z0YtMG9HeGV3a2hoUFBncUFLeG1pdTZYRDk4X05yWTlKRFRsTFJuNG02cUJYY2Q2NE5NU3J1engzVG9zckxfaTVQZW41Q1NYd0tkODNVRUhUajJGUQ?oc=5"
     }
 ]
